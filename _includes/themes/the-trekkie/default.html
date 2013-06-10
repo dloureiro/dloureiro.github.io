@@ -13,8 +13,14 @@
 
       <!-- Le styles -->
       <link href="{{ ASSET_PATH }}/css/bootstrap.min.css" rel="stylesheet">
-      <link href="{{ ASSET_PATH }}/css/bootstrap-responsive.css" rel="stylesheet">
+      <link href="{{ ASSET_PATH }}/css/bootstrap-responsive.min.css" rel="stylesheet">
       <style type="text/css">
+      .tag_box {
+        display: inline-block;
+      }
+      .tag_box li{
+        display: inline;
+      }
       body {
         padding-top: 60px;
         padding-bottom: 40px;
@@ -65,25 +71,38 @@
           </div>
 
           <div class="span3">
-            <div class="well sidebar-nav">
-              <ul class="nav nav-list">
-                <li class="nav-header">Sidebar</li>
-                <li class="active"><a href="#">Link</a></li>
-                <li><a href="#">Link</a></li>
-                <li><a href="#">Link</a></li>
-                <li><a href="#">Link</a></li>
-                <li class="nav-header">Sidebar</li>
-                <li><a href="#">Link</a></li>
-                <li><a href="#">Link</a></li>
-                <li><a href="#">Link</a></li>
-                <li><a href="#">Link</a></li>
-                <li><a href="#">Link</a></li>
-                <li><a href="#">Link</a></li>
-                <li class="nav-header">Sidebar</li>
-                <li><a href="#">Link</a></li>
-                <li><a href="#">Link</a></li>
-                <li><a href="#">Link</a></li>
-              </ul>
+            <div class="well well-small row">
+              <div class="span12">
+                  <h2 class="widget-title">About Me</h2>
+                  <p>
+                    <img class="gravatar pull-left" src="http://www.gravatar.com/avatar/67c0e3daadbbced89f86e9ba7db0ecaa.png">
+
+                    Entrepreneur interested in Open Source, HPC, Cloud, SaaS, PaaS ... http://blog.sysfera.com  & http://about.me/david.loureiro
+                    <a class="more" href="/about.html">plus →</a>
+
+                <h2 class="widget-title">Categories</h2>
+                <ul>
+                  {% for category in site.categories %}
+                  <li><a href="/categories/{{category | first}}">{{category | first}} ({{category | last | size }})</a></li>
+                  {% endfor %}
+                </ul>
+                <h2>Recent Posts</h2>
+                <ul>
+                  {% for post in site.posts limit:10 %}
+                  <li>
+                    <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
+                  </li>
+                  {% endfor %}
+                </ul>
+                <h2>Archives</h2>
+                <ul>
+                  {% for monthly_archive in site.monthly_archives reversed %}
+                  <li>
+                    <a href="{{ site.baseurl }}/{{ monthly_archive.url }}">{{ monthly_archive.name }}</a> ({{ monthly_archive.posts | size }} posts)
+                  </li>
+                  {% endfor %}
+                </ul>
+              </div>
             </div><!--/.well -->
           </div><!--/span-->
 

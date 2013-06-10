@@ -17,9 +17,9 @@ tags:
 
 
 
-[caption id="attachment_31" align="aligncenter" width="300"][![Crédits : http://images.apple.com](http://www.testdriventrekkie.com/wp-content/uploads/2013/04/mac_osx_mountain_lion-300x179.png)](http://www.testdriventrekkie.com/wp-content/uploads/2013/04/mac_osx_mountain_lion.png) Crédits : http://images.apple.com[/caption]
+![Crédits : http://images.apple.com](http://www.testdriventrekkie.com/wp-content/uploads/2013/04/mac_osx_mountain_lion-300x179.png)
 
-Ma machine arrivait à bout de souffle et j'ai voulu lui redonner une jeunesse. Après un changement de disque dur et de l'ajout de mémoire, il a fallu réinstaller le système. Récit d'une opération finalement pus complexe que prévu! <!-- more -->
+Ma machine arrivait à bout de souffle et j'ai voulu lui redonner une jeunesse. Après un changement de disque dur et de l'ajout de mémoire, il a fallu réinstaller le système. Récit d'une opération finalement pus complexe que prévu! 
 
 Mon MacBook Pro de fin 2008 a subit différentes montées de version :
 
