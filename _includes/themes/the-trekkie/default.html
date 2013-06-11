@@ -71,37 +71,48 @@
           </div>
 
           <div class="span3">
-            <div class="well well-small row">
+            <div class="well well-small row-fluid">
               <div class="span12">
+                <div class="row-fluid">
                   <h2 class="widget-title">About Me</h2>
-                  <p>
+                  <div class="span3">
                     <img class="gravatar pull-left" src="http://www.gravatar.com/avatar/67c0e3daadbbced89f86e9ba7db0ecaa.png">
-
+                  </div>
+                  <div class="span9">
                     Entrepreneur interested in Open Source, HPC, Cloud, SaaS, PaaS ... http://blog.sysfera.com  & http://about.me/david.loureiro
                     <a class="more" href="/about.html">plus →</a>
-
-                <h2 class="widget-title">Categories</h2>
-                <ul>
-                  {% for category in site.categories %}
-                  <li><a href="/categories/{{category | first}}">{{category | first}} ({{category | last | size }})</a></li>
-                  {% endfor %}
-                </ul>
-                <h2>Recent Posts</h2>
-                <ul>
-                  {% for post in site.posts limit:10 %}
-                  <li>
-                    <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
-                  </li>
-                  {% endfor %}
-                </ul>
-                <h2>Archives</h2>
-                <ul>
-                  {% for monthly_archive in site.monthly_archives reversed %}
-                  <li>
-                    <a href="{{ site.baseurl }}/{{ monthly_archive.url }}">{{ monthly_archive.name }}</a> ({{ monthly_archive.posts | size }} posts)
-                  </li>
-                  {% endfor %}
-                </ul>
+                  </div>
+                </div>
+                <!-- Github badge -->
+                <!-- Twitter badge -->
+                <div class="row-fluid">
+                  <h2 class="widget-title">Categories</h2>
+                  <ul>
+                    {% for category in site.categories %}
+                    <li><a href="/categories/{{category | first}}">{{category | first}} ({{category | last | size }})</a></li>
+                    {% endfor %}
+                  </ul>
+                </div>
+                <div class="row-fluid">
+                  <h2>Recent Posts</h2>
+                  <ul>
+                    {% for post in site.posts limit:10 %}
+                    <li>
+                      <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
+                    </li>
+                    {% endfor %}
+                  </ul>
+                </div>
+                <div class="row-fluid">
+                  <h2>Archives</h2>
+                  <ul>
+                    {% for monthly_archive in site.monthly_archives reversed %}
+                    <li>
+                      <a href="{{ site.baseurl }}/{{ monthly_archive.url }}">{{ monthly_archive.name }}</a> ({{ monthly_archive.posts | size }} posts)
+                    </li>
+                    {% endfor %}
+                  </ul>
+                </div>
               </div>
             </div><!--/.well -->
           </div><!--/span-->
@@ -110,8 +121,7 @@
 
         <footer>
           <p>&copy; {{ site.author.name }} 2012
-            with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
-            and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+            avec l'aide de <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>, <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a> et le theme Cerulean de <a href="http://bootswatch.com">Bootswatch</a>
           </p>
         </footer>
 

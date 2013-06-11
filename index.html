@@ -11,17 +11,17 @@ title: Trekkie drivé par les tests et les expériences
       </h1>
       <div class="entry-content full-content">
         {{ post.content | truncatewords: 50 }}
-        <a href="{{ post.url }}" class="read_more">read more</a>
+        <a href="{{ post.url }}" class="read_more">lire la suite</a>
         <div class="clear"></div>
       </div>
       <p class="alt-font tight">
-        Posted in&nbsp;
+        Publié dans&nbsp;
         {% for category in post.categories %}
         <a href="/categories/{{ category }}" title="{{ category }}" rel="category tag">{{ category }}</a>
         {% endfor %}
       </p>
       <p class="comments-link">
-        <a href='{{post.url}}#disqus_thread'>Comments</a>
+        <a href='{{post.url}}#disqus_thread'>Commentaires</a>
       </p>
       <p class="by-line">
         <span class="date full-date">
