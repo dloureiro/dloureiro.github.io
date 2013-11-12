@@ -4,6 +4,7 @@ comments: true
 date: 2013-04-07 15:23:47+00:00
 layout: post
 lang: fr
+sharing: true
 slug: installation-de-mountain-lion-sur-un-nouveau-disque
 title: Installation de Mountain Lion sur un nouveau disque
 categories:

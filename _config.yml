@@ -117,10 +117,10 @@ JB :
   # Set 'provider' to false to turn sharing off globally.
   #
   sharing :
-    provider : twitter
+    provider : all
     twitter :
-      size :
-      via :
+      size : medium
+      via : DavidLoureiroFr
       count :
     facebook :
       appid : 205602882797935
