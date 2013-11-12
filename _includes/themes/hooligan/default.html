@@ -160,19 +160,32 @@
             <time>{{ post.date | date: "%e %B %Y" }}</time>
             {% endfor %}
           </div>
-        </div>
+        </div>-->
         <div class="row-fluid">
           <div class="span12 well">
-          <h2></h2>
+          <h2>Liens intéressants</h2>
           <ul>
-            {% for monthly_archive in site.monthly_archives reversed %}
             <li>
-              <a href="{{ site.baseurl }}/{{ monthly_archive.url }}">{{ monthly_archive.name }}</a> ({{ monthly_archive.posts | size }} posts)
+              <a href="https://github.com/dloureiro">Ma page Github</a>
             </li>
-            {% endfor %}
+            <li>
+              <a href="http://fr.linkedin.com/in/davidloureiro/">Mon profil LinkedIn</a>
+            </li>            
+            <li>
+              <a href="https://twitter.com/DavidLoureiroFr">Mon compte Twitter</a>
+            </li>
+            <li>
+              <a href="http://www.sysfera.com">SysFera</a>
+            </li>
+            <li>
+              <a href="http://blog.sysfera.com">Le blog de SysFera</a>
+            </li>            
+            <li>
+              <a href="http://www.podcastscience.fm">Podcastscience</a>
+            </li>          
           </ul>
           </div>
-        </div>-->
+        </div>
       </div>
     </div> <!-- row -->
     <footer class="row-fluid">
