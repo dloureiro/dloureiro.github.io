@@ -22,7 +22,12 @@
       </ul>
     </section>
     {% endunless %}  
-
+    {% unless site.JB.sharing.provider == empty %}
+    <section>
+      <h4 style="display:inline">Partage</h4>
+          {% include JB/sharing-providers/global %}
+    </section>
+    {% endunless %}
   </div>
 </div>
 
@@ -44,11 +49,6 @@
       {% endif %}
     </div>
     <hr/>
-    {% unless site.JB.sharing.provider == empty %}
-        <h4 style="display:inline">Partage</h4>
-          {% include JB/sharing-providers/global %}
-        <hr />
-    {% endunless %}
     {% unless site.JB.comments.provider == empty %}
         <h4>Commentaires</h4>
         <div class="post-comments">
