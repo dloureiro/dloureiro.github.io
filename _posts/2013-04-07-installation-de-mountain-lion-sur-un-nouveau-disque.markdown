@@ -3,6 +3,7 @@ author: David Loureiro
 comments: true
 date: 2013-04-07 15:23:47+00:00
 layout: post
+lang: fr
 slug: installation-de-mountain-lion-sur-un-nouveau-disque
 title: Installation de Mountain Lion sur un nouveau disque
 categories:
@@ -18,7 +19,7 @@ tags:
 <img style="background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px" src="http://testdriventrekkie.com/assets/images/mac_osx_mountain_lion-300x179.png" alt='Crédits : http://images.apple.com'/>
 </p>
 
-Ma machine arrivait à bout de souffle et j'ai voulu lui redonner une jeunesse. Après un changement de disque dur et de l'ajout de mémoire, il a fallu réinstaller le système. Récit d'une opération finalement pus complexe que prévu! 
+Ma machine arrivait à bout de souffle et j'ai voulu lui redonner une jeunesse. Après un changement de disque dur et de l'ajout de mémoire, il a fallu réinstaller le système. Récit d'une opération finalement plus complexe que prévu! 
 
 Mon MacBook Pro de fin 2008 a subit différentes montées de version :
 
