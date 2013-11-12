@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
   <meta charset="utf-8">
   <title>
@@ -146,9 +146,24 @@
           </ul>
           </div>
         </div>
+        <!--<div class="row-fluid">
+          <div class="span12 well">
+            <h2>Archives</h2>
+            {% for post in site.posts %}
+            {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
+            {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
+            {% if month != nmonth %}
+            {% if forloop.index != 1 %}</ul>{% endif %}
+            <h3>{{ post.date | date: '%B %Y' }}</h3><ul>
+            {% endif %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            <time>{{ post.date | date: "%e %B %Y" }}</time>
+            {% endfor %}
+          </div>
+        </div>
         <div class="row-fluid">
           <div class="span12 well">
-          <h2>Archives</h2>
+          <h2></h2>
           <ul>
             {% for monthly_archive in site.monthly_archives reversed %}
             <li>
@@ -157,7 +172,7 @@
             {% endfor %}
           </ul>
           </div>
-        </div>
+        </div>-->
       </div>
     </div> <!-- row -->
     <footer class="row-fluid">

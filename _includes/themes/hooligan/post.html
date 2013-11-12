@@ -3,7 +3,7 @@
 
     <section>
       <h4 style="display:inline">Publié le</h4>
-      <div class="date" style="display:inline"><span>{{ page.date | date_to_long_string }}</span></div>
+      <div class="date" style="display:inline"><span>{{ page.date | localize: ":short" }}</span></div>
     </section>
     {% if page.category %}
     <section>
