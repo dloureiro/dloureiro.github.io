@@ -37,15 +37,15 @@
     <hr>
     <div class="pagination btn-group">
       {% if page.previous %}
-      <a class="btn prev" href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a>
+      <a class="btn prev" href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Précédent</a>
       {% else %}
-      <a class="btn disabled prev">&larr; Previous</a>
+      <a class="btn disabled prev">&larr; Précédent</a>
       {% endif %}
-      <a class="btn" href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a>
+      <a class="btn" href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archives</a>
       {% if page.next %}
-      <a class="btn next" href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a>
+      <a class="btn next" href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Suivant &rarr;</a>
       {% else %}
-      <a class="btn next disabled">Next &rarr;</a>
+      <a class="btn next disabled">Suivant &rarr;</a>
       {% endif %}
     </div>
     <hr/>
