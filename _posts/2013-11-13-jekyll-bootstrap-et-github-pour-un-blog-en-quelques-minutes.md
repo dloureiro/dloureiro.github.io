@@ -24,7 +24,7 @@ social: "#Jekyll, #bootstrap et #Github pr un blog rapide!"
 </figure>
 </p>
 
-Pour mettre en place un site rapidement (ou un blog pour faire simple), l'expérience que j'ai me faire dire que l'on a trois gros points à regarder quand on souhaite faire cela sans trop se prendre la tête et en ayant quelque chose de simple :
+Pour mettre en place un site rapidement (ou un blog pour faire simple) il y a milles possibilités. L'expérience que j'ai me fait dire que l'on a trois gros points à regarder quand on souhaite faire cela sans trop se prendre la tête et en ayant quelque chose de simple :
 
  * Le moteur de blog
  * L'hébergeur
