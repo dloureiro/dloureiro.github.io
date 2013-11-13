@@ -104,6 +104,8 @@ Plutôt rapide à mettre en place, on se prend pas la tête, la lenteur est peut
 
 # Solution choisie
 
+[**Github !**](https://github.com/)
+
 En fait, quand j'ai découvert Jekyll, je me suis rendu compte que ce que Github pouvait fournir pour des pages de projet (avoir une page qui décrit un projet par exemple, sa doc, son utilisation, son installation, etc) via la branch ``gh-pages`` d'un repository, on pouvait l'avoir directement pour un utilisateur. Et comme ils hébergent directement Jekyll en interne, il suffit de pousser sur git ses modifications et elles sont prises en compte automatiquement !
 
 En fait dans ce cadre-là, Github sert de plate-forme de PaaS car finalement on en revient globalement aux mêmes fonctionnalités qu'un PaaS.
