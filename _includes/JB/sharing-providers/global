@@ -6,7 +6,7 @@
 <li class="gp" style="display:inline"><div class="g-plusone" data-size="{{ site.JB.sharing.googleplus.size }}" data-annotation="{{ site.JB.sharing.googleplus.annotation }}" data-width="{{ site.JB.sharing.googleplus.width }}"></div></li>
 
 <!-- Twitter -->
-<li class="tw" style="display:inline"><a href="https://twitter.com/share" data-text="{{page.title}}" class="twitter-share-button" data-via="DavidLoureiroFr" data-lang="fr" >Tweeter</a></li>
+<li class="tw" style="display:inline"><a href="https://twitter.com/share" data-text="{{page.social}}" class="twitter-share-button" data-via="DavidLoureiroFr" data-lang="fr" >Tweeter</a></li>
 
 <!-- Facebook -->
 <li class="fb" style="display:inline"><div class="fb-like" data-href="{{ post.url }}" data-layout="{{ site.JB.sharing.facebook.layout }}" data-action="like" data-show-faces="true" data-share="true"></div></li>
