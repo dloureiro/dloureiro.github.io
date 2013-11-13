@@ -14,6 +14,7 @@ comments: true
 date: 2013-11-13 17:16:00+01:00
 lang: fr
 sharing: true
+social: "#Jekyll, #bootstrap et #Github pr un blog rapide!"
 ---
 {% include JB/setup %}
 <p>
