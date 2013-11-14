@@ -2,6 +2,7 @@ require "rubygems"
 require 'rake'
 require 'yaml'
 require 'time'
+require 'tzinfo'
 
 SOURCE = "."
 CONFIG = {
@@ -52,6 +53,9 @@ task :post do
     puts "Error - date format must be YYYY-MM-DD, please check you typed it correctly!"
     exit -1
   end
+  offset_in_hours = sprintf("%g",(TZInfo::Timezone.get("Europe/Paris").current_period.offset.utc_total_offset).to_f / 3600.0)
+  postDate = Time.now.strftime('%Y-%m-%d %H:%M:%S+0')
+  postDate = "#{postDate}#{offset_in_hours}:00"
   filename = File.join(CONFIG['posts'], "#{date}-#{slug}.#{CONFIG['post_ext']}")
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
@@ -67,6 +71,7 @@ task :post do
     post.puts "- "
     post.puts "tags:"
     post.puts "- "
+    post.puts "date: #{postDate}"
     post.puts "lang: fr"
     post.puts "comments: true"
     post.puts "sharing: true"
