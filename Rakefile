@@ -71,8 +71,8 @@ task :post do
     post.puts "comments: true"
     post.puts "sharing: true"
     post.puts "author : David Loureiro"
-    post.puts "---"
     post.puts "social: \"#{title.gsub(/-/,' ')}\""
+    post.puts "---"
     post.puts "{% include JB/setup %}"
   end
 end # task :post
