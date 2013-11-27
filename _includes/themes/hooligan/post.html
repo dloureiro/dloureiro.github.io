@@ -28,6 +28,19 @@
           {% include JB/sharing-providers/global %}
     </section>
     {% endunless %}
+ <!--   <section>
+    <h4>Autres formats</h4>
+    <ul>
+    {% for format in site.pandoc.outputs %}
+    {% capture extension %}{{ format | first }}{% endcapture %}
+    <li>
+      <a href="{{ extension }}{{ page.url | remove:'.html' }}.{{ extension }}">
+        {{ extension }}
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+    </section>-->
   </div>
 </div>
 
