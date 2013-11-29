@@ -11,7 +11,7 @@ lang: fr
         <a href="{{ post.url }}" title="{{ post.title }}" rel="bookmark">{{ post.title }}</a>
       </h1>
       <div class="entry-content full-content">
-        {{ post.content | truncatewords: 50 }}
+        {{ post.preview }}
         <a href="{{ post.url }}" class="read_more">lire la suite</a>
         <div class="clear"></div>
       </div>
