@@ -146,21 +146,26 @@
           </ul>
           </div>
         </div>
-        <!--<div class="row-fluid">
+        <div class="row-fluid">
           <div class="span12 well">
             <h2>Archives</h2>
-            {% for post in site.posts %}
-            {% capture month %}{{ post.date | date: '%m%Y' }}{% endcapture %}
-            {% capture nmonth %}{{ post.next.date | date: '%m%Y' }}{% endcapture %}
-            {% if month != nmonth %}
-            {% if forloop.index != 1 %}</ul>{% endif %}
-            <h3>{{ post.date | date: '%B %Y' }}</h3><ul>
-            {% endif %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            <time>{{ post.date | date: "%e %B %Y" }}</time>
-            {% endfor %}
+              <ul>
+              {% for monthly_archive in site.monthly_archives reversed %}
+                <li><a href="/{{ monthly_archive.url }}">{{ monthly_archive.name }}</a> ({{ monthly_archive.posts | size }} posts)
+                  <ul>
+                  {% for d in (1..31) reversed %}
+                  {% if site.collated_posts[page.year][page.month][d] %}
+                  {% for p in site.collated_posts[page.year][page.month][d] reversed %}
+                    <li><a href='{{ p.url }}'>{{ p.title }}</a></li>
+                  {% endfor %}
+                  {% endif %}
+                  {% endfor %}
+                  </ul>
+                </li>
+              {% endfor %}
+              </ul>
           </div>
-        </div>-->
+        </div>
         <div class="row-fluid">
           <div class="span12 well">
           <h2>Liens intéressants</h2>
