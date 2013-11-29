@@ -40,7 +40,7 @@ git clean -fd >&/dev/null
 git reset --hard $SHA1 >&/dev/null
 
 # build website
-jekyll build -d /tmp/jekyll_build/
+ejekyll build -d /tmp/jekyll_build/
 
 # publish on github only if jekyll build was successful
 if [ $? -eq 0 ]; then
@@ -50,7 +50,7 @@ if [ $? -eq 0 ]; then
     publish_date=`date`
     git commit -m "updated site ${publish_date}"
     git remote set-url origin https://github.com/dloureiro/dloureiro.github.io.git
-    git remote add origin https://github.com/dloureiro/dloureiro.github.io.git
+    #git remote add origin https://github.com/dloureiro/dloureiro.github.io.git
     git push origin master --force
 
     echo "$(tput setaf 2)Successfully built and published to github...$(tput sgr0)"
