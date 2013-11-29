@@ -26,6 +26,8 @@ social: "Livre - L'univers des nombres : De l'Antiquité à Internet de H. Lehni
 
 Je ne sais plus à quelle occasion, sûrement lors d'un des épisodes de Podcastscience, j'ai entendu parlé du livre d'Hervé Lehning intitulé "L'univers des nombres : De l'Antiquité à Internet". M'étant remis à lire des livres papier, je me suis dit qu'un livre sur les mathématiques expliquant la genèse des idées, des concepts, etc devait sûrement être intéressant. Et bien je ne me suis pas trompé!
 
+<!-- *more* -->
+
 # Le livre
 
 Ce livre nous emmène tout au long de l'histoire pour découvrir comment les mathématiques ont été forgées, quelles ont été les étapes qui ont été prises, quels sont les chemins qui ont été parcourus et ceci sans qu'il ne soit nécessaire de posséder un bagage mathématique digne d'une classe préparatoire.

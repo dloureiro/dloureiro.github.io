@@ -27,6 +27,8 @@ social: "Retranscription de l'épisode #149 @podcastscience"
 
 Il y a trois mois je me suis mis à écouter des podcasts et notamment [podcastscience](http://www.podcastscience.fm/). Une des émissions était une interview et comme personne ne s'est proposé pour la retranscription, je m'en suis occupé!
 
+<!-- *more* -->
+
 Pour ceux qui ne connaîtrais pas podcastscience, il s'agit d'un podcast audio qui a pour but de faire aimer la science en présentant, chaque semaine, un dossier, une interview sur des thèmes scientifiques aussi variés que les [objets mathématiques](http://www.podcastscience.fm/emission/2013/06/21/podcast-science-136-lorigine-des-objets-mathematiques/) (l'un de mes préférés), la [bioéthique](http://www.podcastscience.fm/emission/2012/05/25/podcast-science-87-bioethique-1/) (il s'agit du premier épisode, il y en a deux), la [science de la créativité](http://www.podcastscience.fm/emission/2012/06/14/podcast-science-90-la-science-de-la-creativite/), le [nucléaire](http://www.podcastscience.fm/emission/2013/03/08/podcast-science-122-discussion-sur-le-nucleaire/), la [matière noire](http://www.podcastscience.fm/emission/2011/04/07/podcast-science-31-la-matiere-noire/) ou encore la [science de l'amour](http://www.podcastscience.fm/emission/2013/04/05/podcast-science-125-lamour-est-dans-la-pipette/) !
 
 Tout un programme !

@@ -27,6 +27,8 @@ social: "Utilisation de nom de domaine avec #Jekyll, #Github et #Gandi"
 
 Si vous souhaitez faire le choix de Jekyll et de Github pour monter un blog c'est bien. Si vous avez un nom de domaine chez Gandi et que vous voulez l'utiliser voici les étapes à suivre pour faire marcher tout ça ensemble !
 
+<!-- *more* -->
+
 **Remarque :** Les instructions qui sont données ici pour Gandi sont assez génériques et peuvent à priori être utilisées pour d'autres registars.
 
 # Côté Jekyll

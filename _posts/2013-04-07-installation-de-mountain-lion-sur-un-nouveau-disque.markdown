@@ -26,6 +26,8 @@ social: "Install de #MountainLion sur un nouveau disque"
 
 Ma machine arrivait à bout de souffle et j'ai voulu lui redonner une jeunesse. Après un changement de disque dur et de l'ajout de mémoire, il a fallu réinstaller le système. Récit d'une opération finalement plus complexe que prévu! 
 
+<!-- *more* -->
+
 Mon MacBook Pro de fin 2008 a subit différentes montées de version :
 
 * Migration depuis un G4

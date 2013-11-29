@@ -26,7 +26,9 @@ social: "À écouter absolument : @podcastscience, le balado qui fait aimer la #
 </figure>
 </p>
 
-Il y a quelques mois, un peu fatigué par les annonces toujours plus dramatiques de la radio, j'ai décidé de me mettre aux podcasts. M’intéressant à la science de manière générale et aux mathématiques et à la physique en particulier, j'ai cherché sur Itunes les podcasts qui pourraient être intéressants sur ces sujets, et dans un premier temps, francophone.
+Il y a quelques mois, un peu fatigué par les annonces toujours plus dramatiques de la radio, j'ai décidé de me mettre aux podcasts. M’intéressant à la science de manière générale et aux mathématiques et à la physique en particulier, j'ai cherché sur Itunes les podcasts qui pourraient être intéressants sur ces sujets, et dans un premier temps, francophone et j'ai découvert Podcastscience. 
+
+<!-- *more* -->
 
 Il y en a quelques uns qui sont ressortis : 
 

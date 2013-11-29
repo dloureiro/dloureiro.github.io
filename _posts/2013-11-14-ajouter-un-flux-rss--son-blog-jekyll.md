@@ -25,6 +25,8 @@ social: "Ajouter un flux #RSS à son blog #Jekyll"
 
 De base il n'y a pas de flux RSS avec une install de Jekyll bootstrap, voici comment y remédier !
 
+<!-- *more* -->
+
 Vous pouvez retrouver un fichier ``feed.xml`` qui peut servir de base sur le repository Github [snaptortoise/jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds).
 
 Ce fichier est tout prêt pour être utilisé sur une install de Jekyll de base. Je l'ai simplement adapté pour éviter d'avoir à ajouter dans le fichier de configuration des variables qui seraient en doublons de ce qui existe déjà.

@@ -30,6 +30,8 @@ Pour mettre en place un site rapidement (ou un blog pour faire simple) il y a mi
  * L'hébergeur
  * L'interfaçage entre les deux
 
+<!-- *more* -->
+
 # Le Besoin
 
 Mon besoin était le suivant : Il me fallait un moteur assez simple à utiliser pour ne pas avoir à dépendre d'une grande quantité de pré-requis, il fallait que la communauté soit suffisamment grande pour disposer de documentation et de plugins, il fallait aussi que je puisse disposer d'une infra sous-jacente simple à utiliser.
