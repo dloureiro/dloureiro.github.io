@@ -2,11 +2,16 @@
 #
 # script to build website and push it to github
 
+TMP_DIR=/tmp/jekyll_build
+TMP_SRC_DIR=/tmp/dloureiro.github.io
+GIT_URL=https\://github.com/dloureiro/dloureiro.github.io.git
+JEKYLL_CMD=ejekyll
+
 # signal handler
 function cleanup
 {
-    rm -rf /tmp/jekyll_build
-    rm -rf /tmp/dloureiro.github.io
+    rm -rf ${TMP_DIR}
+    rm -rf ${TMP_SRC_DIR}
     exit 0
 }
 
@@ -28,29 +33,28 @@ echo "$(tput setaf 2)Going to publish commit ${SHA1}. Press any key to continue.
 read
 
 # create a tmp dir into which jekyll will build the html source
-if [ -d "/tmp/jekyll_build" ]; then
-    rm -rf /tmp/jekyll_build
+if [ -d "${TMP_DIR}" ]; then
+    rm -rf ${TMP_DIR}
 fi
-mkdir /tmp/jekyll_build
+mkdir ${TMP_DIR}
 
 # get a clean copy of the repo(current directory) in /tmp
 cp -r $PWD /tmp/ >&/dev/null
-cd /tmp/dloureiro.github.io
+cd ${TMP_SRC_DIR}
 git clean -fd >&/dev/null
 git reset --hard $SHA1 >&/dev/null
 
 # build website
-ejekyll build -d /tmp/jekyll_build/
+${JEKYLL_CMD} build -d ${TMP_DIR}
 
 # publish on github only if jekyll build was successful
 if [ $? -eq 0 ]; then
-    cd /tmp/jekyll_build
+    cd ${TMP_DIR}
     git init
     git add .
     publish_date=`date`
     git commit -m "updated site ${publish_date}"
-    git remote set-url origin https://github.com/dloureiro/dloureiro.github.io.git
-    #git remote add origin https://github.com/dloureiro/dloureiro.github.io.git
+    git remote set-url origin ${GIT_URL}
     git push origin master --force
 
     echo "$(tput setaf 2)Successfully built and published to github...$(tput sgr0)"
