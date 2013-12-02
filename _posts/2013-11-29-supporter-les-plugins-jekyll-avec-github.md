@@ -13,7 +13,7 @@ lang: fr
 comments: true
 sharing: true
 author : David Loureiro
-social: "Supporter les plugins Jekyll avec Github"
+social: "Supporter les #plugins #Jekyll avec #Github"
 ---
 {% include JB/setup %}
 <p>
