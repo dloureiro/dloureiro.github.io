@@ -19,6 +19,7 @@ pandoc:
 #
 title : Test Driven Trekkie
 tagline: Un trekkie drivé par les tests et les expériences
+keywords: ["Test", "Trekkie", "Expériences", "Science", "HPC", "Cloud", "Dev", "Open Source", "Entrepreneur"]
 author :
   name : David Loureiro
   email : david.loureiro@sysfera.com
