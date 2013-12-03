@@ -18,6 +18,8 @@
 
   {% if page.date %}
   <meta http-equiv="date" content="{{page.date |date: '%A, %d  %Y %H:%M:%S GMT'}}" />
+  {% else %}
+  <meta http-equiv="date" content="{{site.time |date: '%A, %d  %Y %H:%M:%S GMT'}}" />
   {% endif %}
 
   {% if page.tags %}
