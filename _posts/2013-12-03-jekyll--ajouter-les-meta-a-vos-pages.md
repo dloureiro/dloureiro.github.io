@@ -35,6 +35,8 @@ De base dans le layout par défaut utiliser pour toutes les pages du thème hool
 
 Et puis c'est tout !
 
+Pour voir le résultat des modifications que j'ai apporté au layout de base  pour le thème hooligan que j'utilise sur ce site, vous pouvez vous rendre à l'adresse suivante : [https://github.com/dloureiro/dloureiro.github.io/blob/source/_includes/themes/hooligan/default.html](https://github.com/dloureiro/dloureiro.github.io/blob/source/_includes/themes/hooligan/default.html)
+
 # Quels sont les méta utiles et utilisables
 
 Pour infos, ces informations viennent du très bon billet chez paradigmatic : [Generating html meta data with Jekyll](http://paradigmatic.streum.org/2011/02/generating-html-meta-data-with-jekyll/).
