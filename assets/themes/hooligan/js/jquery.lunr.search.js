@@ -53,12 +53,6 @@
         this.ref('id');      
       });
     };
-    
-    // compile search results template
-    LunrSearch.prototype.compileTemplate = function($template) { 
-      compiledTemplate = Mustache.parse($template.text());  
-      return compiledTemplate;
-    };
         
     // load the search index data
     LunrSearch.prototype.loadIndexData = function(callback) {
@@ -109,6 +103,7 @@
     
     LunrSearch.prototype.search = function(query) {
       var entries = this.entries;
+      this.$regularContent.show();
       
       if (query.length <= 2) {
         this.$results.hide();
