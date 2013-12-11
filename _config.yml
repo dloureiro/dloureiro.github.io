@@ -9,6 +9,9 @@ pygments: true
 
 content_delimeter: "<!-- *more* -->"
 
+lunr_search:
+  excludes: [rss.xml, atom.xml, archive.html, categories.html, pages.html, search.html, tags.html, feed.xml]
+
 markdown: pandoc
 pandoc:
   format: html5
