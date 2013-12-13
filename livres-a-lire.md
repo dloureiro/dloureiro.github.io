@@ -14,14 +14,28 @@ Au fur et à mesure de mes lectures, je mettrais à jour la liste avec les revie
 
 Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques uns ...
 
+# Reviews faites
+
  * [*L'univers des nombres : de l'Antiquité à Internet* de H. Lehning](http://testdriventrekkie.com/livre/2013/11/27/livre---lunivers-des-nombres--de-lantiquit--internet-de-h-lehning)
  * [*À la recherche du Boson de Higgs* de C. Grojean, L. Vacavant](http://testdriventrekkie.com/livre/2013/12/04/livre---la-recherche-du-boson-de-higgs)
+
+# Lus mais pas encore de review
+
  * *La SF sous les feux de la science* de R. Lehoucq
+ * *Le cantique des quantiques* de S. Ortoli et JP. Pharabod
+
+# En cours de lecture
+
  * *Just Six Numbers: The Deep Forces That Shape the Universe* de M.J. Rees
  * *The Physics of Star Trek* de L. M. Krauss
- * *La théorie du chaos* de J. Gleick
  * *Désir d'infini* de T. Xuan Thuan
- * *Le cantique des quantiques* de S. Ortoli et JP. Pharabod
+
+# À lire
+
+ * *La théorie du chaos* de J. Gleick
+
+# À acheter
+
  * *Alterscience - Postures, dogmes, idéologies* de A. Moatti
  * *Le temps (qui passe?)* de E. Klein
  * *Qu'est ce que le vide?* de F. Close
