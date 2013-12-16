@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Créer simplement des archives de billets pour #Jekyll"
+title: "Créer simplement des archives de billets pour Jekyll"
 description: ""
 categories:
 - web
