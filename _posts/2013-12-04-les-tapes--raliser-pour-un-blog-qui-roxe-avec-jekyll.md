@@ -47,3 +47,5 @@ Voici la liste des tâches à réaliser pour avoir un blog sans prise de tête, 
  * Une pagination qui marche avec Jekyll
 
 Je mettrais à jour ce billet à chaque fois que j'ajouterais de nouvelles fonctionnalités à ce blog basé sur Jekyll.
+
+**[Mise à jour] - 17/12/2013 : ajout du billet sur les archives pour Jekyll ainsi que des futurs billets sur la recherche full-text et la pagination qui marche**
