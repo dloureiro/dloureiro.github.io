@@ -33,13 +33,18 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
 # À lire
 
  * *La théorie du chaos* de J. Gleick
+ * *Alterscience - Postures, dogmes, idéologies* de A. Moatti
+ * *Qu'est ce que le vide?* de F. Close
+ * *La réalité cachée : Les univers parallèles et les lois du cosmos* de B. Greene
 
 # À acheter
 
- * *Alterscience - Postures, dogmes, idéologies* de A. Moatti
+ * *Le laser : 50 ans de découvetes* de F. Bretenaker
+ * *Abominable Science - Origins of the Yeti, Nessie, and Other Famous Cryptids* de D. Loxton
+ * *A Manual for Creating Atheists* de M. Shermer
+ * *The Believing Brain: From Ghosts and Gods to Politics and Conspiracies - How We Construct Beliefs and Reinforce Them as Truths* de M. Shermer
  * *Le temps (qui passe?)* de E. Klein
- * *Qu'est ce que le vide?* de F. Close
- * *La réalité cachée : Les univers parallèles et les lois du cosmos* de B. Greene
+ * *Les mots du ciel* de D. Kunth
  * *Denialism: How Irrational Thinking Harms the Planet and Threatens Our Lives* de M. Specter
  * *La croyance au paranormal: Facteurs prédispositionnels et situationnels* de JM Abrassart
  * *Le mètre du monde* de D. Guedj
@@ -49,7 +54,7 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
  * *Statistiques : Méfiez-vous !* de N. Gauvrit
  * *Vous avez du hasard ? : Entre mathématiques et psychologie* de N. Gauvrit
  * *Trick or Treatment - The Undeniable Facts About Alternative Medicine* de E. Ernst
- * *Regards sur les textes fondateurs de la science : Volume1, De l'écriture au calcul - Théorie des nombres* de A. Moatti
+ * *Regards sur les textes fondateurs de la science : Volume 1, De l'écriture au calcul - Théorie des nombres* de A. Moatti
  * *Darwin et l'évolution expliqués à nos petits-enfants* de P. Picq
  * *L'Univers expliqué à mes petits-enfants* de H. Reeves
  * *Les extraterrestres expliqués à mes enfants* de R. Lehoucq
@@ -71,5 +76,6 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
  * *The Measure of All Things: The Seven-Year Odyssey and Hidden Error That Transformed the World* de K. Alder
  * *De l'inégalité parmi les sociétés* de J. Diamond
  * *When Prophecy Fails* de L. Festinger
+ * *En cherchant Majorana* de E. Klein
 
 Cette liste risque de grandir et ne jamais finir, mais ça fixe les idées :)
