@@ -42,6 +42,8 @@ Voici la liste des tâches à réaliser pour avoir un blog sans prise de tête, 
  * [Utilisez des plugins Jekyll sur Github sans prise de tête](http://testdriventrekkie.com/web/2013/11/29/supporter-les-plugins-jekyll-avec-github)
  * [Mise en place de flux rss pour Jekyll](http://testdriventrekkie.com/web/2013/12/03/jekyll-et-les-flux-rss)
  * [Mise en place de méta pour Jekyll](http://testdriventrekkie.com/web/2013/12/03/jekyll--ajouter-les-meta-a-vos-pages)
- * Archives annuelles, mensuelles et journalières avec Jekyll
+ * [Archives annuelles, mensuelles et journalières avec Jekyll](http://testdriventrekkie.com/web/2013/12/16/crer-simplement-des-archives-de-billets-avec-pour-jekyll)
+ * Mise en place de recherche full-text pour un blog Jekyll
+ * Une pagination qui marche avec Jekyll
 
 Je mettrais à jour ce billet à chaque fois que j'ajouterais de nouvelles fonctionnalités à ce blog basé sur Jekyll.
