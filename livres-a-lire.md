@@ -24,17 +24,17 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
  * *La SF sous les feux de la science* de R. Lehoucq
  * *Le cantique des quantiques* de S. Ortoli et JP. Pharabod
  * *Désir d'infini* de T. Xuan Thuan
+ * *The Physics of Star Trek* de L. M. Krauss
 
 # En cours de lecture
 
  * *Just Six Numbers: The Deep Forces That Shape the Universe* de M.J. Rees
- * *The Physics of Star Trek* de L. M. Krauss
-
-# À lire
-
  * *La théorie du chaos* de J. Gleick
  * *Alterscience - Postures, dogmes, idéologies* de A. Moatti
  * *Qu'est ce que le vide?* de F. Close
+
+# À lire
+
  * *La réalité cachée : Les univers parallèles et les lois du cosmos* de B. Greene
 
 # À acheter
