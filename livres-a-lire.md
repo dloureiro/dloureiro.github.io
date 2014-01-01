@@ -48,6 +48,11 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
 
 # À acheter
 
+ * *L'Univers élégant: Une révolution scientifique : de l'infiniment grand à l'infiniment petit, l'unification de toutes les théories de la physique* de B. Greene
+ * *Merveilleux nombres premiers - Voyages au coeur de l'arithmétique* de J.P. Delahaye
+ * *La philosophie des sciences au XXème siècle* de A. Barberousse
+ * *The Magic of Reality: How We Know What's Realy True* de R. Dawkins
+ * *Lorigine des espèces : Au moyen de la sélection naturelle ou la préservation des races favorisées dans la lutte pour la vie* de C. Darwin
  * *Le laser : 50 ans de découvetes* de F. Bretenaker
  * *Abominable Science - Origins of the Yeti, Nessie, and Other Famous Cryptids* de D. Loxton
  * *A Manual for Creating Atheists* de M. Shermer
