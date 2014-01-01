@@ -32,10 +32,18 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
  * *La théorie du chaos* de J. Gleick
  * *Alterscience - Postures, dogmes, idéologies* de A. Moatti
  * *Qu'est ce que le vide?* de F. Close
+ * *Star Trek, L'histoire non officielle de toute la saga intergalactique* de R. Greenberger
+ * *Les Lasers* de F. Hartman
+ * *Crossing the Chasm* de G. A. Moore
+ * *Comment mener les discussions difficiles* de S. Heen, B. Patton et D. Stone
+ * *Le Beau Livre de la Médecine* de C. A. Pickover
 
 # À lire
 
  * *La réalité cachée : Les univers parallèles et les lois du cosmos* de B. Greene
+ * *Les extraterrestres expliqués à mes enfants* de R. Lehoucq
+ * *D'où viennent les pouvoirs de Superman? Physique ordinaire d'un super-héros* de R. Lehoucq
+ * *The Innovator's Dilemma, The Revolutionary Book That Will change the Way You Do Business* de C. M. Christensen
 
 # À acheter
 
