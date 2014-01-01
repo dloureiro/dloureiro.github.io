@@ -37,6 +37,7 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
  * *Crossing the Chasm* de G. A. Moore
  * *Comment mener les discussions difficiles* de S. Heen, B. Patton et D. Stone
  * *Le Beau Livre de la Médecine* de C. A. Pickover
+ * *De l'origine des espèces* de C. Darwin
 
 # À lire
 
