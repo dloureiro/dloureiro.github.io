@@ -18,10 +18,10 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
 
  * [*L'univers des nombres : de l'Antiquité à Internet* de H. Lehning](http://testdriventrekkie.com/livre/2013/11/27/livre---lunivers-des-nombres--de-lantiquit--internet-de-h-lehning)
  * [*À la recherche du Boson de Higgs* de C. Grojean, L. Vacavant](http://testdriventrekkie.com/livre/2013/12/04/livre---la-recherche-du-boson-de-higgs)
+ * [*La SF sous les feux de la science*](http://testdriventrekkie.com/livre/2014/01/02/livre--la-sf-sous-les-feux-de-la-science) de R. Lehoucq
 
 # Lus mais pas encore de review
 
- * *La SF sous les feux de la science* de R. Lehoucq
  * *Le cantique des quantiques* de S. Ortoli et JP. Pharabod
  * *Désir d'infini* de T. Xuan Thuan
  * *The Physics of Star Trek* de L. M. Krauss
