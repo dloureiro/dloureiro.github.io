@@ -45,6 +45,8 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
  * *Les extraterrestres expliqués à mes enfants* de R. Lehoucq
  * *D'où viennent les pouvoirs de Superman? Physique ordinaire d'un super-héros* de R. Lehoucq
  * *The Innovator's Dilemma, The Revolutionary Book That Will change the Way You Do Business* de C. M. Christensen
+ * *Quand les Poules Auront des Dents (Réflexions Sur L'histoire Naturelle)* de S. J. Gould
+ * *Le laser : 50 ans de découvertes* de F. Bretenaker
 
 # À acheter
 
@@ -52,8 +54,7 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
  * *Merveilleux nombres premiers - Voyages au coeur de l'arithmétique* de J.P. Delahaye
  * *La philosophie des sciences au XXème siècle* de A. Barberousse
  * *The Magic of Reality: How We Know What's Realy True* de R. Dawkins
- * *Lorigine des espèces : Au moyen de la sélection naturelle ou la préservation des races favorisées dans la lutte pour la vie* de C. Darwin
- * *Le laser : 50 ans de découvetes* de F. Bretenaker
+ * *L'origine des espèces : Au moyen de la sélection naturelle ou la préservation des races favorisées dans la lutte pour la vie* de C. Darwin
  * *Abominable Science - Origins of the Yeti, Nessie, and Other Famous Cryptids* de D. Loxton
  * *A Manual for Creating Atheists* de M. Shermer
  * *The Believing Brain: From Ghosts and Gods to Politics and Conspiracies - How We Construct Beliefs and Reinforce Them as Truths* de M. Shermer
@@ -63,7 +64,6 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
  * *La croyance au paranormal: Facteurs prédispositionnels et situationnels* de JM Abrassart
  * *Le mètre du monde* de D. Guedj
  * *Le Gène égoïste* de R. Dawkins
- * *Quand les Poules Auront des Dents (Réflexions Sur L'histoire Naturelle)* de S. J. Gould
  * *Petit cours d'autodéfense intellectuelle* de N. Baillargeon
  * *Statistiques : Méfiez-vous !* de N. Gauvrit
  * *Vous avez du hasard ? : Entre mathématiques et psychologie* de N. Gauvrit
