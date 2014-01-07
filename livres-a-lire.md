@@ -16,8 +16,8 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
 
 # Reviews faites
 
- * [*L'univers des nombres : de l'Antiquité à Internet* de H. Lehning](http://testdriventrekkie.com/livre/2013/11/27/livre---lunivers-des-nombres--de-lantiquit--internet-de-h-lehning)
- * [*À la recherche du Boson de Higgs* de C. Grojean, L. Vacavant](http://testdriventrekkie.com/livre/2013/12/04/livre---la-recherche-du-boson-de-higgs)
+ * [*L'univers des nombres : de l'Antiquité à Internet*](http://testdriventrekkie.com/livre/2013/11/27/livre---lunivers-des-nombres--de-lantiquit--internet-de-h-lehning) de H. Lehning
+ * [*À la recherche du Boson de Higgs*](http://testdriventrekkie.com/livre/2013/12/04/livre---la-recherche-du-boson-de-higgs) de C. Grojean, L. Vacavant
  * [*La SF sous les feux de la science*](http://testdriventrekkie.com/livre/2014/01/02/livre--la-sf-sous-les-feux-de-la-science) de R. Lehoucq
 * [*Le cantique des quantiques*](http://testdriventrekkie.com/livre/2014/01/06/livre--le-cantique-des-quantiques) de S. Ortoli et JP. Pharabod
 
