@@ -25,6 +25,7 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
 
  * *Désir d'infini* de T. Xuan Thuan
  * *The Physics of Star Trek* de L. M. Krauss
+ * *Le laser : 50 ans de découvertes* de F. Bretenaker
 
 # En cours de lecture
 
@@ -46,7 +47,6 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
  * *D'où viennent les pouvoirs de Superman? Physique ordinaire d'un super-héros* de R. Lehoucq
  * *The Innovator's Dilemma, The Revolutionary Book That Will change the Way You Do Business* de C. M. Christensen
  * *Quand les Poules Auront des Dents (Réflexions Sur L'histoire Naturelle)* de S. J. Gould
- * *Le laser : 50 ans de découvertes* de F. Bretenaker
 
 # À acheter
 
