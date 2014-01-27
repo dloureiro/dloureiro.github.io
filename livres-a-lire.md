@@ -26,6 +26,8 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
  * *Désir d'infini* de T. Xuan Thuan
  * *The Physics of Star Trek* de L. M. Krauss
  * *Le laser : 50 ans de découvertes* de F. Bretenaker
+ * *Star Trek, L'histoire non officielle de toute la saga intergalactique* de R. Greenberger
+ * *Les extraterrestres expliqués à mes enfants* de R. Lehoucq
 
 # En cours de lecture
 
@@ -33,7 +35,6 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
  * *La théorie du chaos* de J. Gleick
  * *Alterscience - Postures, dogmes, idéologies* de A. Moatti
  * *Qu'est ce que le vide?* de F. Close
- * *Star Trek, L'histoire non officielle de toute la saga intergalactique* de R. Greenberger
  * *Les Lasers* de F. Hartman
  * *Crossing the Chasm* de G. A. Moore
  * *Comment mener les discussions difficiles* de S. Heen, B. Patton et D. Stone
@@ -43,7 +44,6 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
 # À lire
 
  * *La réalité cachée : Les univers parallèles et les lois du cosmos* de B. Greene
- * *Les extraterrestres expliqués à mes enfants* de R. Lehoucq
  * *D'où viennent les pouvoirs de Superman? Physique ordinaire d'un super-héros* de R. Lehoucq
  * *The Innovator's Dilemma, The Revolutionary Book That Will change the Way You Do Business* de C. M. Christensen
  * *Quand les Poules Auront des Dents (Réflexions Sur L'histoire Naturelle)* de S. J. Gould
