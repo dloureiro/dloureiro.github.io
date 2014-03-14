@@ -28,11 +28,14 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
  * *Le laser : 50 ans de découvertes* de F. Bretenaker
  * *Star Trek, L'histoire non officielle de toute la saga intergalactique* de R. Greenberger
  * *Les extraterrestres expliqués à mes enfants* de R. Lehoucq
+ * *La théorie du chaos* de J. Gleick
+ * *D'où viennent les pouvoirs de Superman? Physique ordinaire d'un super-héros* de R. Lehoucq
+ * *Soixante Nanoseconces* de E. Simon
+ * *L'impensable hasard* de N. Gisin
 
 # En cours de lecture
 
- * *Just Six Numbers: The Deep Forces That Shape the Universe* de M.J. Rees
- * *La théorie du chaos* de J. Gleick
+ * *Just Six Numbers: The Deep Forces That Shape the Universe* de M.J. Rees 
  * *Alterscience - Postures, dogmes, idéologies* de A. Moatti
  * *Qu'est ce que le vide?* de F. Close
  * *Les Lasers* de F. Hartman
@@ -44,7 +47,6 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
 # À lire
 
  * *La réalité cachée : Les univers parallèles et les lois du cosmos* de B. Greene
- * *D'où viennent les pouvoirs de Superman? Physique ordinaire d'un super-héros* de R. Lehoucq
  * *The Innovator's Dilemma, The Revolutionary Book That Will change the Way You Do Business* de C. M. Christensen
  * *Quand les Poules Auront des Dents (Réflexions Sur L'histoire Naturelle)* de S. J. Gould
 
@@ -71,12 +73,9 @@ Il n'y a pas d'ordre particulier dans cette liste, mais j'en ai déjà quelques 
  * *Regards sur les textes fondateurs de la science : Volume 1, De l'écriture au calcul - Théorie des nombres* de A. Moatti
  * *Darwin et l'évolution expliqués à nos petits-enfants* de P. Picq
  * *L'Univers expliqué à mes petits-enfants* de H. Reeves
- * *Les extraterrestres expliqués à mes enfants* de R. Lehoucq
- * *D'où viennent les pouvoirs de Superman ? Physique ordinaire d'un super-héros* de R. Lehoucq
  * *The Emperor's New Mind: Concerning Computers, Minds, and the Laws of Physics* de R. Penrose
  * *"Surely You're Joking, Mr Feynman" - Adventures of a Curious Character* de R. P. Feynman
  * *Discours sur l'origine de l'univers* d'E. Klein
- * *L'impensable hasard* de N. Gisin
  * *Petite Introduction à la théorie des cordes* de S. S. Gubser
  * *Trous noirs : La guerre des savants* de L. Susskind
  * *Lumière et matière - Une étrange histoire* de R. P. Feynman
