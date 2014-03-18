@@ -15,6 +15,9 @@ lunr_search:
 paginate: 5
 paginate_path: "page:num"
 
+goodreads:
+  key: 'hSusCwmMl0NvVUB1dTHRLA'
+  name: "27318268-david-loureiro"
 
 markdown: pandoc
 pandoc:
