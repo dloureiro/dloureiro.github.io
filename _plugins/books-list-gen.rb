@@ -10,34 +10,51 @@ end
 
 def contenuReview(key,name)
 
+	puts "Getting reviewed content ..."
+
 	client = Goodreads.new(:api_key => key)
 
 
 	output = "<h1 id='reviews-faites'>Reviews faites</h1>"
 	output +="<ul>"
-	shelf = client.shelf(name, "reviewed")
 
-	shelf.books.each do |book|
+	shelfEndFound = false
+	shelfPage = 1
 
-		bookContent = book.book
+	while !shelfEndFound do
 
-		blah = book.inspect
+		shelf = client.shelf(name, "reviewed", {:page => shelfPage})
 
-		bookId = bookContent.id
-		bookTitle = bookContent.title
-		authorId = bookContent.authors.author.id
+		shelfSize = shelf.end - shelf.start
 
-		author = client.author(authorId)
-		review = client.review(book.id)
+		shelf.books.each do |book|
 
-		review = review.body.strip
+			bookContent = book.book
 
-		if review != "" then
-			page = Nokogiri::HTML(review)
-			links = page.css("a")
-		
-			output += "<li><i><a href='"+ links[0]["href"]+ "'>#{bookTitle}</a></i> - <b>#{author.name}</b></li>"
+			blah = book.inspect
 
+			bookId = bookContent.id
+			bookTitle = bookContent.title
+			authorId = bookContent.authors.author.id
+
+			author = client.author(authorId)
+			review = client.review(book.id)
+
+			review = review.body.strip
+
+			if review != "" then
+				page = Nokogiri::HTML(review)
+				links = page.css("a")
+
+				output += "<li><i><a href='"+ links[0]["href"]+ "'>#{bookTitle}</a></i> - <b>#{author.name}</b></li>"
+
+			end
+		end
+
+		if shelf.end != shelf.total then 
+			shelfPage += 1
+		elsif shelf.end == shelf.total then
+			shelfEndFound = true
 		end
 	end
 
@@ -48,28 +65,45 @@ end
 
 def contenuSansReview(key,name)
 
+	puts "Getting not reviewed content ..."
+
 	client = Goodreads.new(:api_key => key)
 
 
 	output = "<h1 id='lus-mais-pas-encore-de-review'>Lus mais pas encore de review</h1>"
 	output += "<ul>"
-	shelf = client.shelf(name, "to-review")
-	
-	shelf.books.each do |book|
+	shelfEndFound = false
+	shelfPage = 1
 
-		bookContent = book.book
+	while !shelfEndFound do
 
-		blah = book.inspect
+		shelf = client.shelf(name, "to-review", {:page => shelfPage})
 
-		bookId = bookContent.id
-		bookTitle = bookContent.title
-		authorId = bookContent.authors.author.id
+		shelfSize = shelf.end - shelf.start
 
-		author = client.author(authorId)
-		
-		output += "<li><i>#{bookTitle}</i> - <b>#{author.name}</b></li>"
-		
-	end
+		shelf.books.each do |book|
+
+			bookContent = book.book
+
+			blah = book.inspect
+
+			bookId = bookContent.id
+			bookTitle = bookContent.title
+			authorId = bookContent.authors.author.id
+
+			author = client.author(authorId)
+
+			output += "<li><i>#{bookTitle}</i> - <b>#{author.name}</b></li>"
+
+		end
+
+		if shelf.end != shelf.total
+			shelfPage +=1
+		else
+			shelfEndFound = true
+		end
+
+	end 
 
 	output += "</ul>"
 	return output
@@ -78,27 +112,44 @@ end
 
 def contenuEnCours(key,name)
 
+	puts "Getting currrently reading content ..."
+
 	client = Goodreads.new(:api_key => key)
 
 
 	output = "<h1 id='en-cours-de-lecture'>En cours de lecture</h1>"
 	output += "<ul>"
-	shelf = client.shelf(name, "currently-reading")
-	
-	shelf.books.each do |book|
+	shelfEndFound = false
+	shelfPage = 1
 
-		bookContent = book.book
+	while !shelfEndFound do
 
-		blah = book.inspect
+		shelf = client.shelf(name, "currently-reading", {:page => shelfPage})
 
-		bookId = bookContent.id
-		bookTitle = bookContent.title
-		authorId = bookContent.authors.author.id
+		shelfSize = shelf.end - shelf.start
 
-		author = client.author(authorId)
-		
-		output += "<li><i>#{bookTitle}</i> - <b>#{author.name}</b></li>"
-		
+		shelf.books.each do |book|
+
+			bookContent = book.book
+
+			blah = book.inspect
+
+			bookId = bookContent.id
+			bookTitle = bookContent.title
+			authorId = bookContent.authors.author.id
+
+			author = client.author(authorId)
+
+			output += "<li><i>#{bookTitle}</i> - <b>#{author.name}</b></li>"
+
+		end
+
+		if shelf.end != shelf.total
+			shelfPage +=1
+		else
+			shelfEndFound = true
+		end
+
 	end
 
 	output += "</ul>"
@@ -108,27 +159,45 @@ end
 
 def contenuALire(key,name)
 
+	puts "Getting to read content ..."
+
 	client = Goodreads.new(:api_key => key)
 
 
 	output = "<h1 id='à-lire'>À lire</h1>"
 	output += "<ul>"
-	shelf = client.shelf(name, "to-read")
-	
-	shelf.books.each do |book|
 
-		bookContent = book.book
+	shelfEndFound = false
+	shelfPage = 1
 
-		blah = book.inspect
+	while !shelfEndFound do
 
-		bookId = bookContent.id
-		bookTitle = bookContent.title
-		authorId = bookContent.authors.author.id
+		shelf = client.shelf(name, "to-read", {:page => shelfPage})
 
-		author = client.author(authorId)
-		
-		output +="<li><i>#{bookTitle}</i> - <b>#{author.name}</b></li>"
-		
+		shelfSize = shelf.end - shelf.start
+
+		shelf.books.each do |book|
+
+			bookContent = book.book
+
+			blah = book.inspect
+
+			bookId = bookContent.id
+			bookTitle = bookContent.title
+			authorId = bookContent.authors.author.id
+
+			author = client.author(authorId)
+
+			output +="<li><i>#{bookTitle}</i> - <b>#{author.name}</b></li>"
+
+		end
+
+		if shelf.end != shelf.total
+			shelfPage +=1
+		else
+			shelfEndFound = true
+		end
+
 	end
 
 	output +="</ul>"
@@ -137,27 +206,45 @@ end
 
 def contenuAAcheter(key,name)
 
+	puts "Getting to buy content ..."
+
 	client = Goodreads.new(:api_key => key)
 
 
 	output="<h1 id='à-acheter'>À acheter</h1>"
 	output += "<ul>"
-	shelf = client.shelf(name, "to-buy")
-	
-	shelf.books.each do |book|
 
-		bookContent = book.book
+	shelfEndFound = false
+	shelfPage = 1
 
-		blah = book.inspect
+	while !shelfEndFound do
 
-		bookId = bookContent.id
-		bookTitle = bookContent.title
-		authorId = bookContent.authors.author.id
+		shelf = client.shelf(name, "to-buy", {:page => shelfPage})
 
-		author = client.author(authorId)
-		
-		output +="<li><i>#{bookTitle}</i> - <b>#{author.name}</b></li>"
-		
+		shelfSize = shelf.end - shelf.start
+
+		shelf.books.each do |book|
+
+			bookContent = book.book
+
+			blah = book.inspect
+
+			bookId = bookContent.id
+			bookTitle = bookContent.title
+			authorId = bookContent.authors.author.id
+
+			author = client.author(authorId)
+
+			output +="<li><i>#{bookTitle}</i> - <b>#{author.name}</b></li>"
+
+		end
+
+		if shelf.end != shelf.total
+			shelfPage +=1
+		else
+			shelfEndFound = true
+		end
+
 	end
 
 	output +="</ul>"
