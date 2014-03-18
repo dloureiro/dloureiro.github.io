@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Test Driven Trekkie</title>
+ <link href="http://testdriventrekkie.com/atom.xml" rel="self"/>
+ <link href="http://testdriventrekkie.com"/>
+ <updated>2014-03-18T11:45:49+01:00</updated>
+ <id>http://testdriventrekkie.com</id>
+ <author>
+   <name>David Loureiro</name>
+   <email>david.loureiro@sysfera.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Réponse au quiz de Podcastscience sur la transplantation fécale</title>
+   <link href="http://testdriventrekkie.com/web/2014/01/24/rponse-au-quiz-de-podcastscience-sur-la-transplantation-fcale"/>
+   <updated>2014-01-24T16:20:36+01:00</updated>
+   <id>http://testdriventrekkie.com/web/2014/01/24/rponse-au-quiz-de-podcastscience-sur-la-transplantation-fcale</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/podcastsciencelogo.png&quot; alt=&#39;Crédits : Podcastscience&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “Podcastscience”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Lors du dernier épisode Freestyle de Podcastscience, un nouveau quiz a été lancé : “On peut sauver des vies par simple transplantation de matière fécale. Info ou intox?”. Voici ma réponse, mais cachée. Saurez-vous la trouver ?&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;/assets/images/transplantation_fecale-output.png&quot; title=&quot;Ma réponse au dernier quiz de Podcastscience&quot; alt=&quot;Ma réponse au dernier quiz de Podcastscience&quot; /&gt;&lt;figcaption&gt;Ma réponse au dernier quiz de Podcastscience&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Crédit : &lt;a href=&quot;http://www.planetesante.ch/Mag-sante/Actu/La-transplantation-fecale&quot;&gt;http://www.planetesante.ch/Mag-sante/Actu/La-transplantation-fecale&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Histoire incompréhensible : Le renard amoureux de la poule</title>
+   <link href="http://testdriventrekkie.com/histoire/2014/01/22/histoire-incomprhensible--le-renard-amoureux-de-la-poule"/>
+   <updated>2014-01-22T20:29:13+01:00</updated>
+   <id>http://testdriventrekkie.com/histoire/2014/01/22/histoire-incomprhensible--le-renard-amoureux-de-la-poule</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; height:150px&quot; src=&quot;/assets/images/histoire-enfants.png&quot; alt=&#39;Crédits : http://www.mercipourlechocolat.fr/wp-content/uploads/2009/04/alphakid03.jpg&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://www.mercipourlechocolat.fr/wp-content/uploads/2009/04/alphakid03.jpg”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;La dernière histoire que j’ai lu à mon fils avant qu’il se couche m’a un peu laissé … perplexe. Je n’ai rien compris. Si jamais vous comprenez la chute, expliquez-moi !&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;h1 id=&quot;contexte&quot;&gt;Contexte&lt;/h1&gt;
+&lt;p&gt;Cette histoire est tirée du livre “365 Histoire pour les tout-petits” aux éditions Piccolia (ISBN : 978-2-7530-2506-6).&lt;/p&gt;
+&lt;p&gt;Lorsque l’histoire s’est fini … je me suis demandé si je ne m’étais pas trompé en la lisant. Une seconde lecture n’a pas levée l’incompréhension en moi. Si vous avez une idée, donnez-la moi !&lt;/p&gt;
+&lt;h1 id=&quot;lhistoire&quot;&gt;L’histoire&lt;/h1&gt;
+&lt;p&gt;C’était impossible, et pourtant, le renard était amoureux de Cacotte, c’est en tout cas ce qu’il prétendait.&lt;/p&gt;
+&lt;p&gt;“Comment un renard peut-il être amoureux de moi ?” se demandait-elle. D’habitude, les renards aiment surtout les poules rôties, à la broche, à la cocotte, au pot, en sauce ou grillées. Et ce n’est pas vraiment là ce qu’on appelle de l’amour. Mais malgré elle, Cacotte était troublée ; elle avait devant elle un jeune renard, au fin museau et aux grands yeux noisette, qui semblait tellement sincère.&lt;/p&gt;
+&lt;p&gt;“Mais enfin, comment pouvez-vous m’aimer ?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;J’aime votre beauté, vos plumes rousses et votre crête toute rose, et puis … vous êtes si dodue “, lui répondit le renard en rougissant.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Timide, le jeune renard cacha son museau sous sa queue en panache. Comme il ne cessait de lui faire la cour, Cacotte finit par le croire et présenta le jeune renard à ses parents effrayés et à ses amies terrorisées.&lt;/p&gt;
+&lt;p&gt;Ils décidèrent de se marier. Ce fut un étrange, mais magnifique mariage. Tout le monde était ravi, excepté la grand-mère de Cacotte qui lui caqueta à l’oreille : “Méfie-toi, un renard reste toujours un renard !”&lt;/p&gt;
+&lt;p&gt;Cacotte lui adressa un grand sourire avant de monter dans la voiture qui conduisait les jeunes mariés en oyage de noces en Pouldésie.&lt;/p&gt;
+&lt;p&gt;Quand elle revint, quelques semaines plus tard, Cacotte était seule. Son retour soulagea toute la bassecour, mais personne ne lui demanda ce qu’était devenu le renard. Depuis ce temps, en tout cas, on voit souvent Cacotte se rendre chez sa grand-mère, à chaque fois qu’elle a besoin d’un bon conseil …&lt;/p&gt;
+&lt;h1 id=&quot;les-explications-potentielles&quot;&gt;Les explications potentielles&lt;/h1&gt;
+&lt;p&gt;Bon … Voici les explications potentielles que j’ai trouvé :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Le renard est vraiment parti, et Cacotte va voir sa grand-mère parce que celle-ci l’avait prévenue. Bon par contre ça fait pas top comme morale : &lt;em&gt;Il faut écouter sa grand-mère parce qu’elles ont toujours raison&lt;/em&gt;. Assez bof comme morale.&lt;/li&gt;
+&lt;li&gt;Le renard est vraiment parti, et Cacotte va voir sa grand-mère parce que celle-ci l’avait prévenue que les mariages mixtes ça marche pas. C’est encore pire comme morale : &lt;em&gt;Je t’avais prévenu que ceux qui ne sont pas comme nous ne peuvent pas changer !&lt;/em&gt;. Racisme même entre les animaux.&lt;/li&gt;
+&lt;li&gt;Ou sinon, le renard en fait, ben il a bouffé la grand-mère parce qu’elle a embêté Cacotte et c’est pour ça que cette dernière va chez sa “grand-mère” régulièrement. Question d’hygiène. Ici la morale est assez bizarre quand même : “Débarrassez-vous des vieux, ils sont chiants. Et puis vivons heureux, vivons caché”.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si jamais vous avez une meilleure idée, je suis preneur !&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Livre : Le cantique des quantiques</title>
+   <link href="http://testdriventrekkie.com/livre/2014/01/06/livre--le-cantique-des-quantiques"/>
+   <updated>2014-01-06T14:00:00+01:00</updated>
+   <id>http://testdriventrekkie.com/livre/2014/01/06/livre--le-cantique-des-quantiques</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; height:150px&quot; src=&quot;/assets/images/Schrodingers_cat.png&quot; alt=&#39;Crédits : http://www.podcastscience.fm/wp-content/uploads/2011/11/Schrodingers_cat.png&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://www.podcastscience.fm/wp-content/uploads/2011/11/Schrodingers_cat.png”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;La physique quantique fait partie de ses choses que l’on sait à priori complexes voire incompréhensibles pour certains et qui se révèlent traiter d’un sujet qui heurte les intuitions courantes. Mais on peut comprendre ce qu’est la physique quantique et son impact profond sur le monde qui nous entoure grâce au livre “Le cantique des quantiques” de Sven Ortoli et Jean-Pierre Pharabod. Voici ce que j’en ai retenu.&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;h1 id=&quot;le-livre&quot;&gt;Le livre&lt;/h1&gt;
+&lt;p&gt;Le livre “Le cantique ds quantiques” n’est pas un livre tout récent (il date de 1984), mais le sujet qu’il traite, est lui du début du XXème siècle. Et quio qu’on en dise, toujours aussi complexe et peu compris du grand public. La physique quantique a en effet vu une grande partie de ses développements importants pendant la première moitié du siècle précédent.&lt;/p&gt;
+&lt;p&gt;Cet ouvrage de vulgarisation va ainsi reprendre les problèmes que la physique a rencontré et qui ont fait émerger cette physique si contre-intuitive et complexe à comprendre pour le béotien.&lt;/p&gt;
+&lt;p&gt;On apprendre ensuite à travers diverses métaphores, le principe de la théorie avec l’esentiel des phénomènes qu’elle est susceptible d’expliquer.&lt;/p&gt;
+&lt;p&gt;Les auteurs reviennent ensuite notamment sur un paradoxe énoncé notamment par Einstein, le paradoxe EPR à propos de la non-localité impliquant une transmission d’information plus rapide que la lumière entre deux particules dites intriquées et finalement expliqué par Alain Aspect plus tard.&lt;/p&gt;
+&lt;p&gt;Il nous font aussi d’autres expériences célèbres, notamment celle du chat de Schrödinger et celles de diffraction d’atomes.&lt;/p&gt;
+&lt;p&gt;Les auteurs nous emmènent ensuite sur un autre terrain que va impacter la physique quantique : celui de la philosophie. En effet, les différentes interprétations de la physique quantique changent totalement la vision que nous pouvons avoir du monde et peuvent nous faire poser des question comme : &lt;em&gt;Le monde existe-t-il ?&lt;/em&gt;, &lt;em&gt;Peut-on remonter le temps ?&lt;/em&gt;, &lt;em&gt;Existe-t-il des univers parallèles ?&lt;/em&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;les-auteurs&quot;&gt;Les auteurs&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Le cantique des quantiques&lt;/em&gt; a été écrit par deux personnes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sven Ortoli&lt;/strong&gt; : docteur en physique des solides, il est devenu journaliste scientifique et va notamment écrire pour &lt;em&gt;Science &amp;amp; Vie&lt;/em&gt;. Au sein de cette revue, il va se spécialiser dans la vulgarisation de la physique. Par la suite, il va créer “Science &amp;amp; Vie Junior” et dix ans plus tard “Science &amp;amp; Vie Découverte”. Ce travail de vulgarisation scientifique a notamment abouti à l’obtention du prix de Vulgarisation de l’Académie des Sciences pour &lt;em&gt;Science &amp;amp; Vie Junior&lt;/em&gt; en 1996. Il aura notamment publié différents ouvrages comme celui-ci ou encore “La baignoire d’Archimède : petite mythologie de la science” en 1996.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jean-Pierre Pharabod&lt;/strong&gt; : De formation d’ingénieur en télécommunication, son parcours l’amène à travailler pour EDF jusqu’en 1970 et ensuite pour le Laboratoire de Physique Nucléaire des hautes énergies de l’École Polytechnique qu’il quittera en 2000. Il est notamment l’auteur de cet ouvrage, mais aussi de “Le Rêve des physiciens” avec Bernard Pire en 1993 et de “AVNI - Les Armes Volantes Non Identifiées” en 2000.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Le cantique des quantiques&lt;/em&gt; est finalement un livre de vulgarisation très intéressant qui permet de comprendre une physique complexe sans entrer dans les équations et les mathématiques nécessaire à la théorie pour l’utiliser. Il aborde ainsi des expériences connues et les explique de manière simple et compréhensible.&lt;/p&gt;
+&lt;p&gt;En lisant ce livre on en vient aussi à découvrir que la physique quantique impacte complètement notre vision du monde, à travers ses implications philosophiques.&lt;/p&gt;
+&lt;p&gt;Ce livre est intéressant, même si un minimum de base sen physique s’avère nécessaire pour comprendre les concepts physiques expliqués et je trouve qu’il faut s’accrocher un peu pour arriver à bien comprendre toutes les interprétations quantiques faites par les différents courants de la mécanique quantique.&lt;/p&gt;
+&lt;p&gt;Un ouvrage finalement plutôt agréable à lire, et ceci de manière attentionnée pour arriver à comprendre ce qu’est la physique quantique et son impact sur la physique et la philosophie d’aujourd’hui.&lt;/p&gt;
+&lt;p style=&quot;display:block; background-color:white; margin-left:auto; margin-right:auto; width:300px&quot;&gt;
+&lt;img src=&quot;http://decitre.di-static.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/7/8/2/7/0/7/1/9782707128249FS.gif&quot; title=&quot;Le cantique des quantiques - Crédit Decitre&quot; alt=&quot;Le cantique des quantiques chez Decitre&quot; /&gt;
+&lt;/p&gt;
+
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Livre : La SF sous les feux de la science</title>
+   <link href="http://testdriventrekkie.com/livre/2014/01/02/livre--la-sf-sous-les-feux-de-la-science"/>
+   <updated>2014-01-02T15:30:00+01:00</updated>
+   <id>http://testdriventrekkie.com/livre/2014/01/02/livre--la-sf-sous-les-feux-de-la-science</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; height:150px&quot; src=&quot;/assets/images/Science-Fiction.png&quot; alt=&#39;Crédits : http://alias.codiferes.net/wordpress/wp-content/uploads/2011/08/Science-Fiction-720x340.jpg&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://alias.codiferes.net/wordpress/wp-content/uploads/2011/08/Science-Fiction-720x340.jpg”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Les auteurs de science-fiction sont parfois perçus comme des visionnaires, à développer des idées qui aujourd’hui sont vues comme farfelues mais demain peut-être seront communes. Roland Lehoucq fait le point dans “La SF sous les feux de la science” sur ces idées développées par la science-fiction et nous explique un peu ce que la science peut dire à leur propos. Petite review de ce livre super intéressant !&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;h1 id=&quot;le-livre&quot;&gt;Le livre&lt;/h1&gt;
+&lt;p&gt;Roland Lehoucq, astrophysicien au CEA de Saclay vient nous expliquer au sein de ce livre “La SF sous les feux de la science” ce qu’il en est des idées développées au sein des plus grands standards de la science-fiction.&lt;/p&gt;
+&lt;p&gt;Il aborde pêle-mêle différents sujets en partant des champs de force de Star Trek, des rayons de la mort, des sphères de Dyson ou encore ce qui rend l’homme invisible si invisible. Il les décortique pour expliquer de quoi il retourne, les technologies existantes et ce qu’il faudrait potentiellement pour en arriver à réaliser ces miracles !&lt;/p&gt;
+&lt;p&gt;C’est un livre intéressant qui n’a pas pour but de déconstruire les mythes de la SF, mais plutôt d’expliquer ce que la science a à en dire aujourd’hui et ce qu’il serait potentiellement possible avec nos connaissances actuelles pour les voir devenir réalité.&lt;/p&gt;
+&lt;h1 id=&quot;lauteur&quot;&gt;L’auteur&lt;/h1&gt;
+&lt;p&gt;Roland Lehouch est astrophysicien au CEA de Saclay. Il a écrit un certain nombre d’ouvrages de vulgarisation scientifique comme par exemple “Les extraterrestres expliqués à mes enfants” ou “d’où viennent les pouvoirs de Superman ? Physique ordinaire d’un super-héros” (qui sont d’ailleurs dans ma &lt;a href=&quot;livres-a-lire.html&quot;&gt;liste de lecture&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Et franchement, si vous voulez en apprendre un peu plus sur la science et la science-fiction de manière sympa, ses ouvrages sont pour vous !&lt;/p&gt;
+&lt;h1 id=&quot;la-conclusion&quot;&gt;La conclusion&lt;/h1&gt;
+&lt;p&gt;Un livre qui se dévore pour qui a un peu lu de la science fiction et que je conseille à qui voudrait un peu savoir ce que coûter d’avoir un rayon tracteur sur un vaisseau qui va à warp 5 !&lt;/p&gt;
+&lt;p&gt;J’ai beaucoup aimé le lire et pour en savoir un peu plus sur Star Trek et ce qu’en dit la science, j’ai lu “The Physics of Star Trek” de L.M. Krauss dont je ferais bientôt une review. Après tout un trekkie doit tout savoir sur Star Trek !&lt;/p&gt;
+&lt;p style=&quot;display:block; margin-left:auto; margin-right:auto; width:300px&quot;&gt;
+&lt;img src=&quot;http://www.laprocure.com/cache/couvertures/9782746506190.jpg&quot; title=&quot;La SF sous les feux de la science - Crédit La procure&quot; alt=&quot;La SF sous les feux de la science chez Laprocure&quot; /&gt;
+&lt;/p&gt;
+
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Episode #155 de podcastscience : Tu simules ?</title>
+   <link href="http://testdriventrekkie.com/science/2013/12/17/episode-155-de-podcastscience---tu-simules-"/>
+   <updated>2013-12-17T18:40:00+01:00</updated>
+   <id>http://testdriventrekkie.com/science/2013/12/17/episode-155-de-podcastscience---tu-simules-</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/podcastsciencelogo.png&quot; alt=&#39;Crédits : Podcastscience&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “Podcastscience”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;J’avais demandé aux animateurs de &lt;a href=&quot;www.podcastscience.fm&quot;&gt;podcastscience&lt;/a&gt; si ils pensaient faire un jour un épisode sur la simulation numérique, et comme ce n’était à priori pas le cas, je m’y suis collé ! L’épisode correspondant est passé sur podcastcience le jeudi 12 décembre 2013. Voici plus d’infos !&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;L’épisode est disponible sur le site de podcastscience : &lt;a href=&quot;http://www.podcastscience.fm/emission/2013/12/16/podcast-science-155-tu-simules/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=podcast-science-155-tu-simules&quot;&gt;Podcastscience 155 - Tu simules ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Le dossier correspondant est disponible aussi chez podcastscience : &lt;a href=&quot;http://www.podcastscience.fm/dossiers/2013/12/12/la-simulation-numerique-12/&quot;&gt;La simulation numérique 1/2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Et si vous vous intéressez aux sources, vous pouvez retrouver ça sur le repository github correspondant : &lt;a href=&quot;https://github.com/dloureiro/ps-simulation_numerique_1-2&quot;&gt;dloureiro/ps-simulation_numerique_1-2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En espérant que cela plaise et intéresse les auditeurs du podcast :)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Créer simplement des archives de billets pour Jekyll</title>
+   <link href="http://testdriventrekkie.com/web/2013/12/16/crer-simplement-des-archives-de-billets-avec-pour-jekyll"/>
+   <updated>2013-12-16T14:00:00+01:00</updated>
+   <id>http://testdriventrekkie.com/web/2013/12/16/crer-simplement-des-archives-de-billets-avec-pour-jekyll</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/jekyll_logo_white.png&quot; alt=&#39;Crédits : http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Des archives de billets des blog et une liste par date dans une colonne, sont des éléments de base pour un blog. Voici comment les mettre en place simplement.&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;h1 id=&quot;introduction-et-problème-à-traiter&quot;&gt;Introduction et problème à traiter&lt;/h1&gt;
+&lt;p&gt;J’ai parcouru un certain nombre de billets, de repository github ou de gist qui décrivent comment mettre en place des archives pour des blogs ou sites basés sur Jekyll.&lt;/p&gt;
+&lt;p&gt;La plupart se focalisent sur la partie “page d’archives”. Sauf que j’ai aussi le besoin de pouvoir lister, par mois par exemple, le nombre de billets et d’éventuellement rediriger vers les pages mensuelles d’archives.&lt;/p&gt;
+&lt;h1 id=&quot;la-solution&quot;&gt;La solution&lt;/h1&gt;
+&lt;p&gt;La solution que j’ai trouvé est basée sur celle qu’a mis en place Richard Huang et qu’il décrit sur son billet : &lt;a href=&quot;http://blog.huangzhimin.com/2011/01/20/migrate-custom-blog-to-jekyll-and-disqus/&quot;&gt;Migrate Custom Blog to Jekyll and Disqus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Elle est basée sur l’usage de &lt;a href=&quot;https://github.com/rfelix/jekyll_ext&quot;&gt;jekyll_ext&lt;/a&gt; qui est un ensemble d’extension pour jekyll permettant, apparemment, de le rendre plus flexible sans modifier la structure du code. En fait il s’agit avant tout d’un système d’injection de dépendances.&lt;/p&gt;
+&lt;p&gt;Le problème avec ça, c’est que ce n’est pas déployable chez github, il faut donc faire la compilation du blog chez soi et ensuite pousser la version compilée chez github. J’explique la manière de le faire sur le billet de blog suivant : &lt;a href=&quot;http://testdriventrekkie.com/web/2013/11/29/supporter-les-plugins-jekyll-avec-github/&quot;&gt;Supporter les plugins Jekyll avec Github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ainsi vous n’avez qu’à installer &lt;em&gt;jekyll_ext&lt;/em&gt; comme expliqué sur le repo correspondant et utiliser &lt;code&gt;ejekyll&lt;/code&gt; au lien de &lt;code&gt;jekyll&lt;/code&gt; pour tout ce qui touche à la compilation, etc.&lt;/p&gt;
+&lt;h2 id=&quot;la-section-darchive-dans-la-barre-latérale&quot;&gt;La section d’archive dans la barre latérale&lt;/h2&gt;
+&lt;p&gt;Il suffit d’ajouter le code suivant à votre &lt;code&gt;default.html&lt;/code&gt; :&lt;/p&gt;
+&lt;pre class=&quot;sourceCode html&quot;&gt;&lt;code class=&quot;sourceCode html&quot;&gt;
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;
+  {% for monthly_archive in site.monthly_archives reversed %}
+  &lt;span class=&quot;kw&quot;&gt;&amp;lt;li&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;kw&quot;&gt;&amp;lt;a&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt; href=&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;&amp;quot;{{ site.baseurl }}/{{ monthly_archive.url }}&amp;quot;&lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;&amp;gt;&lt;/span&gt;{{ monthly_archive.name }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt; ({{ monthly_archive.posts | size }} posts)
+  &lt;span class=&quot;kw&quot;&gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  {% endfor %}
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;la-page-darchive-pour-les-billets-de-lannée&quot;&gt;La page d’archive pour les billets de l’année&lt;/h2&gt;
+&lt;pre class=&quot;sourceCode html&quot;&gt;&lt;code class=&quot;sourceCode html&quot;&gt;
+---
+layout: page
+title: Archives
+---
+
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;{{ page.year }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+
+{% for m in (1..12) reversed %}
+  {% if site.collated_posts[page.year][m] %}
+    &lt;span class=&quot;kw&quot;&gt;&amp;lt;h3&amp;gt;&lt;/span&gt;{{ m | to_month }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/h3&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;kw&quot;&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;
+    {% for d in (1..31) reversed %}
+      {% if site.collated_posts[page.year][m][d] %}
+        {% for p in site.collated_posts[page.year][m][d] reversed %}
+          &lt;span class=&quot;kw&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt; href=&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;&amp;#39;{{ p.url }}&amp;#39;&lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;&amp;gt;&lt;/span&gt;{{ p.title }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+    &lt;span class=&quot;kw&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;
+  {% endif %}
+{% endfor %}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;la-page-darchive-pour-les-billets-dun-mois&quot;&gt;La page d’archive pour les billets d’un mois&lt;/h2&gt;
+&lt;pre class=&quot;sourceCode html&quot;&gt;&lt;code class=&quot;sourceCode html&quot;&gt;
+---
+layout: page
+title: Archives
+---
+
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;{{ page.month | to_month }} {{ page.year }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;
+  {% for d in (1..31) reversed %}
+    {% if site.collated_posts[page.year][page.month][d] %}
+      {% for p in site.collated_posts[page.year][page.month][d] reversed %}
+        &lt;span class=&quot;kw&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt; href=&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;&amp;#39;{{ p.url }}&amp;#39;&lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;&amp;gt;&lt;/span&gt;{{ p.title }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;la-page-darchive-pour-les-billets-dun-jour&quot;&gt;La page d’archive pour les billets d’un jour&lt;/h2&gt;
+&lt;pre class=&quot;sourceCode html&quot;&gt;&lt;code class=&quot;sourceCode html&quot;&gt;
+---
+layout: page
+title: Archives
+---
+ 
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;{{ page.month | to_month }} {{ page.day }}, {{ page.year }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;
+  {% for p in site.collated_posts[page.year][page.month][page.day] reversed %}
+    &lt;span class=&quot;kw&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt; href=&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;&amp;#39;{{ p.url }}&amp;#39;&lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;&amp;gt;&lt;/span&gt;{{ p.title }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  {% endfor %}
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;C’est donc finalement plutôt simple d’arriver à mettre en place des archives pour ses billets :)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ma liste de livres à lire</title>
+   <link href="http://testdriventrekkie.com/livre/2013/12/12/ma-liste-de-livres--lire"/>
+   <updated>2013-12-12T16:30:00+01:00</updated>
+   <id>http://testdriventrekkie.com/livre/2013/12/12/ma-liste-de-livres--lire</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/google-livres.jpg&quot; alt=&#39;Crédits : http://livres-jeunesse.wifeo.com/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://livres-jeunesse.wifeo.com/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Je me suis remis à lire des livres papier et j’ai mis en ligne la liste des ouvrages que je voudrais voir passer entre mes mains. L’idée est de faire une petite review une fois finie la lecture.&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;La liste est disponible sur sa page spécifique : &lt;a href=&quot;/livres-a-lire.html&quot;&gt;Ma liste de livres à lire&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Je la mettrais à jour si jamais de nouveaux livres arrivent ou quand je ferais des reviews.&lt;/p&gt;
+&lt;p&gt;Je suis preneur d’idées pour la faire grandir :)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Livre : À la recherche du boson de Higgs</title>
+   <link href="http://testdriventrekkie.com/livre/2013/12/04/livre---la-recherche-du-boson-de-higgs"/>
+   <updated>2013-12-04T12:23:06+01:00</updated>
+   <id>http://testdriventrekkie.com/livre/2013/12/04/livre---la-recherche-du-boson-de-higgs</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/higgs.jpg&quot; alt=&#39;Crédits : CERN/AFP http://www.metronews.fr/info/prix-nobel-de-physique-le-boson-de-higgs-prime/mmjh!kA3cv892wrip2/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : CERN/AFP http://www.metronews.fr/info/prix-nobel-de-physique-le-boson-de-higgs-prime/mmjh!kA3cv892wrip2/
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Si jamais vous souhaitez enfin savoir ce qu’est le Boson de Higgs, pourquoi tant de physiciens de part le monde travaillent sur la question et les enjeux derrière a découverte, “À la recherche du boson de Higgs” est le livre qu’il vous faut lire absolument!&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;Cela fait maintenant un peu plus d’un an que l’annonce de la découvert du boson de Higgs a été annoncée. On devrait d’ailleurs dire le boson de Brout-Englert-Higgs soit-dit en passant. Souhaitant en savoir un peu plus que les articles que je pouvais lire sur Futura-sciences, j’ai acheté un petit livre : “À la recherche du boson de Higgs” de Christophe Grojean, Laurent Vacavant.&lt;/p&gt;
+&lt;h1 id=&quot;le-livre&quot;&gt;Le livre&lt;/h1&gt;
+&lt;p&gt;Ce livre aggrège tout ce que l’on peut attendre d’un bon livre : il est court, il est facile à comprendre et il est pas cher ! Pour 3 euros, vous disposez d’une explication claire et simple à comprendre des tenants et des aboutissants de cette découverte.&lt;/p&gt;
+&lt;p&gt;On découvre ainsi dans ce livre le modèle standard, les forces, les particules, les bosons, et pourquoi il était nécessaire que ce boson existe afin que cet édifice de la physique moderne puisse exister.&lt;/p&gt;
+&lt;p&gt;On découvre ensuite ce qu’il a fallu faire pour en arriver à cette découverte, les accélérateurs de particule, le LHC et les détecteurs utilisés.&lt;/p&gt;
+&lt;p&gt;On arrive enfin sur les questions que cette particule va poser et celles qui resteront à se poser, voire celles qui apparaîtront peut-être&lt;/p&gt;
+&lt;p&gt;En tout cas un livre à ne pas manquer si vous vous intéressez à la physique, à la cosmologie, à la physique des particules, etc!&lt;/p&gt;
+&lt;h1 id=&quot;les-auteurs&quot;&gt;Les auteurs&lt;/h1&gt;
+&lt;p&gt;Pour reprendre la quatrième de couverture :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Théoricien, Christophe Grojean est spécialiste des particules élémentaires. Il vient de rejoindre comme professeur l’Institut de physique des hautes énergies à Barcelone. Laurent Vacavant est chercheur en physique expérimentale des particules et travaille sur l’expérience ATLAS au LHC. Il est actuellement directeur de recherche au Centre de physique des particules de Marseille.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;display:block; margin-left:auto; margin-right:auto; width:300px&quot;&gt;
+&lt;img src=&quot;http://www.unitheque.com/UploadFile/CouvertureA/9782290054000-recherche-boson-higgs_g.jpg&quot; title=&quot;À la recherche du boson de Higgs - Crédit unithèque&quot; alt=&quot;À la recherche du boson de Higgs - Unithèque&quot; /&gt;
+&lt;/p&gt;
+
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Les étapes à réaliser pour un blog qui roxe avec Jekyll</title>
+   <link href="http://testdriventrekkie.com/web/2013/12/04/les-tapes--raliser-pour-un-blog-qui-roxe-avec-jekyll"/>
+   <updated>2013-12-04T12:21:57+01:00</updated>
+   <id>http://testdriventrekkie.com/web/2013/12/04/les-tapes--raliser-pour-un-blog-qui-roxe-avec-jekyll</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/jekyll_logo_white.png&quot; alt=&#39;Crédits : http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Pour monter un blog simplement et sans prise de tête, Jekyll est une bonne base. Pour avoir un blog qui roxe, voici la liste des étapes à réaliser.&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;Jekyll est une base très intéressante pour monter un blog sans se prendre la tête avec les histoires de base de données, ou de version de PHP, ou même de langage serveur moins classique comme Ruby ou Python pour des blogs.&lt;/p&gt;
+&lt;p&gt;Voici la liste des tâches à réaliser pour avoir un blog sans prise de tête, simple à utiliser et qui roxe !&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://testdriventrekkie.com/web/2013/11/13/jekyll-bootstrap-et-github-pour-un-blog-en-quelques-minutes&quot;&gt;Utilisez une version de Jekyll responsive avec Jekyll-Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://testdriventrekkie.com/web/2013/11/14/utilisation-de-nom-de-domaine-avec-jekyll-github-et-gandi&quot;&gt;Hébergez votre site chez Github et utilisez un nom de domaine de chez Gandi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://testdriventrekkie.com/web/2013/11/29/supporter-les-plugins-jekyll-avec-github&quot;&gt;Utilisez des plugins Jekyll sur Github sans prise de tête&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://testdriventrekkie.com/web/2013/12/03/jekyll-et-les-flux-rss&quot;&gt;Mise en place de flux rss pour Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://testdriventrekkie.com/web/2013/12/03/jekyll--ajouter-les-meta-a-vos-pages&quot;&gt;Mise en place de méta pour Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://testdriventrekkie.com/web/2013/12/16/crer-simplement-des-archives-de-billets-avec-pour-jekyll&quot;&gt;Archives annuelles, mensuelles et journalières avec Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mise en place de recherche full-text pour un blog Jekyll&lt;/li&gt;
+&lt;li&gt;Une pagination qui marche avec Jekyll&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Je mettrais à jour ce billet à chaque fois que j’ajouterais de nouvelles fonctionnalités à ce blog basé sur Jekyll.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Mise à jour] - 17/12/2013 : ajout du billet sur les archives pour Jekyll ainsi que des futurs billets sur la recherche full-text et la pagination qui marche&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jekyll : Ajouter les meta a vos pages</title>
+   <link href="http://testdriventrekkie.com/web/2013/12/03/jekyll--ajouter-les-meta-a-vos-pages"/>
+   <updated>2013-12-03T21:53:24+01:00</updated>
+   <id>http://testdriventrekkie.com/web/2013/12/03/jekyll--ajouter-les-meta-a-vos-pages</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/jekyll_logo_white.png&quot; alt=&#39;Crédits : http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Le thème Jekyll-Bootstrap que j’utilise est plutôt léger concernant les méta qui peuvent servir à faire du SEO (Search Engine Optimization). Voici ce qu’il est possible de faire pour améliorer ça.&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;De base dans le layout par défaut utiliser pour toutes les pages du thème hooligan, il y a quelques éléments dans les méta :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;la description quand on est sur une page&lt;/li&gt;
+&lt;li&gt;l’auteur&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Et puis c’est tout !&lt;/p&gt;
+&lt;p&gt;Pour voir le résultat des modifications que j’ai apporté au layout de base pour le thème hooligan que j’utilise sur ce site, vous pouvez vous rendre à l’adresse suivante : &lt;a href=&quot;https://github.com/dloureiro/dloureiro.github.io/blob/source/_includes/themes/hooligan/default.html&quot;&gt;https://github.com/dloureiro/dloureiro.github.io/blob/source/_includes/themes/hooligan/default.html&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;quels-sont-les-méta-utiles-et-utilisables&quot;&gt;Quels sont les méta utiles et utilisables&lt;/h1&gt;
+&lt;p&gt;Pour infos, ces informations viennent du très bon billet chez paradigmatic : &lt;a href=&quot;http://paradigmatic.streum.org/2011/02/generating-html-meta-data-with-jekyll/&quot;&gt;Generating html meta data with Jekyll&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;En plus de l’auteur que l’on va conserver, voici les meta que l’on va définir :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;description&lt;/li&gt;
+&lt;li&gt;keywords&lt;/li&gt;
+&lt;li&gt;date&lt;/li&gt;
+&lt;li&gt;robots&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+&lt;p&gt;La description est une des valeurs meta utilisée par les moteurs de recherche. Cette valeur ne sert qu’à l’amélioration de l’affiche de votre site sur les pages de recherche. Elle n’améliore en rien le classement de vos pages.&lt;/p&gt;
+&lt;p&gt;voici ce que j’utilise :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;\{\%if page.title \%\}
+&amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;\{\{ site.title \}\} : \{\{page.title\}\}&amp;quot; /&amp;gt;
+\{\% else \%\}
+&amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;\{\{ site.title \}\} : \{\{site.tagline\}\}&amp;quot; /&amp;gt;
+\{\% endif \%\}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Remarque :&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Toutes les accolades et les pourcentages sont échappés dans le code afin d’éviter que Jekyll les interprète. Si vous souhaitez réutiliser le code présenté ici, je vous conseille directement d’aller voir le fichier cité plus haut qui contient les éléments décrits dans ces différentes sous-sections.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;L’idée est ici d’utiliser les données qui sont présentes dans le fichier de configuration de Jekyll (&lt;code&gt;title&lt;/code&gt; et &lt;code&gt;tagline&lt;/code&gt;) et le titre des pages sur lesquelles on va aller. À savoir que lors de l’affichage d’un billet (post), on a aussi dans la variable &lt;code&gt;page&lt;/code&gt; le titre du billet affiché.&lt;/p&gt;
+&lt;h2 id=&quot;keywords&quot;&gt;Keywords&lt;/h2&gt;
+&lt;p&gt;Les mots-clés ou keywords ont beaucoup été utilisés, et malheureusement parfois de manière abusives et maintenant ils ne sont plus vraiment utilisés par les moteurs de recherche pour le classement des pages. Cependant, pour l’analyse de contenu ils peuvent s’avérer utiles.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;\{\% if page.tags \%\}
+&amp;lt;meta name=&amp;quot;keywords&amp;quot; content=&amp;quot;\{\{page.categories | join: &amp;#39;,&amp;#39;\}\},\{\{page.tags | join: &amp;#39;,&amp;#39;\}\},\{\{site.keywords | join: &amp;#39;,&amp;#39;\}\}&amp;quot; /&amp;gt;
+\{\% elsif page.categories \%\}
+&amp;lt;meta name=&amp;quot;keywords&amp;quot; content=&amp;quot;\{\{page.categories | join: &amp;#39;,&amp;#39;\}\},\{\{site.keywords | join: &amp;#39;,&amp;#39;\}\}&amp;quot; /&amp;gt;
+\{\% else \%\}
+&amp;lt;meta name=&amp;quot;keywords&amp;quot; content=&amp;quot;\{\{site.keywords | join: &amp;#39;,&amp;#39;\}\}&amp;quot; /&amp;gt;
+\{\% endif \%\}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;L’idée ici est de se service des mots-clés qui seront définis au sein du fichier &lt;code&gt;_config.yml&lt;/code&gt; pour servir de base.&lt;/p&gt;
+&lt;p&gt;Ensuite, en fonction que l’endroit où l’on se trouve, on aura :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;si on se trouve sur un billet on aura les catégories, plus les tags et ensuite les mots-clés définis dans le fichier de configuration&lt;/li&gt;
+&lt;li&gt;si l’on se trouve sur une page on aura les catégories plus les mots-clés définis dans le fichier de configuration&lt;/li&gt;
+&lt;li&gt;si on se trouve sur une page sans catégorie, on aura les mots-clés globaux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;date&quot;&gt;Date&lt;/h2&gt;
+&lt;p&gt;Si vous voulez ajouter la date dans les meta, voici la façon que j’utilise :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;\{\% if page.date \%\}
+&amp;lt;meta http-equiv=&amp;quot;date&amp;quot; content=&amp;quot;\{\{page.date |date: &amp;#39;%A, %d  %Y %H:%M:%S GMT&amp;#39;\}\}&amp;quot; /&amp;gt;
+\{\% else \%\}
+&amp;lt;meta http-equiv=&amp;quot;date&amp;quot; content=&amp;quot;\{\{site.time |date: &amp;#39;%A, %d  %Y %H:%M:%S GMT&amp;#39;\}\}&amp;quot; /&amp;gt;
+\{\% endif \%\}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Ici, on va utiliser la date qui sera défini dans les pages (surtout dans les billets en fait) si jamais elle existe. Dans le cas contraire on utilise la variable que Jekyll définit de base &lt;code&gt;site.date&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;robots&quot;&gt;Robots&lt;/h2&gt;
+&lt;p&gt;Cette variable dit aux robots qui sont utilisés par les moteurs de recherche lors de l’indexation, si l’on souhaite effectivement que la page courante soit indexée ou si on souhaite par exemple suivre les liens présents dans les pages ou pas.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;meta name=&amp;quot;robots&amp;quot; content=&amp;quot;\{\{page.index\}\}INDEX,\{\{page.follow\}\}FOLLOW&amp;quot; /&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Ici par exemple, lorsque l’on défini dans les billets ou les pages les variables &lt;code&gt;index&lt;/code&gt;ou &lt;code&gt;follow&lt;/code&gt; à &lt;code&gt;NO&lt;/code&gt; cela va générer les meta &lt;code&gt;NOINDEX&lt;/code&gt; ou &lt;code&gt;NOFOLLOW&lt;/code&gt; respectivement.&lt;/p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Avec toutes ces infos vous pouvez facilement ajouter des meta à vos pages pour améliorer le SEO. C’est simple et ce serait dommage de s’en priver !&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jekyll et les flux rss</title>
+   <link href="http://testdriventrekkie.com/web/2013/12/03/jekyll-et-les-flux-rss"/>
+   <updated>2013-12-03T18:38:38+01:00</updated>
+   <id>http://testdriventrekkie.com/web/2013/12/03/jekyll-et-les-flux-rss</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/jekyll_logo_white.png&quot; alt=&#39;Crédits : http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Un des éléments qui manquait aux thèmes de Jekyll-Bootstrap que j’ai pu voir était le support des flux rss. Voici comment j’y ai remédié.&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;Si l’on souhaite faciliter le suivi des billets qui peuvent être écrits, les flux rss sont une façon simple, rapide et supportée un peu de partout.&lt;/p&gt;
+&lt;h1 id=&quot;flux-rss-des-billets&quot;&gt;Flux rss des billets&lt;/h1&gt;
+&lt;p&gt;Le thème Jekyll Bootstrap que j’utilise (&lt;a href=&quot;http://themes.jekyllbootstrap.com/preview/hooligan/&quot;&gt;hooligan&lt;/a&gt; pour ceux que ça intéresse) ne fournit rien (en fait si, un flux atom, mais qui n’était pas détecté par feedly en l’occurence) et je trouvais que cela manquait.&lt;/p&gt;
+&lt;p&gt;Tout cela a ainsi abouti à ce fichier qui permet la génération de flux rss pour le site : &lt;a href=&quot;https://raw.github.com/dloureiro/dloureiro.github.io/source/feed.xml&quot;&gt;https://raw.github.com/dloureiro/dloureiro.github.io/source/feed.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;J4ai en fait adapté ce qui est fourni par snaptortoise dans son dépôt &lt;a href=&quot;https://github.com/snaptortoise/jekyll-rss-feeds&quot;&gt;jekyll-rss-feeds&lt;/a&gt;. J’ai repris et adapté la version feed.xml pour ne pas avoir à ajouter de variables dans le fichier &lt;code&gt;_config.yml&lt;/code&gt; mais plutôt utiliser celles qui existent déjà.&lt;/p&gt;
+&lt;h1 id=&quot;flux-rss-des-commentaires&quot;&gt;Flux rss des commentaires&lt;/h1&gt;
+&lt;p&gt;Si comme moi vous utilisez &lt;a href=&quot;http://disqus.com/&quot;&gt;disqus&lt;/a&gt;, il vous est aussi possible de récupérer les commentaires qui ont été postés sur vos billets à travers un flux rss que vous pouvez afficher.&lt;/p&gt;
+&lt;p&gt;Voici l’url du flux rss pour les commentaires de ce site : &lt;a href=&quot;http://dloureirogithub.disqus.com/latest.rss&quot;&gt;http://dloureirogithub.disqus.com/latest.rss&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Pour vos propres besoins, vous n’avez qu’à modifier dloureirogithub par l’identifiant vous correspondant et c’est fini !&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Supporter les plugins Jekyll avec Github</title>
+   <link href="http://testdriventrekkie.com/web/2013/11/29/supporter-les-plugins-jekyll-avec-github"/>
+   <updated>2013-11-29T16:06:34+01:00</updated>
+   <id>http://testdriventrekkie.com/web/2013/11/29/supporter-les-plugins-jekyll-avec-github</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/jekyll_logo_white.png&quot; alt=&#39;Crédits : http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Dans la mise en place de ce site, j’ai fait le choix d’utiliser Github et son support de Jekyll. Mais Github apparemment n’utilise pas les plugins utilisés et encore moins les extensions … Comment faire pour pallier cela ? Voici une solution, tout du moins, celle que j’ai appliqué de mon côté.&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;h1 id=&quot;le-problème&quot;&gt;Le problème&lt;/h1&gt;
+&lt;p&gt;Dans le but d’ajouter des fonctionnalités, je me suis mis farfouiller le net pour trouver des plugins à Jekyll qui puisse le rendre plus sympa (comme par exemple l’internationalisation des chaînes de l’anglais vers le français).&lt;/p&gt;
+&lt;p&gt;Pour ceci j’ai notamment utilisé un plugin : &lt;code&gt;i18n_filters.rb&lt;/code&gt; trouvé sur le net. J’avais l’impression quand même que ça faisait pas totalement ce que je voulais, mais les dates n’étant plus sous format US, ça m’allait.&lt;/p&gt;
+&lt;p&gt;En fait, ça ne fonctionnait pas, mais je ne le savais pas.&lt;/p&gt;
+&lt;p&gt;Je m’en suis rendu effectivement compte quand j’ai voulu ajouté un billet et que le site ne se mettait pas à jour. J’ai quelques minutes après reçu un mail de github m’expliquant que la compilation du site ne fonctionnait pas.&lt;/p&gt;
+&lt;h1 id=&quot;les-recherches&quot;&gt;Les recherches&lt;/h1&gt;
+&lt;p&gt;J’ai, comme proposé sur Github, regardé les pages de l’aide associées à cette erreur (&lt;a href=&quot;https://help.github.com/articles/using-jekyll-with-pages#troubleshooting&quot;&gt;ici&lt;/a&gt; et &lt;a href=&quot;https://help.github.com/articles/pages-don-t-build-unable-to-run-jekyll&quot;&gt;là&lt;/a&gt;), et j’ai vu deux choses qui pouvaient s’appliquer:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Github compile avec l’option &lt;code&gt;--safe&lt;/code&gt; de Jekyll qui évite tous les plugins&lt;/li&gt;
+&lt;li&gt;Si on veut en savoir plus il faut utiliser par exemple travis-ci pour tester la compilation et comprendre d’où vient le problème.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;N’ayant pas vu de problème sur ma machine en compilation normalement avec jekyll et non plus avec &lt;code&gt;--safe&lt;/code&gt;, j’ai testé travis-ci.&lt;/p&gt;
+&lt;p&gt;Je vous passe la création du compte, le lien fait avec github et la configuration du repos pour être testé par travis (vous trouverez ces informations ici : &lt;a href=&quot;https://help.github.com/articles/pages-don-t-build-unable-to-run-jekyll#viewing-build-error-messages&quot;&gt;https://help.github.com/articles/pages-don-t-build-unable-to-run-jekyll#viewing-build-error-messages&lt;/a&gt;), je me suis rendu compte en pushant qu’il y avait un problème dans le plugin que j’avais ajouté pour la partie internationalisation : apparemment il manque une &lt;code&gt;gem&lt;/code&gt; chez github (i18n, éétonnamment).&lt;/p&gt;
+&lt;p&gt;Arrivé à cette étape, je me suis dit que c’était quand même bien dommage. Et j’ai cherché sur l’internet mondial quelles pouvaient être les parades. Je suis finalement tombé sur un billet de blog : &lt;a href=&quot;http://varunbpatil.github.io/2013/07/06/jekyll-build-fail/#.UpYfE2Tfwqt&quot;&gt;Jekyll : Handling Github page build failure and Jekyll plugins on Github&lt;/a&gt;. Le monsieur, Varun B. Patil, explique la manière qu’il a d’utiliser Jekyll avec des plugins en restant sur Github, et elle est on ne peut plus simple : compilation locale et push des fichiers statiques à distance.&lt;/p&gt;
+&lt;p&gt;Bon la je simplifie, mais l’idée est là.&lt;/p&gt;
+&lt;h1 id=&quot;la-solution&quot;&gt;La solution&lt;/h1&gt;
+&lt;p&gt;Le but est donc de maintenir deux branches au sein de votre repository :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;une branche, nommée &lt;code&gt;source&lt;/code&gt; par exemple qui contiendra les sources de votre site web&lt;/li&gt;
+&lt;li&gt;une branche, la &lt;code&gt;master&lt;/code&gt; qui hébergera la version compilée de votre site&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;L’idée est ainsi de faire toutes les modifications que vous souhaitez dans la branche source, commiter, pusher ces modifications sur la branche correspondante, et une fois que ce sera ok pour voir (avec une installation locale de jekyll), vous pourrez compiler vers une version statique que vous pousserez de force sur la branche master.&lt;/p&gt;
+&lt;p&gt;Outre le support de plugins, cette méthodologie est aussi utilisable si vous souhaitez utiliser &lt;code&gt;jekyll_ext&lt;/code&gt; comme je le fais par exemple pour étendre les fonctionnalités possibles.&lt;/p&gt;
+&lt;p&gt;Cette méthode permet aussi aux hackers qui souhaitent se former à Ruby et développer des plugins qui dépendraient de gems spécifiques.&lt;/p&gt;
+&lt;h1 id=&quot;la-méthode&quot;&gt;La méthode&lt;/h1&gt;
+&lt;h2 id=&quot;branches&quot;&gt;Branches&lt;/h2&gt;
+&lt;p&gt;Dans un premier temps, il est nécessaire de créer la branche qui hébergera les sources de votre site. Pour l’instant cela doit être la branche &lt;code&gt;master&lt;/code&gt;. Nous devons donc créer une branche qui soit la copie de la branche master. Nous pourrons la nommer &lt;code&gt;source&lt;/code&gt; ou quoi que ce soit d’autres, c’est vous qui voyez.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ git checkout -b source master&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Une fois que cette branche est créée, vous pouvez la pousser sur votre repository.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ git push -u origin source&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Vous devriez à présenter voir deux branches sur votre repository (la master et la nouvelle que vous venez de créer).&lt;/p&gt;
+&lt;h2 id=&quot;les-apparences&quot;&gt;Les apparences&lt;/h2&gt;
+&lt;p&gt;Si je dis les apparences, c’est que cette étape est purement cosmétique. L’idée est en fait de changer la branche affichée par défaut par Github.&lt;/p&gt;
+&lt;p&gt;En vous rendant dans les paramètres de votre dépôt sur le site de Github, vous pouvez changer la branche qui sera affichée par défaut pour votre dépôt. L’idée est juste que les personnes arrivant sur votre site ne voient pas la version compilée de votre site, mais les sources. L’idée est aussi que lorsqu’une personne clonera votre repository, elle récupérera les sources et pas la version compilée.&lt;/p&gt;
+&lt;p&gt;Moi je l’ai fait, vous faites comme vous voulez :).&lt;/p&gt;
+&lt;h2 id=&quot;compilation-et-push-vers-la-master&quot;&gt;Compilation et Push vers la master&lt;/h2&gt;
+&lt;p&gt;Compiler en local avec jekyll est plutôt simple. Pusher la sortie vers la branch master est simple.&lt;/p&gt;
+&lt;p&gt;L’idée est juste de ne pas trop perdre de temps à chaque fois que l’on souhaite juste corriger une typo sur le site …&lt;/p&gt;
+&lt;p&gt;Ainsi, basé sur le script proposé par Varun B. Patil, j’ai mis en place un autre qui marche pour moi :)&lt;/p&gt;
+&lt;p&gt;Vous pourrez trouver le fameux script à l’adresse suivante : &lt;a href=&quot;https://github.com/dloureiro/dloureiro.github.io/raw/source/publish.sh&quot;&gt;https://github.com/dloureiro/dloureiro.github.io/raw/source/publish.sh&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Vous n’avez qu’à ajouter ce script à votre dépôt contenant les sources du site web pour toujours avoir avec vous votre script qui pousse votre site compilé comme il faut.&lt;/p&gt;
+&lt;p&gt;Afin de simplifier son usage, j’ai ajouté des variables en tête du script qui permette de définir :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;TMP_DIR&lt;/code&gt; : un dossier temporaire où va se faire la compilation&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;TMP_SRC_DIR&lt;/code&gt; : un dossier dans lequel va être placée une version clean des sources&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;GIT_URL&lt;/code&gt; : l’URL du repository git où va être poussée la version compilée du site&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;JEKYLL_CMD&lt;/code&gt; : la commande utilisée pour compiler le site&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Vous n’avez qu’à adapter ce script à vos besoin et pousser la nouvelle version de votre site web sera aussi simple que ça :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ cd &amp;lt;your_local_clone_of_github_repo&amp;gt;
+$ ./publish.sh&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Vous pouvez maintenant utiliser Jekyll avec les plugins et extensions les plus siouxes qu’il existe sans problèmes !&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Livre   L'univers des nombres : De l'Antiquité à Internet de H. Lehning</title>
+   <link href="http://testdriventrekkie.com/livre/2013/11/27/livre---lunivers-des-nombres--de-lantiquit--internet-de-h-lehning"/>
+   <updated>2013-11-27T18:17:38+01:00</updated>
+   <id>http://testdriventrekkie.com/livre/2013/11/27/livre---lunivers-des-nombres--de-lantiquit--internet-de-h-lehning</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;/assets/images/nombres.jpg&quot; alt=&#39;Crédits : http://www.jeuxetcompagnie.fr/jeu-de-nombres-la-tete-sur-les-epaules/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://www.jeuxetcompagnie.fr/jeu-de-nombres-la-tete-sur-les-epaules/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Je ne sais plus à quelle occasion, sûrement lors d’un des épisodes de Podcastscience, j’ai entendu parlé du livre d’Hervé Lehning intitulé “L’univers des nombres : De l’Antiquité à Internet”. M’étant remis à lire des livres papier, je me suis dit qu’un livre sur les mathématiques expliquant la genèse des idées, des concepts, etc devait sûrement être intéressant. Et bien je ne me suis pas trompé!&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;h1 id=&quot;le-livre&quot;&gt;Le livre&lt;/h1&gt;
+&lt;p&gt;Ce livre nous emmène tout au long de l’histoire pour découvrir comment les mathématiques ont été forgées, quelles ont été les étapes qui ont été prises, quels sont les chemins qui ont été parcourus et ceci sans qu’il ne soit nécessaire de posséder un bagage mathématique digne d’une classe préparatoire.&lt;/p&gt;
+&lt;p&gt;L’auteur nous fait ainsi découvrir pêle-même différentes choses que l’on ne sait pas forcément sur les nombres:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Comment l’écriture positionnelle des nombres est née&lt;/li&gt;
+&lt;li&gt;Quels ont été les systèmes de numération qui ont été utilisés pour en arriver au chiffres arabes (un peu indiens aussi)&lt;/li&gt;
+&lt;li&gt;Comment les grecs ont développés des mathématiques basés sur la règle et le compas&lt;/li&gt;
+&lt;li&gt;Plus tard on découvre aussi comment les nombres ont évolué d’entiers à rationnels, réels et complexes&lt;/li&gt;
+&lt;li&gt;On en apprend plus aussi sur la mystique autour des nombres, comment certains les utilisaient pour expliquer le monde qui les entourait : terre, air, eau, feu, etc&lt;/li&gt;
+&lt;li&gt;Comment certains nombres sont devenus emblématiques et parfois ont été utilisés abusivement (notamment le nombre d’or)&lt;/li&gt;
+&lt;li&gt;On découvre l’évolution des mathématiques avec notamment les problèmes d’infinis, comment ils sont apparus et comment ils ont été domptés&lt;/li&gt;
+&lt;li&gt;On apprend enfin le tort qu’il peut être fait avec les mathématiques notamment dans un usage détourné avec les statistiques&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Un livre en tout cas riche d’enseignement, facile et agréable à lire, avec en prime des exercices sympathiques qui jalonnent le livre et qui peuvent y faire s’intéresser certains qui n’auraient pas cru que l’on pouvait s’amuser avec les mathématiques :)&lt;/p&gt;
+&lt;h1 id=&quot;lauteur&quot;&gt;L’auteur&lt;/h1&gt;
+&lt;p&gt;Hervé Lehning possède un cursus scientifique de qualité, élève de Normale Sup’ possédant une maîtrise d’histoire des religions, il a notamment travaillé dans l’enseignement et l’informatique.&lt;/p&gt;
+&lt;p&gt;Grand vulgarisateur il a participé à &lt;em&gt;Tangente&lt;/em&gt;, un magazine sur les mathématiques, à travers divers articles sur des thèmes aussi variés que la cryptographie, la guerre, la théorie des jeux et encore bien d’autres.&lt;/p&gt;
+&lt;p&gt;Parmi ses ouvrages on retrouve bien sûr celui en question dans ce billet, mais aussi &lt;strong&gt;“Questions de maths sympas pour M. et Mme Toulemonde”&lt;/strong&gt; pour lequel il a obtenu le prix &lt;em&gt;Tangente&lt;/em&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;Si vous voulez en savoir plus sur le livre, son auteurs et ses autres ouvrages, voici un ensemble de liens qui pourront vous aider à répondre à ses questions :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.fr/LUnivers-nombres-De-lAntiquit%C3%A9-Internet/dp/2875151835&quot;&gt;“L’Univers des Nombres : De l’Antiquité à Internet” de H. Lehning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.lehning.eu/&quot;&gt;Le site d’H. Lehning&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.amazon.fr/Herv%C3%A9-Lehning/e/B004MNT5VQ/ref=ntt_dp_epwbk_0&quot;&gt;La page d’H. Lehning chez Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&quot;display:block; margin-left:auto; margin-right:auto; width:300px&quot;&gt;
+&lt;img src=&quot;http://decitre.di-static.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/7/8/2/8/7/5/1/9782875151834FS.gif&quot; title=&quot;L&amp;#39;Univers des Nombres : de l&amp;#39;Antiquité à Internet - Crédit Decitre&quot; alt=&quot;L’univers des Nombres chez Decitre&quot; /&gt;
+&lt;/p&gt;
+
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>À écouter absolument : Podcastscience, le balado qui fait aimer la science</title>
+   <link href="http://testdriventrekkie.com/web/2013/11/27/podcastscience"/>
+   <updated>2013-11-27T13:00:00+01:00</updated>
+   <id>http://testdriventrekkie.com/web/2013/11/27/podcastscience</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/podcastsciencelogo.png&quot; alt=&#39;Crédits : Podcastscience&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “Podcastscience”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Il y a quelques mois, un peu fatigué par les annonces toujours plus dramatiques de la radio, j’ai décidé de me mettre aux podcasts. M’intéressant à la science de manière générale et aux mathématiques et à la physique en particulier, j’ai cherché sur Itunes les podcasts qui pourraient être intéressants sur ces sujets, et dans un premier temps, francophone et j’ai découvert Podcastscience.&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;Il y en a quelques uns qui sont ressortis :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ceux de Radio France de manière générale comme par exemple &lt;a href=&quot;http://www.franceinter.fr/emission-l-univers-en-trois-minutes&quot;&gt;“L’univers en 3 minutes par France Inter”&lt;/a&gt; ou encore &lt;a href=&quot;http://www.franceinfo.fr/du-cote-des-etoiles-new&quot;&gt;“Du côté des étoiles par France Info”&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Celui de Florence Porcel, la community manager de l’univers, qui est très sympa et funky, nommé &lt;a href=&quot;http://www.florenceporcel.com/category/la-folle-histoire-de-lunivers-podcast/&quot;&gt;“La folle histoire de l’Univers”&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Celui de Jean-Michel Abrassart nommé &lt;a href=&quot;http://scepticismescientifique.blogspot.fr/&quot;&gt;“Sceptiscisme scientifique”&lt;/a&gt; qui est de très haute qualité. À ne pas confondre avec Jean-Louis Abrassart qui fait des choses très … différentes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Et celui de &lt;a href=&quot;http://www.podcastscience.fm/&quot;&gt;Podcastscience&lt;/a&gt;. Au début j’étais pas sûr que ça me plairait. En fait, au moment où je m’y suis abonné, en août, les derniers thèmes n’étaient pas forcément ceux qui m’intéressaient le plus. J’ai quand même écouter quelques podcasts et ça a été la révélation :)&lt;/p&gt;
+&lt;p&gt;L’équipe est dynamique, plein de sujets très différents sont abordés en passant par la biologie, les mathématiques, la physique, la tectonique des plaques, j’en passe et des meilleurs.&lt;/p&gt;
+&lt;p&gt;Il y a aussi les invités qui sont toujours de grande qualité, je ne citerais que &lt;a href=&quot;http://www.podcastscience.fm/emission/2013/04/12/podcast-science-126-limpensable-hasard-la-teleportation-quantique-avec-nicolas-gisin/&quot;&gt;Nicolas Gisin&lt;/a&gt; ou encore &lt;a href=&quot;http://www.podcastscience.fm/emission/2013/10/04/podcast-science-146-alexandre-moatti-alterscience/&quot;&gt;Alexandre Moatti&lt;/a&gt; pour le montrer.&lt;/p&gt;
+&lt;p&gt;Il y a aussi les sujets plus polémiques mais aussi très intéressants que sont le dénialisme, les alter-sciences, le nucléaire ou l’impact des sciences dans l’histoire (comme avec Lyssenko par exemple).&lt;/p&gt;
+&lt;p&gt;Une chose que j’aime aussi est la recherche de l’exactitude et la pensée critique associée à une capacité à “vulgariser” ou tout du moins faire passer de manière aussi simple que possible des concepts parfois complexes.&lt;/p&gt;
+&lt;p&gt;Finalement un podcast qui s’écoute bien, que l’on peut suivre en live et qui nous fait découvrir des choses sans prise de tête :) J’en suis à 95 épisodes sur 124. Qui dit mieux :) ?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ajouter un flux RSS à son blog Jekyll</title>
+   <link href="http://testdriventrekkie.com/web/2013/11/14/ajouter-un-flux-rss--son-blog-jekyll"/>
+   <updated>2013-11-14T14:08:58+01:00</updated>
+   <id>http://testdriventrekkie.com/web/2013/11/14/ajouter-un-flux-rss--son-blog-jekyll</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/jekyll_logo_white.png&quot; alt=&#39;Crédits : http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;De base il n’y a pas de flux RSS avec une install de Jekyll bootstrap, voici comment y remédier !&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;Vous pouvez retrouver un fichier &lt;code&gt;feed.xml&lt;/code&gt; qui peut servir de base sur le repository Github &lt;a href=&quot;https://github.com/snaptortoise/jekyll-rss-feeds&quot;&gt;snaptortoise/jekyll-rss-feeds&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ce fichier est tout prêt pour être utilisé sur une install de Jekyll de base. Je l’ai simplement adapté pour éviter d’avoir à ajouter dans le fichier de configuration des variables qui seraient en doublons de ce qui existe déjà.&lt;/p&gt;
+&lt;p&gt;Notamment l’utilisation de :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;site.production_url&lt;/code&gt; au lieu de &lt;code&gt;site.url&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;site.title&lt;/code&gt; au lieu de &lt;code&gt;site.name&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;site.tagline&lt;/code&gt; au lieu de &lt;code&gt;site.description&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si vous ne voulez pas vous embêter, vous pouvez récupérer ma version &lt;a href=&quot;https://github.com/dloureiro/dloureiro.github.io/blob/master/feed.xml&quot;&gt;ici&lt;/a&gt;. Vous cliquez sur “Raw”, clique-droit, “enregistrez-sous …” et vous collez ça à la racine de votre Jekyll.&lt;/p&gt;
+&lt;p&gt;C’est tout !&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Utilisation de nom de domaine avec Jekyll, Github et Gandi</title>
+   <link href="http://testdriventrekkie.com/web/2013/11/14/utilisation-de-nom-de-domaine-avec-jekyll-github-et-gandi"/>
+   <updated>2013-11-14T13:08:26+01:00</updated>
+   <id>http://testdriventrekkie.com/web/2013/11/14/utilisation-de-nom-de-domaine-avec-jekyll-github-et-gandi</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/image_billet_jekyll-github-gandi.png&quot; alt=&#39;Crédits : &quot;http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/&quot; + &quot;http://krampstudio.com/images/github.png&quot; + &quot;http://gandi.net&quot;&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/” + “http://krampstudio.com/images/github.png” + “http://gandi.net”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Si vous souhaitez faire le choix de Jekyll et de Github pour monter un blog c’est bien. Si vous avez un nom de domaine chez Gandi et que vous voulez l’utiliser voici les étapes à suivre pour faire marcher tout ça ensemble !&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;&lt;strong&gt;Remarque :&lt;/strong&gt; Les instructions qui sont données ici pour Gandi sont assez génériques et peuvent à priori être utilisées pour d’autres registars.&lt;/p&gt;
+&lt;h1 id=&quot;côté-jekyll&quot;&gt;Côté Jekyll&lt;/h1&gt;
+&lt;p&gt;Côté Jekyll il n’y a pas grand chose à faire, il faut modifier l’url de production &lt;code&gt;production_url&lt;/code&gt; pour mettre le nom de domaine que vous possédez chez Gandi. Pour cela cela donner ainsi :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;production_url : http://testdriventrekkie.com&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Et c’est tout pour Jekyll !&lt;/p&gt;
+&lt;h1 id=&quot;côté-github&quot;&gt;Côté Github&lt;/h1&gt;
+&lt;p&gt;Côté Github, il faut ajouter un fichier CNAME qui contiendra uniquement le nom de domaine à utiliser. Pour moi par exemple il y a ceci :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;testdriventrekkie.com&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Si jamais vous utilisez les Github Pages, c’est la même procédure.&lt;/p&gt;
+&lt;p&gt;Plus d’infos sur la page associée : &lt;a href=&quot;https://help.github.com/articles/setting-up-a-custom-domain-with-pages&quot;&gt;Github | Setting up a custom domain with Pages&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;côté-gandi&quot;&gt;Côté Gandi&lt;/h1&gt;
+&lt;p&gt;Si vous avez acquis un domaine chez Gandi, il est nécessaire d’utiliser l’outil de gestion de zones DNS. En mode “normal” (et pas le mode “expert”) voici ce que cela donne.&lt;/p&gt;
+&lt;p&gt;Vous allez devoir créer une nouvelle version du fichier de zone et indiquer dans les enregistrements de type &lt;strong&gt;A&lt;/strong&gt; ayant pour nom “@” et “*” (ce second est facultatif) l’adresse de la zone DNS de Github. La valeur à entrer est &lt;strong&gt;204.232.175.78&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Une fois que vous avez modifié ces éléments, il faut activer la nouvelle version du fichier de zone que vous venez de créer et attendre la propagation de l’information dans les DNS.&lt;/p&gt;
+&lt;p&gt;C’est tout !&lt;/p&gt;
+&lt;p&gt;Plus d’infos sur ces pages :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://help.github.com/articles/setting-up-a-custom-domain-with-pages&quot;&gt;Github | Setting up a custom domain with Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/11849058/how-to-point-domain-to-site-hosted-on-github-pages&quot;&gt;Stackoverflow | How to point domain to site hosted on github pages?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://wiki.gandi.net/dokuwiki/en/dns/zone/a-record&quot;&gt;Gandi | A Records&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;C’est aussi simple que ça et ça marche plutôt bien :)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Retranscription podcastscience #149</title>
+   <link href="http://testdriventrekkie.com/science/2013/11/13/retranscription-podcastscience-149"/>
+   <updated>2013-11-13T22:30:00+01:00</updated>
+   <id>http://testdriventrekkie.com/science/2013/11/13/retranscription-podcastscience-149</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/podcastsciencelogo.png&quot; alt=&#39;Crédits : http://www.podcastscience.fm/about/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://www.podcastscience.fm/about/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Il y a trois mois je me suis mis à écouter des podcasts et notamment &lt;a href=&quot;http://www.podcastscience.fm/&quot;&gt;podcastscience&lt;/a&gt;. Une des émissions était une interview et comme personne ne s’est proposé pour la retranscription, je m’en suis occupé!&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;Pour ceux qui ne connaîtrais pas podcastscience, il s’agit d’un podcast audio qui a pour but de faire aimer la science en présentant, chaque semaine, un dossier, une interview sur des thèmes scientifiques aussi variés que les &lt;a href=&quot;http://www.podcastscience.fm/emission/2013/06/21/podcast-science-136-lorigine-des-objets-mathematiques/&quot;&gt;objets mathématiques&lt;/a&gt; (l’un de mes préférés), la &lt;a href=&quot;http://www.podcastscience.fm/emission/2012/05/25/podcast-science-87-bioethique-1/&quot;&gt;bioéthique&lt;/a&gt; (il s’agit du premier épisode, il y en a deux), la &lt;a href=&quot;http://www.podcastscience.fm/emission/2012/06/14/podcast-science-90-la-science-de-la-creativite/&quot;&gt;science de la créativité&lt;/a&gt;, le &lt;a href=&quot;http://www.podcastscience.fm/emission/2013/03/08/podcast-science-122-discussion-sur-le-nucleaire/&quot;&gt;nucléaire&lt;/a&gt;, la &lt;a href=&quot;http://www.podcastscience.fm/emission/2011/04/07/podcast-science-31-la-matiere-noire/&quot;&gt;matière noire&lt;/a&gt; ou encore la &lt;a href=&quot;http://www.podcastscience.fm/emission/2013/04/05/podcast-science-125-lamour-est-dans-la-pipette/&quot;&gt;science de l’amour&lt;/a&gt; !&lt;/p&gt;
+&lt;p&gt;Tout un programme !&lt;/p&gt;
+&lt;p&gt;L’équipe (composée entre autres d’&lt;a href=&quot;https://twitter.com/alanvonlanthen&quot;&gt;Alan&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/NicoTupe&quot;&gt;Nico&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/Xilrian&quot;&gt;David&lt;/a&gt; et &lt;a href=&quot;https://twitter.com/3615Robin&quot;&gt;Robin&lt;/a&gt; ) sait transmettre des connaissances qui peuvent parfois paraître complexes de prime abord et ne demande à son public qu’une curiosité et une pensée critique.&lt;/p&gt;
+&lt;p&gt;Il y a deux semaines, &lt;a href=&quot;https://twitter.com/adamreakes&quot;&gt;Adam Reakes&lt;/a&gt;, en charge du podcast &lt;a href=&quot;http://herdmentalitypodcast.com/&quot;&gt;“The Herd Mentality”&lt;/a&gt; qui traite notamment d’athéisme a été interviewé sur son podcast, les gens avec qui il a pu s’entretenir et la place de la religion et de l’athéisme dans nos sociétés contemporaines.&lt;/p&gt;
+&lt;p&gt;Voyant que personne ne s’était proposé pour faire la retranscription, et bien je m’y suis mis :)&lt;/p&gt;
+&lt;p&gt;Ni iTunes, ni le lecteur de podcast de l’iPhone n’ont été le bon outil pour m’aider dans cette tâche (ils ont tendance à revenir en arrière quand on arrête la lecture). Je me suis rabattu sur la &lt;a href=&quot;https://soundcloud.com/podcastscience/149-freestyle-01-avec-adam&quot;&gt;version soundcloud de l’émission&lt;/a&gt;. Le player est vraiment bien, et il ne déconne pas!&lt;/p&gt;
+&lt;p&gt;Vous pouvez retrouver cette transcription sur la &lt;a href=&quot;http://www.podcastscience.fm/dossiers/2013/11/13/emission-freestyle-episode-149-retranscription-de-linterview-dadam-reakes/&quot;&gt;page dédiée à l’émission&lt;/a&gt; sur le site de podcascience. Et pour ceux que cela peut intéresser, vous pourrez aussi retrouver les sources de cette retranscription (markdown) sur le &lt;a href=&quot;https://github.com/dloureiro/ps-transcription_149&quot;&gt;repository github correspondant&lt;/a&gt;. Si jamais vous trouvez des typos, ou quoi que ce soit d’autres, n’hésitez pas forker et proposer des PRs :)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Jekyll, bootstrap et github pour un blog en quelques minutes</title>
+   <link href="http://testdriventrekkie.com/web/2013/11/13/jekyll-bootstrap-et-github-pour-un-blog-en-quelques-minutes"/>
+   <updated>2013-11-13T17:16:00+01:00</updated>
+   <id>http://testdriventrekkie.com/web/2013/11/13/jekyll-bootstrap-et-github-pour-un-blog-en-quelques-minutes</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/jekyll_logo_white.png&quot; alt=&#39;Crédits : http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Pour mettre en place un site rapidement (ou un blog pour faire simple) il y a milles possibilités. L’expérience que j’ai me fait dire que l’on a trois gros points à regarder quand on souhaite faire cela sans trop se prendre la tête et en ayant quelque chose de simple :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Le moteur de blog&lt;/li&gt;
+&lt;li&gt;L’hébergeur&lt;/li&gt;
+&lt;li&gt;L’interfaçage entre les deux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- *more* --&gt;
+
+&lt;h1 id=&quot;le-besoin&quot;&gt;Le Besoin&lt;/h1&gt;
+&lt;p&gt;Mon besoin était le suivant : Il me fallait un moteur assez simple à utiliser pour ne pas avoir à dépendre d’une grande quantité de pré-requis, il fallait que la communauté soit suffisamment grande pour disposer de documentation et de plugins, il fallait aussi que je puisse disposer d’une infra sous-jacente simple à utiliser.&lt;/p&gt;
+&lt;p&gt;Et tout cela sans débourser un copec.&lt;/p&gt;
+&lt;h1 id=&quot;le-moteur-de-blog&quot;&gt;Le moteur de blog&lt;/h1&gt;
+&lt;h2 id=&quot;les-solutions-classiques&quot;&gt;Les solutions classiques&lt;/h2&gt;
+&lt;p&gt;Depuis une petite dizaine d’années, j’ai utilisé plusieurs moteurs de blog :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://fr.dotclear.org/&quot;&gt;Dotclear&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fr.wordpress.org/&quot;&gt;Wordpress&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Des moteurs plus light qui se reposent sur des bases de données de type sqlite ou xml : &lt;a href=&quot;http://www.pluxml.org/&quot;&gt;plumxl-blog est un exemple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Des CMS comme &lt;a href=&quot;http://www.joomla.org/&quot;&gt;Joomla&lt;/a&gt; ou &lt;a href=&quot;http://drupalfrance.com/&quot;&gt;Drupal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Des moteurs de wiki comme &lt;a href=&quot;http://www.mediawiki.org/wiki/MediaWiki/fr&quot;&gt;mediawiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.blogger.com/&quot;&gt;Blogger&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tous sauf Blogger sont libres mais tous sont utilisables librement. &lt;a href=&quot;http://fr.wordpress.com/&quot;&gt;Wordpress online&lt;/a&gt; est un peu différent dans ses conditions d’utilisation.&lt;/p&gt;
+&lt;p&gt;Un des points importants est qu’il est important de trouver un outil qui correspondent à vos besoins, qui dispose d’une grande communauté, qui possède un grand nombre de plugins et qui soit bien supporté par la plate-forme sous-jacente (base de données, version de php, etc).&lt;/p&gt;
+&lt;p&gt;Wordpress en tant que leader incontesté est souvent le plus “standard”. Il reste cependant lourd et il faut une base de données. Il possède cependant un grand nombre de plugins qui permettent souvent de lui adjoindre les fonctionnalités exotiques qu’il pourrait lui manquer et dont vous pourriez avoir besoin. Et je ne vous parle par de la communauté…&lt;/p&gt;
+&lt;p&gt;Dotclear est un concurrent de Wordpress en terme de fonctionnalités, et de pré-requis. Cependant il possède une communauté moins grande et un support moins grand quand on va du côté des plate-formes (typiquement l’hébergement de free ne permet pas son utilisation).&lt;/p&gt;
+&lt;p&gt;Les outils en ligne comme Blogger ou Wordpress online sont intéressants car vous n’avez pas à vous embêter avec la plate-forme, l’intégration la gestion des versions, etc. Mais vous perdez aussi la mains le code, sur la base de données en même temps.&lt;/p&gt;
+&lt;p&gt;Les moteurs de wiki peuvent être intéressants (notamment wikimedia qui est derrière wikipédia), mais ce n’est vraiment pas le même usage pour le même type de pré-requis que wordpress par exemple.&lt;/p&gt;
+&lt;p&gt;En ce qui concerne les moteurs de blog qui se basent des bases de type sqlite, ils ont une communauté restreinte et moins de plugins et de support que les autres solutions, mais en même temps ils ont des pré-requis plus simple (notamment en terme de base de données).&lt;/p&gt;
+&lt;p&gt;Les CMS sont intéressants, mais cela peut devenir compliqué pour un simple blog, les technologies comme Joomla ou encore Drupal imposent peut-être de franchir une marche trop haute pour pouvoir les prendre en main et aboutir à un blog.&lt;/p&gt;
+&lt;p&gt;Tout ceci ne me satisfaisait pas vraiment, j’avais besoin d’un outil simple pour rédiger les billets de blog, avec une bonne communauté, sans pré-requis importants.&lt;/p&gt;
+&lt;h2 id=&quot;solution-choisie&quot;&gt;Solution choisie&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com/&quot;&gt;&lt;strong&gt;Jekyll !&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cette techno possède plein de caractéristiques sympathiques :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Il s’agit d’un moteur de blog statique. Les pages sont pré-générées et une fois sur l’infrastructure qui hébergera le blog, le service des pages sera plus rapide. En fait si on regarde bien, assez peut de choses ont besoin d’être générées à la volée. Les commentaires vont éventuellement nécessiter quelque chose de dynamique, mais maintenant des technologies comme &lt;a href=&quot;http://disqus.com/&quot;&gt;Disqus&lt;/a&gt; fonctionnent.&lt;/li&gt;
+&lt;li&gt;Il n’a donc pas besoin de base de données et les billets sont écrits en &lt;a href=&quot;http://daringfireball.net/projects/markdown/syntax&quot;&gt;Markdown&lt;/a&gt;. Magnifique, moi qui aime bien ce format de texte pur, c’est parfait.&lt;/li&gt;
+&lt;li&gt;La communauté est plutôt large car il s’agit en fait du moteur de page utilisé par &lt;a href=&quot;https://github.com/&quot;&gt;Github&lt;/a&gt;, le plus grand réseau de social coding.&lt;/li&gt;
+&lt;li&gt;C’est bien intégré avec des outils comme bootstrap pour avoir des sites web responsive (notamment &lt;a href=&quot;http://jekyllbootstrap.com/&quot;&gt;Jekyll-bootstrap&lt;/a&gt; qui est la version que j’utilise).&lt;/li&gt;
+&lt;li&gt;C’est très extensible et il existe un grand nombre de plugins et de thèmes sur le net&lt;/li&gt;
+&lt;li&gt;Un système de build de chez ruby nommé rake qui vous permet de créer en un clin d’oeil, une page, un post, d’installer ou de changer le thème, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour certains, le fait que cela soit en Ruby peut poser problème. Bon pour moi non, et comme j’utilise un hébergeur qui fournit le support de Jekyll, c’est pas un problème. Mais sinon, d’une certaine manière, comme Jekyll permet la génération d’un site statique, nous n’avez vraiment besoin de Ruby que sur votre machine&lt;/p&gt;
+&lt;h1 id=&quot;les-plates-formes&quot;&gt;Les plates-formes&lt;/h1&gt;
+&lt;p&gt;Une fois que l’on a le moteur, il faut la voiture, ici en l’occurence la plate-forme d’hébergement qui se doit d’être gratuite.&lt;/p&gt;
+&lt;p&gt;J’ai pu tester différents providers :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://pagesperso.free.fr/&quot;&gt;Free&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.espace4you.org/&quot;&gt;Espace4you&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Du PaaS comme &lt;a href=&quot;https://www.openshift.com/&quot;&gt;OpenShift&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Le problème avec Free c’est que l’on est limité par la version de PHP disponible et par la version de MySQL. Donc ça va bien pour certaines choses, mais pas pour tout. Par exemple, il n’est pas possible d’utiliser la dernière version de Wordpress par exemple …&lt;/p&gt;
+&lt;p&gt;Pour Espace4You, il s’agit en fait d’un hébergeur qui à l’époque était affilié au &lt;a href=&quot;http://www.rhien.org/&quot;&gt;RHIEN&lt;/a&gt; un réseau d’hébergeurs gratuit qui fournit finalement un servir dont la qualité, est ce qu’elle est. Si vous ne craignez pas de débugguer le provider et que le fait que vos site soit down un peu de temps par-ci, par-là, alors allez-y. Ils sont sympa :)&lt;/p&gt;
+&lt;p&gt;Pour ce qui est d’OpenShift c’était un test qui finalement s’est avéré plutôt intéressant. L’idée derrière un PaaS est que vous n’avez pas à gérer la plate-forme, elle est gérée pour vous. Vous pouvez ainsi disposer d’une petite machine virtuelle pour pas cher avec quelques service comme PHP ou MySQL. Vous pouvez même utiliser des “gears” (cela correspond à une fonctionnalité comme PHP, MySQL, etc) pour Wordpress ou d’autres outils de ce type. Et en plus, cerise sur le gâteau, vous avez git à disposition pour versionner vos fichiers. Le rêve pour un geek :)&lt;/p&gt;
+&lt;p&gt;Bon pour avoir testé wordpress sur OpenShift, c’est pas top. Déjà parce qu’on doit rester dans les clous de ce que cela nous permet :la gestion des plugins wordpress est un bordel sans nom entre ceux que l’on installe soit même via l’interface et ceux que l’on pousse via git par exemple.&lt;/p&gt;
+&lt;p&gt;Plutôt rapide à mettre en place, on se prend pas la tête, la lenteur est peut-être juste le seul bémol selon moi.&lt;/p&gt;
+&lt;h1 id=&quot;solution-choisie-1&quot;&gt;Solution choisie&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/&quot;&gt;&lt;strong&gt;Github !&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;En fait, quand j’ai découvert Jekyll, je me suis rendu compte que ce que Github pouvait fournir pour des pages de projet (avoir une page qui décrit un projet par exemple, sa doc, son utilisation, son installation, etc) via la branch &lt;code&gt;gh-pages&lt;/code&gt; d’un repository, on pouvait l’avoir directement pour un utilisateur. Et comme ils hébergent directement Jekyll en interne, il suffit de pousser sur git ses modifications et elles sont prises en compte automatiquement !&lt;/p&gt;
+&lt;p&gt;En fait dans ce cadre-là, Github sert de plate-forme de PaaS car finalement on en revient globalement aux mêmes fonctionnalités qu’un PaaS.&lt;/p&gt;
+&lt;p&gt;Et tout ça est gratuit :)&lt;/p&gt;
+&lt;p&gt;La qualité de service est top (on parle de github hein) et git est une technologie de plus en plus utilisée pour le déploiement de code sur les plates-formes SaaS ou PaaS par exemple, donc ça fonctionne.&lt;/p&gt;
+&lt;h1 id=&quot;en-conclusion&quot;&gt;En conclusion&lt;/h1&gt;
+&lt;p&gt;Avec Jekyll-bootstrap qui est une version responsive et plus user-friendly je trouve que Jekyll (mais toujours compatible) et github, on arrive à avoir un simple simple à utiliser, gratuit, avec un moteur ayant une grosse communauté et plein de plugins et finalement on dispose d’une infra dont on ne s’occupe pas avec une super qualité de service.&lt;/p&gt;
+&lt;p&gt;Dans un poste suivant j’expliquerais comment changer le nom du blog qui est quelque chose comme &lt;code&gt;http://user.github.io&lt;/code&gt;en ce que vous voulez.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Installation de Mountain Lion sur un nouveau disque</title>
+   <link href="http://testdriventrekkie.com/mac/2013/04/07/installation-de-mountain-lion-sur-un-nouveau-disque"/>
+   <updated>2013-04-07T17:23:47+02:00</updated>
+   <id>http://testdriventrekkie.com/mac/2013/04/07/installation-de-mountain-lion-sur-un-nouveau-disque</id>
+   <content type="html">&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/mac_osx_mountain_lion-300x179.png&quot; alt=&#39;Crédits : http://images.apple.com&#39;/&gt;
+&lt;figcaption style=&quot;color:black&quot;&gt;
+Crédits : “http://images.apple.com”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Ma machine arrivait à bout de souffle et j’ai voulu lui redonner une jeunesse. Après un changement de disque dur et de l’ajout de mémoire, il a fallu réinstaller le système. Récit d’une opération finalement plus complexe que prévu!&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;Mon MacBook Pro de fin 2008 a subit différentes montées de version :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Migration depuis un G4&lt;/li&gt;
+&lt;li&gt;Migration de Snow Leopard a Mountain Lion Et n’a jamais été réinstallé depuis son acquisition. Devenu lent, buggé et presque inutilisable, il était temps d’agir. Après le changement de matériel (Changement du disque pour un SSD) Doublement de la RAM&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Il fallait réinstaller Mountain Lion. Sauf qu’Apple ne fournit plus de DVD d’installation. Voici donc les différentes étapes que j’ai tester avant d’enfin réussir!&lt;/p&gt;
+&lt;h2 id=&quot;le-fantasme-de-la-clef-usb&quot;&gt;Le fantasme de la clef USB&lt;/h2&gt;
+&lt;p&gt;Ayant du aller changer mon iPhone récemment dans un Apple Store, j’en ai profité pour demander à un “Genius” comment faire cette installation dans le cadre d’un changement de disque.&lt;/p&gt;
+&lt;p&gt;Il a tout d’abord confirmé qu’Apple ne fournissait plus DVD ou de clef USB avec une image du système. Il m’a ensuite appris qu’il existait une méthode passant par l’utilisation d’une clef USB, créée à partir du système téléchargé depuis l’App Store mais qu’il n’en savait pas plus.&lt;/p&gt;
+&lt;p&gt;Le moment venu, j’ai donc cherché à en savoir plus sur la pratique. Le web regorge de tutoriels présentant différentes méthodes permettant de créer cette clef USB et installer ensuite le système. Dans un premier temps il faut pouvoir récupérer une image du système à réinstaller. Différentes méthodes existent :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Utilisation de la partition de recovery du disque à remplacer : Mountain Lion créé une partition de recovery que vous pouvez utiliser pour réinstaller le système. Lors du démarrage de votre Mac appuyez sur Cmd+Alt+R et choisissez de réinstaller le système sur la clef USB branchée.&lt;/li&gt;
+&lt;li&gt;Téléchargement du système depuis l’App Store.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Dans tout ça, la seule chose un peu longue, c’est le téléchargement du système. 4,4 Go à récupérer c’est long, même quand on dispose de la fibre.&lt;/p&gt;
+&lt;p&gt;Une fois cela réalisé, vous pouvez utiliser le logiciel &lt;a href=&quot;http://liondiskmaker.com/?lang=fr&quot;&gt;LionDiskMaker&lt;/a&gt; qui vous permettra de créer une clée bootable ou un DVD d’installation avec Mountain Lion. Il vous suffira de trouver le fichier nommé InstallESD.dmg et de suivre les directives.&lt;/p&gt;
+&lt;p&gt;Il ne vous reste plus qu’à redémarrer votre Mac avec la clef branchée ou le DVD inseré pour réinstaller votre système!&lt;/p&gt;
+&lt;p&gt;…&lt;/p&gt;
+&lt;p&gt;Sauf que moi, cela ne fonctionnait pas :(&lt;/p&gt;
+&lt;p&gt;J’ai eu beau essayer cette méthode, essayer la méthode alternative avec la procédure de récupération disponible dans l’utilitaire de disque du mac (cette solution permet d’installer une image directement sur la clef USB comme si l’on utilisait une image ISO pour graver un CD ou un DVD), rien n’y a fait.&lt;/p&gt;
+&lt;h2 id=&quot;linstallation-de-snow-lepoard-et-la-montée-de-version&quot;&gt;L’installation de Snow Lepoard et la montée de version&lt;/h2&gt;
+&lt;p&gt;Je me suis donc dit qu’il était encore possible d’installer Snow Leopard et ensuite de faire la montée de version vers Mountain Lion.&lt;/p&gt;
+&lt;p&gt;Finalement une solution plutôt sûre car je disposais du DVD d’installation et qu’il était en bon état… Mais pas mon lecteur de DVD. Il semble qu’il soit la prochaine pièce à changer sur le Mac.&lt;/p&gt;
+&lt;p&gt;Cette option n’était donc pas possible.&lt;/p&gt;
+&lt;h2 id=&quot;la-solution-finale-à-laquelle-je-navais-pas-pensé&quot;&gt;La solution finale … à laquelle je n’avais pas pensé&lt;/h2&gt;
+&lt;p&gt;Arrivé à ce stade, je me demandais quelles pouvaient bien être les possibilités qu’il me restait à exploiter. J’ai finalement choisi de tester l’installation depuis la partition de recovery de mon ancien disque. En effet : dans la mesure où il est possible de booter le système depuis une clef USB, j’ai décidé de mettre le nouveau disque dans le Mac, et de mettre l’ancien dans un boitier externe pour disque dur et de booter sur la partition de recovery qu’il contient.&lt;/p&gt;
+&lt;p&gt;J’ai ainsi pu installer Mountain Lion sur le nouveau disque et repartir sur de bon rail avec une installation fraîche du système, et rien pour venir le ralentir.&lt;/p&gt;
+&lt;p&gt;Après quelques heures d’installation d’applications, de paquets mac ports, la récupération de mes repository svn, gits, de mes musiques, etc, ma machine était propre et rapide. Comme si je venais d’avoir un nouveau Mac!&lt;/p&gt;
+&lt;p&gt;Il faut quand même noter que j’ai du télécharger 4 fois le système afin de pouvoir arriver à l’installer correctement, presque 18Go!&lt;/p&gt;
+&lt;p&gt;Maintenant il faut que je m’occupe de mon lecteur superdrive … Mais ceci est réservé à une prochaine fois!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ 
+</feed>

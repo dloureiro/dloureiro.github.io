@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Test Driven Trekkie</title>
+		<description>Un trekkie drivé par les tests et les expériences</description>
+		<link>http://testdriventrekkie.com</link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Réponse au quiz de Podcastscience sur la transplantation fécale</title>
+				<description>&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/podcastsciencelogo.png&quot; alt=&#39;Crédits : Podcastscience&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “Podcastscience”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Lors du dernier épisode Freestyle de Podcastscience, un nouveau quiz a été lancé : “On peut sauver des vies par simple transplantation de matière fécale. Info ou intox?”. Voici ma réponse, mais cachée. Saurez-vous la trouver ?&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;figure&gt;
+&lt;img src=&quot;/assets/images/transplantation_fecale-output.png&quot; title=&quot;Ma réponse au dernier quiz de Podcastscience&quot; alt=&quot;Ma réponse au dernier quiz de Podcastscience&quot; /&gt;&lt;figcaption&gt;Ma réponse au dernier quiz de Podcastscience&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Crédit : &lt;a href=&quot;http://www.planetesante.ch/Mag-sante/Actu/La-transplantation-fecale&quot;&gt;http://www.planetesante.ch/Mag-sante/Actu/La-transplantation-fecale&lt;/a&gt;&lt;/p&gt;
+</description>
+				<pubDate>Fri, 24 Jan 2014 16:20:36 +0100</pubDate>
+				<link>http://testdriventrekkie.com/web/2014/01/24/rponse-au-quiz-de-podcastscience-sur-la-transplantation-fcale</link>
+				<guid isPermaLink="true">http://testdriventrekkie.com/web/2014/01/24/rponse-au-quiz-de-podcastscience-sur-la-transplantation-fcale</guid>
+			</item>
+		
+			<item>
+				<title>Histoire incompréhensible : Le renard amoureux de la poule</title>
+				<description>&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; height:150px&quot; src=&quot;/assets/images/histoire-enfants.png&quot; alt=&#39;Crédits : http://www.mercipourlechocolat.fr/wp-content/uploads/2009/04/alphakid03.jpg&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://www.mercipourlechocolat.fr/wp-content/uploads/2009/04/alphakid03.jpg”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;La dernière histoire que j’ai lu à mon fils avant qu’il se couche m’a un peu laissé … perplexe. Je n’ai rien compris. Si jamais vous comprenez la chute, expliquez-moi !&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;h1 id=&quot;contexte&quot;&gt;Contexte&lt;/h1&gt;
+&lt;p&gt;Cette histoire est tirée du livre “365 Histoire pour les tout-petits” aux éditions Piccolia (ISBN : 978-2-7530-2506-6).&lt;/p&gt;
+&lt;p&gt;Lorsque l’histoire s’est fini … je me suis demandé si je ne m’étais pas trompé en la lisant. Une seconde lecture n’a pas levée l’incompréhension en moi. Si vous avez une idée, donnez-la moi !&lt;/p&gt;
+&lt;h1 id=&quot;lhistoire&quot;&gt;L’histoire&lt;/h1&gt;
+&lt;p&gt;C’était impossible, et pourtant, le renard était amoureux de Cacotte, c’est en tout cas ce qu’il prétendait.&lt;/p&gt;
+&lt;p&gt;“Comment un renard peut-il être amoureux de moi ?” se demandait-elle. D’habitude, les renards aiment surtout les poules rôties, à la broche, à la cocotte, au pot, en sauce ou grillées. Et ce n’est pas vraiment là ce qu’on appelle de l’amour. Mais malgré elle, Cacotte était troublée ; elle avait devant elle un jeune renard, au fin museau et aux grands yeux noisette, qui semblait tellement sincère.&lt;/p&gt;
+&lt;p&gt;“Mais enfin, comment pouvez-vous m’aimer ?&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;J’aime votre beauté, vos plumes rousses et votre crête toute rose, et puis … vous êtes si dodue “, lui répondit le renard en rougissant.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Timide, le jeune renard cacha son museau sous sa queue en panache. Comme il ne cessait de lui faire la cour, Cacotte finit par le croire et présenta le jeune renard à ses parents effrayés et à ses amies terrorisées.&lt;/p&gt;
+&lt;p&gt;Ils décidèrent de se marier. Ce fut un étrange, mais magnifique mariage. Tout le monde était ravi, excepté la grand-mère de Cacotte qui lui caqueta à l’oreille : “Méfie-toi, un renard reste toujours un renard !”&lt;/p&gt;
+&lt;p&gt;Cacotte lui adressa un grand sourire avant de monter dans la voiture qui conduisait les jeunes mariés en oyage de noces en Pouldésie.&lt;/p&gt;
+&lt;p&gt;Quand elle revint, quelques semaines plus tard, Cacotte était seule. Son retour soulagea toute la bassecour, mais personne ne lui demanda ce qu’était devenu le renard. Depuis ce temps, en tout cas, on voit souvent Cacotte se rendre chez sa grand-mère, à chaque fois qu’elle a besoin d’un bon conseil …&lt;/p&gt;
+&lt;h1 id=&quot;les-explications-potentielles&quot;&gt;Les explications potentielles&lt;/h1&gt;
+&lt;p&gt;Bon … Voici les explications potentielles que j’ai trouvé :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Le renard est vraiment parti, et Cacotte va voir sa grand-mère parce que celle-ci l’avait prévenue. Bon par contre ça fait pas top comme morale : &lt;em&gt;Il faut écouter sa grand-mère parce qu’elles ont toujours raison&lt;/em&gt;. Assez bof comme morale.&lt;/li&gt;
+&lt;li&gt;Le renard est vraiment parti, et Cacotte va voir sa grand-mère parce que celle-ci l’avait prévenue que les mariages mixtes ça marche pas. C’est encore pire comme morale : &lt;em&gt;Je t’avais prévenu que ceux qui ne sont pas comme nous ne peuvent pas changer !&lt;/em&gt;. Racisme même entre les animaux.&lt;/li&gt;
+&lt;li&gt;Ou sinon, le renard en fait, ben il a bouffé la grand-mère parce qu’elle a embêté Cacotte et c’est pour ça que cette dernière va chez sa “grand-mère” régulièrement. Question d’hygiène. Ici la morale est assez bizarre quand même : “Débarrassez-vous des vieux, ils sont chiants. Et puis vivons heureux, vivons caché”.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Si jamais vous avez une meilleure idée, je suis preneur !&lt;/p&gt;
+</description>
+				<pubDate>Wed, 22 Jan 2014 20:29:13 +0100</pubDate>
+				<link>http://testdriventrekkie.com/histoire/2014/01/22/histoire-incomprhensible--le-renard-amoureux-de-la-poule</link>
+				<guid isPermaLink="true">http://testdriventrekkie.com/histoire/2014/01/22/histoire-incomprhensible--le-renard-amoureux-de-la-poule</guid>
+			</item>
+		
+			<item>
+				<title>Livre : Le cantique des quantiques</title>
+				<description>&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; height:150px&quot; src=&quot;/assets/images/Schrodingers_cat.png&quot; alt=&#39;Crédits : http://www.podcastscience.fm/wp-content/uploads/2011/11/Schrodingers_cat.png&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://www.podcastscience.fm/wp-content/uploads/2011/11/Schrodingers_cat.png”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;La physique quantique fait partie de ses choses que l’on sait à priori complexes voire incompréhensibles pour certains et qui se révèlent traiter d’un sujet qui heurte les intuitions courantes. Mais on peut comprendre ce qu’est la physique quantique et son impact profond sur le monde qui nous entoure grâce au livre “Le cantique des quantiques” de Sven Ortoli et Jean-Pierre Pharabod. Voici ce que j’en ai retenu.&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;h1 id=&quot;le-livre&quot;&gt;Le livre&lt;/h1&gt;
+&lt;p&gt;Le livre “Le cantique ds quantiques” n’est pas un livre tout récent (il date de 1984), mais le sujet qu’il traite, est lui du début du XXème siècle. Et quio qu’on en dise, toujours aussi complexe et peu compris du grand public. La physique quantique a en effet vu une grande partie de ses développements importants pendant la première moitié du siècle précédent.&lt;/p&gt;
+&lt;p&gt;Cet ouvrage de vulgarisation va ainsi reprendre les problèmes que la physique a rencontré et qui ont fait émerger cette physique si contre-intuitive et complexe à comprendre pour le béotien.&lt;/p&gt;
+&lt;p&gt;On apprendre ensuite à travers diverses métaphores, le principe de la théorie avec l’esentiel des phénomènes qu’elle est susceptible d’expliquer.&lt;/p&gt;
+&lt;p&gt;Les auteurs reviennent ensuite notamment sur un paradoxe énoncé notamment par Einstein, le paradoxe EPR à propos de la non-localité impliquant une transmission d’information plus rapide que la lumière entre deux particules dites intriquées et finalement expliqué par Alain Aspect plus tard.&lt;/p&gt;
+&lt;p&gt;Il nous font aussi d’autres expériences célèbres, notamment celle du chat de Schrödinger et celles de diffraction d’atomes.&lt;/p&gt;
+&lt;p&gt;Les auteurs nous emmènent ensuite sur un autre terrain que va impacter la physique quantique : celui de la philosophie. En effet, les différentes interprétations de la physique quantique changent totalement la vision que nous pouvons avoir du monde et peuvent nous faire poser des question comme : &lt;em&gt;Le monde existe-t-il ?&lt;/em&gt;, &lt;em&gt;Peut-on remonter le temps ?&lt;/em&gt;, &lt;em&gt;Existe-t-il des univers parallèles ?&lt;/em&gt;.&lt;/p&gt;
+&lt;h1 id=&quot;les-auteurs&quot;&gt;Les auteurs&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Le cantique des quantiques&lt;/em&gt; a été écrit par deux personnes :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sven Ortoli&lt;/strong&gt; : docteur en physique des solides, il est devenu journaliste scientifique et va notamment écrire pour &lt;em&gt;Science &amp;amp; Vie&lt;/em&gt;. Au sein de cette revue, il va se spécialiser dans la vulgarisation de la physique. Par la suite, il va créer “Science &amp;amp; Vie Junior” et dix ans plus tard “Science &amp;amp; Vie Découverte”. Ce travail de vulgarisation scientifique a notamment abouti à l’obtention du prix de Vulgarisation de l’Académie des Sciences pour &lt;em&gt;Science &amp;amp; Vie Junior&lt;/em&gt; en 1996. Il aura notamment publié différents ouvrages comme celui-ci ou encore “La baignoire d’Archimède : petite mythologie de la science” en 1996.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jean-Pierre Pharabod&lt;/strong&gt; : De formation d’ingénieur en télécommunication, son parcours l’amène à travailler pour EDF jusqu’en 1970 et ensuite pour le Laboratoire de Physique Nucléaire des hautes énergies de l’École Polytechnique qu’il quittera en 2000. Il est notamment l’auteur de cet ouvrage, mais aussi de “Le Rêve des physiciens” avec Bernard Pire en 1993 et de “AVNI - Les Armes Volantes Non Identifiées” en 2000.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Le cantique des quantiques&lt;/em&gt; est finalement un livre de vulgarisation très intéressant qui permet de comprendre une physique complexe sans entrer dans les équations et les mathématiques nécessaire à la théorie pour l’utiliser. Il aborde ainsi des expériences connues et les explique de manière simple et compréhensible.&lt;/p&gt;
+&lt;p&gt;En lisant ce livre on en vient aussi à découvrir que la physique quantique impacte complètement notre vision du monde, à travers ses implications philosophiques.&lt;/p&gt;
+&lt;p&gt;Ce livre est intéressant, même si un minimum de base sen physique s’avère nécessaire pour comprendre les concepts physiques expliqués et je trouve qu’il faut s’accrocher un peu pour arriver à bien comprendre toutes les interprétations quantiques faites par les différents courants de la mécanique quantique.&lt;/p&gt;
+&lt;p&gt;Un ouvrage finalement plutôt agréable à lire, et ceci de manière attentionnée pour arriver à comprendre ce qu’est la physique quantique et son impact sur la physique et la philosophie d’aujourd’hui.&lt;/p&gt;
+&lt;p style=&quot;display:block; background-color:white; margin-left:auto; margin-right:auto; width:300px&quot;&gt;
+&lt;img src=&quot;http://decitre.di-static.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/7/8/2/7/0/7/1/9782707128249FS.gif&quot; title=&quot;Le cantique des quantiques - Crédit Decitre&quot; alt=&quot;Le cantique des quantiques chez Decitre&quot; /&gt;
+&lt;/p&gt;
+
+
+</description>
+				<pubDate>Mon, 06 Jan 2014 14:00:00 +0100</pubDate>
+				<link>http://testdriventrekkie.com/livre/2014/01/06/livre--le-cantique-des-quantiques</link>
+				<guid isPermaLink="true">http://testdriventrekkie.com/livre/2014/01/06/livre--le-cantique-des-quantiques</guid>
+			</item>
+		
+			<item>
+				<title>Livre : La SF sous les feux de la science</title>
+				<description>&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; height:150px&quot; src=&quot;/assets/images/Science-Fiction.png&quot; alt=&#39;Crédits : http://alias.codiferes.net/wordpress/wp-content/uploads/2011/08/Science-Fiction-720x340.jpg&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://alias.codiferes.net/wordpress/wp-content/uploads/2011/08/Science-Fiction-720x340.jpg”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Les auteurs de science-fiction sont parfois perçus comme des visionnaires, à développer des idées qui aujourd’hui sont vues comme farfelues mais demain peut-être seront communes. Roland Lehoucq fait le point dans “La SF sous les feux de la science” sur ces idées développées par la science-fiction et nous explique un peu ce que la science peut dire à leur propos. Petite review de ce livre super intéressant !&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;h1 id=&quot;le-livre&quot;&gt;Le livre&lt;/h1&gt;
+&lt;p&gt;Roland Lehoucq, astrophysicien au CEA de Saclay vient nous expliquer au sein de ce livre “La SF sous les feux de la science” ce qu’il en est des idées développées au sein des plus grands standards de la science-fiction.&lt;/p&gt;
+&lt;p&gt;Il aborde pêle-mêle différents sujets en partant des champs de force de Star Trek, des rayons de la mort, des sphères de Dyson ou encore ce qui rend l’homme invisible si invisible. Il les décortique pour expliquer de quoi il retourne, les technologies existantes et ce qu’il faudrait potentiellement pour en arriver à réaliser ces miracles !&lt;/p&gt;
+&lt;p&gt;C’est un livre intéressant qui n’a pas pour but de déconstruire les mythes de la SF, mais plutôt d’expliquer ce que la science a à en dire aujourd’hui et ce qu’il serait potentiellement possible avec nos connaissances actuelles pour les voir devenir réalité.&lt;/p&gt;
+&lt;h1 id=&quot;lauteur&quot;&gt;L’auteur&lt;/h1&gt;
+&lt;p&gt;Roland Lehouch est astrophysicien au CEA de Saclay. Il a écrit un certain nombre d’ouvrages de vulgarisation scientifique comme par exemple “Les extraterrestres expliqués à mes enfants” ou “d’où viennent les pouvoirs de Superman ? Physique ordinaire d’un super-héros” (qui sont d’ailleurs dans ma &lt;a href=&quot;livres-a-lire.html&quot;&gt;liste de lecture&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Et franchement, si vous voulez en apprendre un peu plus sur la science et la science-fiction de manière sympa, ses ouvrages sont pour vous !&lt;/p&gt;
+&lt;h1 id=&quot;la-conclusion&quot;&gt;La conclusion&lt;/h1&gt;
+&lt;p&gt;Un livre qui se dévore pour qui a un peu lu de la science fiction et que je conseille à qui voudrait un peu savoir ce que coûter d’avoir un rayon tracteur sur un vaisseau qui va à warp 5 !&lt;/p&gt;
+&lt;p&gt;J’ai beaucoup aimé le lire et pour en savoir un peu plus sur Star Trek et ce qu’en dit la science, j’ai lu “The Physics of Star Trek” de L.M. Krauss dont je ferais bientôt une review. Après tout un trekkie doit tout savoir sur Star Trek !&lt;/p&gt;
+&lt;p style=&quot;display:block; margin-left:auto; margin-right:auto; width:300px&quot;&gt;
+&lt;img src=&quot;http://www.laprocure.com/cache/couvertures/9782746506190.jpg&quot; title=&quot;La SF sous les feux de la science - Crédit La procure&quot; alt=&quot;La SF sous les feux de la science chez Laprocure&quot; /&gt;
+&lt;/p&gt;
+
+
+</description>
+				<pubDate>Thu, 02 Jan 2014 15:30:00 +0100</pubDate>
+				<link>http://testdriventrekkie.com/livre/2014/01/02/livre--la-sf-sous-les-feux-de-la-science</link>
+				<guid isPermaLink="true">http://testdriventrekkie.com/livre/2014/01/02/livre--la-sf-sous-les-feux-de-la-science</guid>
+			</item>
+		
+			<item>
+				<title>Episode #155 de podcastscience : Tu simules ?</title>
+				<description>&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/podcastsciencelogo.png&quot; alt=&#39;Crédits : Podcastscience&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “Podcastscience”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;J’avais demandé aux animateurs de &lt;a href=&quot;www.podcastscience.fm&quot;&gt;podcastscience&lt;/a&gt; si ils pensaient faire un jour un épisode sur la simulation numérique, et comme ce n’était à priori pas le cas, je m’y suis collé ! L’épisode correspondant est passé sur podcastcience le jeudi 12 décembre 2013. Voici plus d’infos !&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;ul&gt;
+&lt;li&gt;L’épisode est disponible sur le site de podcastscience : &lt;a href=&quot;http://www.podcastscience.fm/emission/2013/12/16/podcast-science-155-tu-simules/?utm_source=rss&amp;amp;utm_medium=rss&amp;amp;utm_campaign=podcast-science-155-tu-simules&quot;&gt;Podcastscience 155 - Tu simules ?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Le dossier correspondant est disponible aussi chez podcastscience : &lt;a href=&quot;http://www.podcastscience.fm/dossiers/2013/12/12/la-simulation-numerique-12/&quot;&gt;La simulation numérique 1/2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Et si vous vous intéressez aux sources, vous pouvez retrouver ça sur le repository github correspondant : &lt;a href=&quot;https://github.com/dloureiro/ps-simulation_numerique_1-2&quot;&gt;dloureiro/ps-simulation_numerique_1-2&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;En espérant que cela plaise et intéresse les auditeurs du podcast :)&lt;/p&gt;
+</description>
+				<pubDate>Tue, 17 Dec 2013 18:40:00 +0100</pubDate>
+				<link>http://testdriventrekkie.com/science/2013/12/17/episode-155-de-podcastscience---tu-simules-</link>
+				<guid isPermaLink="true">http://testdriventrekkie.com/science/2013/12/17/episode-155-de-podcastscience---tu-simules-</guid>
+			</item>
+		
+			<item>
+				<title>Créer simplement des archives de billets pour Jekyll</title>
+				<description>&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/jekyll_logo_white.png&quot; alt=&#39;Crédits : http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Des archives de billets des blog et une liste par date dans une colonne, sont des éléments de base pour un blog. Voici comment les mettre en place simplement.&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;h1 id=&quot;introduction-et-problème-à-traiter&quot;&gt;Introduction et problème à traiter&lt;/h1&gt;
+&lt;p&gt;J’ai parcouru un certain nombre de billets, de repository github ou de gist qui décrivent comment mettre en place des archives pour des blogs ou sites basés sur Jekyll.&lt;/p&gt;
+&lt;p&gt;La plupart se focalisent sur la partie “page d’archives”. Sauf que j’ai aussi le besoin de pouvoir lister, par mois par exemple, le nombre de billets et d’éventuellement rediriger vers les pages mensuelles d’archives.&lt;/p&gt;
+&lt;h1 id=&quot;la-solution&quot;&gt;La solution&lt;/h1&gt;
+&lt;p&gt;La solution que j’ai trouvé est basée sur celle qu’a mis en place Richard Huang et qu’il décrit sur son billet : &lt;a href=&quot;http://blog.huangzhimin.com/2011/01/20/migrate-custom-blog-to-jekyll-and-disqus/&quot;&gt;Migrate Custom Blog to Jekyll and Disqus&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Elle est basée sur l’usage de &lt;a href=&quot;https://github.com/rfelix/jekyll_ext&quot;&gt;jekyll_ext&lt;/a&gt; qui est un ensemble d’extension pour jekyll permettant, apparemment, de le rendre plus flexible sans modifier la structure du code. En fait il s’agit avant tout d’un système d’injection de dépendances.&lt;/p&gt;
+&lt;p&gt;Le problème avec ça, c’est que ce n’est pas déployable chez github, il faut donc faire la compilation du blog chez soi et ensuite pousser la version compilée chez github. J’explique la manière de le faire sur le billet de blog suivant : &lt;a href=&quot;http://testdriventrekkie.com/web/2013/11/29/supporter-les-plugins-jekyll-avec-github/&quot;&gt;Supporter les plugins Jekyll avec Github&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ainsi vous n’avez qu’à installer &lt;em&gt;jekyll_ext&lt;/em&gt; comme expliqué sur le repo correspondant et utiliser &lt;code&gt;ejekyll&lt;/code&gt; au lien de &lt;code&gt;jekyll&lt;/code&gt; pour tout ce qui touche à la compilation, etc.&lt;/p&gt;
+&lt;h2 id=&quot;la-section-darchive-dans-la-barre-latérale&quot;&gt;La section d’archive dans la barre latérale&lt;/h2&gt;
+&lt;p&gt;Il suffit d’ajouter le code suivant à votre &lt;code&gt;default.html&lt;/code&gt; :&lt;/p&gt;
+&lt;pre class=&quot;sourceCode html&quot;&gt;&lt;code class=&quot;sourceCode html&quot;&gt;
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;
+  {% for monthly_archive in site.monthly_archives reversed %}
+  &lt;span class=&quot;kw&quot;&gt;&amp;lt;li&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;kw&quot;&gt;&amp;lt;a&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt; href=&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;&amp;quot;{{ site.baseurl }}/{{ monthly_archive.url }}&amp;quot;&lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;&amp;gt;&lt;/span&gt;{{ monthly_archive.name }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt; ({{ monthly_archive.posts | size }} posts)
+  &lt;span class=&quot;kw&quot;&gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  {% endfor %}
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;la-page-darchive-pour-les-billets-de-lannée&quot;&gt;La page d’archive pour les billets de l’année&lt;/h2&gt;
+&lt;pre class=&quot;sourceCode html&quot;&gt;&lt;code class=&quot;sourceCode html&quot;&gt;
+---
+layout: page
+title: Archives
+---
+
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;{{ page.year }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+
+{% for m in (1..12) reversed %}
+  {% if site.collated_posts[page.year][m] %}
+    &lt;span class=&quot;kw&quot;&gt;&amp;lt;h3&amp;gt;&lt;/span&gt;{{ m | to_month }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/h3&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;kw&quot;&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;
+    {% for d in (1..31) reversed %}
+      {% if site.collated_posts[page.year][m][d] %}
+        {% for p in site.collated_posts[page.year][m][d] reversed %}
+          &lt;span class=&quot;kw&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt; href=&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;&amp;#39;{{ p.url }}&amp;#39;&lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;&amp;gt;&lt;/span&gt;{{ p.title }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+        {% endfor %}
+      {% endif %}
+    {% endfor %}
+    &lt;span class=&quot;kw&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;
+  {% endif %}
+{% endfor %}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;la-page-darchive-pour-les-billets-dun-mois&quot;&gt;La page d’archive pour les billets d’un mois&lt;/h2&gt;
+&lt;pre class=&quot;sourceCode html&quot;&gt;&lt;code class=&quot;sourceCode html&quot;&gt;
+---
+layout: page
+title: Archives
+---
+
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;{{ page.month | to_month }} {{ page.year }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;
+  {% for d in (1..31) reversed %}
+    {% if site.collated_posts[page.year][page.month][d] %}
+      {% for p in site.collated_posts[page.year][page.month][d] reversed %}
+        &lt;span class=&quot;kw&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt; href=&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;&amp;#39;{{ p.url }}&amp;#39;&lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;&amp;gt;&lt;/span&gt;{{ p.title }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h2 id=&quot;la-page-darchive-pour-les-billets-dun-jour&quot;&gt;La page d’archive pour les billets d’un jour&lt;/h2&gt;
+&lt;pre class=&quot;sourceCode html&quot;&gt;&lt;code class=&quot;sourceCode html&quot;&gt;
+---
+layout: page
+title: Archives
+---
+ 
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;h1&amp;gt;&lt;/span&gt;{{ page.month | to_month }} {{ page.day }}, {{ page.year }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/h1&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;ul&amp;gt;&lt;/span&gt;
+  {% for p in site.collated_posts[page.year][page.month][page.day] reversed %}
+    &lt;span class=&quot;kw&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt;&lt;span class=&quot;ot&quot;&gt; href=&lt;/span&gt;&lt;span class=&quot;st&quot;&gt;&amp;#39;{{ p.url }}&amp;#39;&lt;/span&gt;&lt;span class=&quot;kw&quot;&gt;&amp;gt;&lt;/span&gt;{{ p.title }}&lt;span class=&quot;kw&quot;&gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+  {% endfor %}
+&lt;span class=&quot;kw&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;C’est donc finalement plutôt simple d’arriver à mettre en place des archives pour ses billets :)&lt;/p&gt;
+</description>
+				<pubDate>Mon, 16 Dec 2013 14:00:00 +0100</pubDate>
+				<link>http://testdriventrekkie.com/web/2013/12/16/crer-simplement-des-archives-de-billets-avec-pour-jekyll</link>
+				<guid isPermaLink="true">http://testdriventrekkie.com/web/2013/12/16/crer-simplement-des-archives-de-billets-avec-pour-jekyll</guid>
+			</item>
+		
+			<item>
+				<title>Ma liste de livres à lire</title>
+				<description>&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/google-livres.jpg&quot; alt=&#39;Crédits : http://livres-jeunesse.wifeo.com/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://livres-jeunesse.wifeo.com/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Je me suis remis à lire des livres papier et j’ai mis en ligne la liste des ouvrages que je voudrais voir passer entre mes mains. L’idée est de faire une petite review une fois finie la lecture.&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;La liste est disponible sur sa page spécifique : &lt;a href=&quot;/livres-a-lire.html&quot;&gt;Ma liste de livres à lire&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Je la mettrais à jour si jamais de nouveaux livres arrivent ou quand je ferais des reviews.&lt;/p&gt;
+&lt;p&gt;Je suis preneur d’idées pour la faire grandir :)&lt;/p&gt;
+</description>
+				<pubDate>Thu, 12 Dec 2013 16:30:00 +0100</pubDate>
+				<link>http://testdriventrekkie.com/livre/2013/12/12/ma-liste-de-livres--lire</link>
+				<guid isPermaLink="true">http://testdriventrekkie.com/livre/2013/12/12/ma-liste-de-livres--lire</guid>
+			</item>
+		
+			<item>
+				<title>Livre : À la recherche du boson de Higgs</title>
+				<description>&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/higgs.jpg&quot; alt=&#39;Crédits : CERN/AFP http://www.metronews.fr/info/prix-nobel-de-physique-le-boson-de-higgs-prime/mmjh!kA3cv892wrip2/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : CERN/AFP http://www.metronews.fr/info/prix-nobel-de-physique-le-boson-de-higgs-prime/mmjh!kA3cv892wrip2/
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Si jamais vous souhaitez enfin savoir ce qu’est le Boson de Higgs, pourquoi tant de physiciens de part le monde travaillent sur la question et les enjeux derrière a découverte, “À la recherche du boson de Higgs” est le livre qu’il vous faut lire absolument!&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;Cela fait maintenant un peu plus d’un an que l’annonce de la découvert du boson de Higgs a été annoncée. On devrait d’ailleurs dire le boson de Brout-Englert-Higgs soit-dit en passant. Souhaitant en savoir un peu plus que les articles que je pouvais lire sur Futura-sciences, j’ai acheté un petit livre : “À la recherche du boson de Higgs” de Christophe Grojean, Laurent Vacavant.&lt;/p&gt;
+&lt;h1 id=&quot;le-livre&quot;&gt;Le livre&lt;/h1&gt;
+&lt;p&gt;Ce livre aggrège tout ce que l’on peut attendre d’un bon livre : il est court, il est facile à comprendre et il est pas cher ! Pour 3 euros, vous disposez d’une explication claire et simple à comprendre des tenants et des aboutissants de cette découverte.&lt;/p&gt;
+&lt;p&gt;On découvre ainsi dans ce livre le modèle standard, les forces, les particules, les bosons, et pourquoi il était nécessaire que ce boson existe afin que cet édifice de la physique moderne puisse exister.&lt;/p&gt;
+&lt;p&gt;On découvre ensuite ce qu’il a fallu faire pour en arriver à cette découverte, les accélérateurs de particule, le LHC et les détecteurs utilisés.&lt;/p&gt;
+&lt;p&gt;On arrive enfin sur les questions que cette particule va poser et celles qui resteront à se poser, voire celles qui apparaîtront peut-être&lt;/p&gt;
+&lt;p&gt;En tout cas un livre à ne pas manquer si vous vous intéressez à la physique, à la cosmologie, à la physique des particules, etc!&lt;/p&gt;
+&lt;h1 id=&quot;les-auteurs&quot;&gt;Les auteurs&lt;/h1&gt;
+&lt;p&gt;Pour reprendre la quatrième de couverture :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Théoricien, Christophe Grojean est spécialiste des particules élémentaires. Il vient de rejoindre comme professeur l’Institut de physique des hautes énergies à Barcelone. Laurent Vacavant est chercheur en physique expérimentale des particules et travaille sur l’expérience ATLAS au LHC. Il est actuellement directeur de recherche au Centre de physique des particules de Marseille.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p style=&quot;display:block; margin-left:auto; margin-right:auto; width:300px&quot;&gt;
+&lt;img src=&quot;http://www.unitheque.com/UploadFile/CouvertureA/9782290054000-recherche-boson-higgs_g.jpg&quot; title=&quot;À la recherche du boson de Higgs - Crédit unithèque&quot; alt=&quot;À la recherche du boson de Higgs - Unithèque&quot; /&gt;
+&lt;/p&gt;
+
+
+</description>
+				<pubDate>Wed, 04 Dec 2013 12:23:06 +0100</pubDate>
+				<link>http://testdriventrekkie.com/livre/2013/12/04/livre---la-recherche-du-boson-de-higgs</link>
+				<guid isPermaLink="true">http://testdriventrekkie.com/livre/2013/12/04/livre---la-recherche-du-boson-de-higgs</guid>
+			</item>
+		
+			<item>
+				<title>Les étapes à réaliser pour un blog qui roxe avec Jekyll</title>
+				<description>&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/jekyll_logo_white.png&quot; alt=&#39;Crédits : http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Pour monter un blog simplement et sans prise de tête, Jekyll est une bonne base. Pour avoir un blog qui roxe, voici la liste des étapes à réaliser.&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;Jekyll est une base très intéressante pour monter un blog sans se prendre la tête avec les histoires de base de données, ou de version de PHP, ou même de langage serveur moins classique comme Ruby ou Python pour des blogs.&lt;/p&gt;
+&lt;p&gt;Voici la liste des tâches à réaliser pour avoir un blog sans prise de tête, simple à utiliser et qui roxe !&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://testdriventrekkie.com/web/2013/11/13/jekyll-bootstrap-et-github-pour-un-blog-en-quelques-minutes&quot;&gt;Utilisez une version de Jekyll responsive avec Jekyll-Bootstrap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://testdriventrekkie.com/web/2013/11/14/utilisation-de-nom-de-domaine-avec-jekyll-github-et-gandi&quot;&gt;Hébergez votre site chez Github et utilisez un nom de domaine de chez Gandi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://testdriventrekkie.com/web/2013/11/29/supporter-les-plugins-jekyll-avec-github&quot;&gt;Utilisez des plugins Jekyll sur Github sans prise de tête&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://testdriventrekkie.com/web/2013/12/03/jekyll-et-les-flux-rss&quot;&gt;Mise en place de flux rss pour Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://testdriventrekkie.com/web/2013/12/03/jekyll--ajouter-les-meta-a-vos-pages&quot;&gt;Mise en place de méta pour Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://testdriventrekkie.com/web/2013/12/16/crer-simplement-des-archives-de-billets-avec-pour-jekyll&quot;&gt;Archives annuelles, mensuelles et journalières avec Jekyll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mise en place de recherche full-text pour un blog Jekyll&lt;/li&gt;
+&lt;li&gt;Une pagination qui marche avec Jekyll&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Je mettrais à jour ce billet à chaque fois que j’ajouterais de nouvelles fonctionnalités à ce blog basé sur Jekyll.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;[Mise à jour] - 17/12/2013 : ajout du billet sur les archives pour Jekyll ainsi que des futurs billets sur la recherche full-text et la pagination qui marche&lt;/strong&gt;&lt;/p&gt;
+</description>
+				<pubDate>Wed, 04 Dec 2013 12:21:57 +0100</pubDate>
+				<link>http://testdriventrekkie.com/web/2013/12/04/les-tapes--raliser-pour-un-blog-qui-roxe-avec-jekyll</link>
+				<guid isPermaLink="true">http://testdriventrekkie.com/web/2013/12/04/les-tapes--raliser-pour-un-blog-qui-roxe-avec-jekyll</guid>
+			</item>
+		
+			<item>
+				<title>Jekyll : Ajouter les meta a vos pages</title>
+				<description>&lt;p&gt;
+&lt;figure style=&quot;background-color:white;&quot;&gt;
+&lt;img style=&quot;background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px&quot; src=&quot;http://testdriventrekkie.com/assets/images/jekyll_logo_white.png&quot; alt=&#39;Crédits : http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/&#39;/&gt;
+&lt;figcaption style=&quot;color:black; margin-top:auto; position:relative; bottom:0&quot;&gt;
+Crédits : “http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/”
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Le thème Jekyll-Bootstrap que j’utilise est plutôt léger concernant les méta qui peuvent servir à faire du SEO (Search Engine Optimization). Voici ce qu’il est possible de faire pour améliorer ça.&lt;/p&gt;
+&lt;!-- *more* --&gt;
+
+&lt;p&gt;De base dans le layout par défaut utiliser pour toutes les pages du thème hooligan, il y a quelques éléments dans les méta :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;la description quand on est sur une page&lt;/li&gt;
+&lt;li&gt;l’auteur&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Et puis c’est tout !&lt;/p&gt;
+&lt;p&gt;Pour voir le résultat des modifications que j’ai apporté au layout de base pour le thème hooligan que j’utilise sur ce site, vous pouvez vous rendre à l’adresse suivante : &lt;a href=&quot;https://github.com/dloureiro/dloureiro.github.io/blob/source/_includes/themes/hooligan/default.html&quot;&gt;https://github.com/dloureiro/dloureiro.github.io/blob/source/_includes/themes/hooligan/default.html&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;quels-sont-les-méta-utiles-et-utilisables&quot;&gt;Quels sont les méta utiles et utilisables&lt;/h1&gt;
+&lt;p&gt;Pour infos, ces informations viennent du très bon billet chez paradigmatic : &lt;a href=&quot;http://paradigmatic.streum.org/2011/02/generating-html-meta-data-with-jekyll/&quot;&gt;Generating html meta data with Jekyll&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;En plus de l’auteur que l’on va conserver, voici les meta que l’on va définir :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;description&lt;/li&gt;
+&lt;li&gt;keywords&lt;/li&gt;
+&lt;li&gt;date&lt;/li&gt;
+&lt;li&gt;robots&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;description&quot;&gt;Description&lt;/h2&gt;
+&lt;p&gt;La description est une des valeurs meta utilisée par les moteurs de recherche. Cette valeur ne sert qu’à l’amélioration de l’affiche de votre site sur les pages de recherche. Elle n’améliore en rien le classement de vos pages.&lt;/p&gt;
+&lt;p&gt;voici ce que j’utilise :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;\{\%if page.title \%\}
+&amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;\{\{ site.title \}\} : \{\{page.title\}\}&amp;quot; /&amp;gt;
+\{\% else \%\}
+&amp;lt;meta name=&amp;quot;description&amp;quot; content=&amp;quot;\{\{ site.title \}\} : \{\{site.tagline\}\}&amp;quot; /&amp;gt;
+\{\% endif \%\}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;&lt;strong&gt;Remarque :&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Toutes les accolades et les pourcentages sont échappés dans le code afin d’éviter que Jekyll les interprète. Si vous souhaitez réutiliser le code présenté ici, je vous conseille directement d’aller voir le fichier cité plus haut qui contient les éléments décrits dans ces différentes sous-sections.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;L’idée est ici d’utiliser les données qui sont présentes dans le fichier de configuration de Jekyll (&lt;code&gt;title&lt;/code&gt; et &lt;code&gt;tagline&lt;/code&gt;) et le titre des pages sur lesquelles on va aller. À savoir que lors de l’affichage d’un billet (post), on a aussi dans la variable &lt;code&gt;page&lt;/code&gt; le titre du billet affiché.&lt;/p&gt;
+&lt;h2 id=&quot;keywords&quot;&gt;Keywords&lt;/h2&gt;
+&lt;p&gt;Les mots-clés ou keywords ont beaucoup été utilisés, et malheureusement parfois de manière abusives et maintenant ils ne sont plus vraiment utilisés par les moteurs de recherche pour le classement des pages. Cependant, pour l’analyse de contenu ils peuvent s’avérer utiles.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;\{\% if page.tags \%\}
+&amp;lt;meta name=&amp;quot;keywords&amp;quot; content=&amp;quot;\{\{page.categories | join: &amp;#39;,&amp;#39;\}\},\{\{page.tags | join: &amp;#39;,&amp;#39;\}\},\{\{site.keywords | join: &amp;#39;,&amp;#39;\}\}&amp;quot; /&amp;gt;
+\{\% elsif page.categories \%\}
+&amp;lt;meta name=&amp;quot;keywords&amp;quot; content=&amp;quot;\{\{page.categories | join: &amp;#39;,&amp;#39;\}\},\{\{site.keywords | join: &amp;#39;,&amp;#39;\}\}&amp;quot; /&amp;gt;
+\{\% else \%\}
+&amp;lt;meta name=&amp;quot;keywords&amp;quot; content=&amp;quot;\{\{site.keywords | join: &amp;#39;,&amp;#39;\}\}&amp;quot; /&amp;gt;
+\{\% endif \%\}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;L’idée ici est de se service des mots-clés qui seront définis au sein du fichier &lt;code&gt;_config.yml&lt;/code&gt; pour servir de base.&lt;/p&gt;
+&lt;p&gt;Ensuite, en fonction que l’endroit où l’on se trouve, on aura :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;si on se trouve sur un billet on aura les catégories, plus les tags et ensuite les mots-clés définis dans le fichier de configuration&lt;/li&gt;
+&lt;li&gt;si l’on se trouve sur une page on aura les catégories plus les mots-clés définis dans le fichier de configuration&lt;/li&gt;
+&lt;li&gt;si on se trouve sur une page sans catégorie, on aura les mots-clés globaux&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;date&quot;&gt;Date&lt;/h2&gt;
+&lt;p&gt;Si vous voulez ajouter la date dans les meta, voici la façon que j’utilise :&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;\{\% if page.date \%\}
+&amp;lt;meta http-equiv=&amp;quot;date&amp;quot; content=&amp;quot;\{\{page.date |date: &amp;#39;%A, %d  %Y %H:%M:%S GMT&amp;#39;\}\}&amp;quot; /&amp;gt;
+\{\% else \%\}
+&amp;lt;meta http-equiv=&amp;quot;date&amp;quot; content=&amp;quot;\{\{site.time |date: &amp;#39;%A, %d  %Y %H:%M:%S GMT&amp;#39;\}\}&amp;quot; /&amp;gt;
+\{\% endif \%\}&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Ici, on va utiliser la date qui sera défini dans les pages (surtout dans les billets en fait) si jamais elle existe. Dans le cas contraire on utilise la variable que Jekyll définit de base &lt;code&gt;site.date&lt;/code&gt;.&lt;/p&gt;
+&lt;h2 id=&quot;robots&quot;&gt;Robots&lt;/h2&gt;
+&lt;p&gt;Cette variable dit aux robots qui sont utilisés par les moteurs de recherche lors de l’indexation, si l’on souhaite effectivement que la page courante soit indexée ou si on souhaite par exemple suivre les liens présents dans les pages ou pas.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;meta name=&amp;quot;robots&amp;quot; content=&amp;quot;\{\{page.index\}\}INDEX,\{\{page.follow\}\}FOLLOW&amp;quot; /&amp;gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Ici par exemple, lorsque l’on défini dans les billets ou les pages les variables &lt;code&gt;index&lt;/code&gt;ou &lt;code&gt;follow&lt;/code&gt; à &lt;code&gt;NO&lt;/code&gt; cela va générer les meta &lt;code&gt;NOINDEX&lt;/code&gt; ou &lt;code&gt;NOFOLLOW&lt;/code&gt; respectivement.&lt;/p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Avec toutes ces infos vous pouvez facilement ajouter des meta à vos pages pour améliorer le SEO. C’est simple et ce serait dommage de s’en priver !&lt;/p&gt;
+</description>
+				<pubDate>Tue, 03 Dec 2013 21:53:24 +0100</pubDate>
+				<link>http://testdriventrekkie.com/web/2013/12/03/jekyll--ajouter-les-meta-a-vos-pages</link>
+				<guid isPermaLink="true">http://testdriventrekkie.com/web/2013/12/03/jekyll--ajouter-les-meta-a-vos-pages</guid>
+			</item>
+		
+	</channel>
+</rss>

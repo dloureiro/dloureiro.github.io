@@ -1,0 +1,947 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>
+    
+    Jekyll, bootstrap et github pour un blog en quelques minutes - 
+    
+    Test Driven Trekkie
+  </title>
+  <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="favicon.ico" />
+  <meta name="robots" content="INDEX,FOLLOW" />
+  
+  <meta name="description" content="Test Driven Trekkie : Jekyll, bootstrap et github pour un blog en quelques minutes" />
+  
+
+  
+  <meta http-equiv="date" content="Wednesday, 13  2013 17:16:00 GMT" />
+  
+
+  
+  <meta name="keywords" content="web,jekyll,bootstrap,github,blog,Test,Trekkie,Expériences,Science,HPC,Cloud,Dev,Open Source,Entrepreneur" />
+  
+  <meta name="author" content="David Loureiro">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+      <![endif]-->
+
+      <link href="/assets/themes/hooligan/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+      <link href="/assets/themes/hooligan/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">    
+      <link rel="stylesheet" type="text/css" href="/assets/themes/hooligan/css-social-buttons/css/zocial.stripped.css">
+      <link href="/assets/themes/hooligan/css/pygments.css" rel="stylesheet" type="text/css" media="all">
+      <link href="/assets/themes/hooligan/css/darkstrap.css" rel="stylesheet" type="text/css" media="all">    
+      <link href="/assets/themes/hooligan/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+
+
+      <!-- fav and touch icons -->
+  <!-- Update these with your own images
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+  -->
+</head>
+
+<body>
+  <div class="navbar">
+    <div class="navbar-inner">
+      <div class="container-fluid">
+        <!-- .btn-navbar is used as the toggle for collapsed navbar content -->
+        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </a>      
+
+
+        <a class="brand" href="/">Test Driven Trekkie</a>
+
+
+        <div class="nav-collapse">
+          <ul class="nav">
+            
+            
+            
+
+
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/archive.html">Archives</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/categories.html">Catégories</a></li>
+      	
+      
+    
+  
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/livres-a-lire.html">Livres à lire</a></li>
+      	
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/pages.html">Pages</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+      	
+      	<li><a href="/tags.html">Tags</a></li>
+      	
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+    
+      
+    
+  
+
+
+
+          </ul>
+          <ul class="nav pull-right social visible-desktop">
+            <li class="divider-vertical"></li>
+            
+            <li>
+              <a href="https://github.com/dloureiro" class="zocial github icon" target="_blank">
+                <span class="hidden-desktop">Github</span>
+              </a>
+            </li>
+            
+            
+            <li>
+              <a href="https://plus.google.com/+DavidLoureiroFr" class="zocial googleplus icon" target="_blank">
+                <span class="hidden-desktop">Google+</span>
+              </a>
+            </li>
+                
+            
+            <li>
+              <a href="https://twitter.com/DavidLoureiroFr" class="zocial twitter icon" target="_blank">
+                <span class="hidden-desktop">Twitter</span>
+              </a>
+            </li>
+                                      
+            
+            <li>
+              <a href="http://www.facebook.com/david.loureiro.fr" class="zocial facebook icon" target="_blank">
+                <span class="hidden-desktop">Facebook</span>
+              </a>
+            </li>
+                       
+            
+            <li>
+              <a href="http://www.linkedin.com/in/davidloureiro" class="zocial linkedin icon" target="_blank">
+                <span class="hidden-desktop">LinkedIn</span>
+              </a>
+            </li>
+                                
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span8 well">
+
+
+          <div class="row-fluid">
+            <div class="span12 well">
+            <h1>Jekyll, bootstrap et github pour un blog en quelques minutes 
+              
+            </h1>
+            </div>
+          </div>
+      
+        <div class="row-fluid">
+          <div class="span12 well" id="search-results" style="display: none;">
+            <h2>Résultats de recherche</h2>
+            <div class="entries">
+            </div>
+          </div>
+        </div>
+        <div id="regularContent">
+        
+<div class="row-fluid">
+  <div class="span12 well">
+
+    <section>
+      <h4 style="display:inline">Publié le</h4>
+      <div class="date" style="display:inline"><span>13 nov. 17:16</span></div>
+    </section>
+         
+    
+    <section>
+      <h4 style="display:inline">Tags</h4>
+      <ul class="tag_box" style="display:inline">
+        
+        
+
+
+  
+    
+    	<li style="display:inline"><a class="label label-info" href="/tags.html#jekyll-ref">jekyll <span class="badge badge-success">8</span></a></li>
+    
+    	<li style="display:inline"><a class="label label-info" href="/tags.html#bootstrap-ref">bootstrap <span class="badge badge-success">1</span></a></li>
+    
+    	<li style="display:inline"><a class="label label-info" href="/tags.html#github-ref">github <span class="badge badge-success">4</span></a></li>
+    
+    	<li style="display:inline"><a class="label label-info" href="/tags.html#blog-ref">blog <span class="badge badge-success">2</span></a></li>
+    
+  
+
+
+
+      </ul>
+    </section>
+      
+    
+    <section>
+      <h4 style="display:inline">Partage</h4>
+          <div id="fb-root"></div>
+
+<ul class="post-share" style="list-style-type:none; margin:5px; margin-top:10px">
+
+<!-- Google+ -->
+<li class="gp" style="display:inline"><div class="g-plusone" data-size="medium" data-annotation="bubble" data-width=""></div></li>
+
+<!-- Twitter -->
+<li class="tw" style="display:inline"><a href="https://twitter.com/share" data-text="#Jekyll, #bootstrap et #Github pr un blog rapide!" class="twitter-share-button" data-via="TDTrekkie" data-lang="fr" >Tweeter</a></li>
+
+<!-- Facebook -->
+<li class="fb" style="display:inline"><div class="fb-like" data-href="" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div></li>
+</ul>
+<script>
+  
+(function(doc, script) {
+ 	
+	//Async Social Buttons
+    var js, 
+        fjs = doc.getElementsByTagName(script)[0],
+        add = function(url, id) {
+            if (doc.getElementById(id)) {return;}
+            js = doc.createElement(script);
+            js.src = url;
+            id && (js.id = id);
+            fjs.parentNode.insertBefore(js, fjs);
+        };  
+
+    // Google+ button
+    add('https://apis.google.com/js/plusone.js');
+
+}(document, 'script'));
+
+</script>
+
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/fr_FR/all.js#xfbml=1&appId=348058138624352";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+    </section>
+    
+ <!--   <section>
+    <h4>Autres formats</h4>
+    <ul>
+    
+  </ul>
+    </section>-->
+  </div>
+</div>
+
+<div class="row-fluid">
+  <div class="span12">
+    <p>
+<figure style="background-color:white;">
+<img style="background-color:white; display:block; margin-left:auto; margin-right:auto; width:300px" src="http://testdriventrekkie.com/assets/images/jekyll_logo_white.png" alt='Crédits : http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/'/>
+<figcaption style="color:black; margin-top:auto; position:relative; bottom:0">
+Crédits : “http://jeffskinnerbox.me/2013/09/01/im-moving-so-i-can-blog-with-ipython-notebook/”
+</figcaption>
+</figure>
+</p>
+
+<p>Pour mettre en place un site rapidement (ou un blog pour faire simple) il y a milles possibilités. L’expérience que j’ai me fait dire que l’on a trois gros points à regarder quand on souhaite faire cela sans trop se prendre la tête et en ayant quelque chose de simple :</p>
+<ul>
+<li>Le moteur de blog</li>
+<li>L’hébergeur</li>
+<li>L’interfaçage entre les deux</li>
+</ul>
+<!-- *more* -->
+
+<h1 id="le-besoin">Le Besoin</h1>
+<p>Mon besoin était le suivant : Il me fallait un moteur assez simple à utiliser pour ne pas avoir à dépendre d’une grande quantité de pré-requis, il fallait que la communauté soit suffisamment grande pour disposer de documentation et de plugins, il fallait aussi que je puisse disposer d’une infra sous-jacente simple à utiliser.</p>
+<p>Et tout cela sans débourser un copec.</p>
+<h1 id="le-moteur-de-blog">Le moteur de blog</h1>
+<h2 id="les-solutions-classiques">Les solutions classiques</h2>
+<p>Depuis une petite dizaine d’années, j’ai utilisé plusieurs moteurs de blog :</p>
+<ul>
+<li><a href="http://fr.dotclear.org/">Dotclear</a></li>
+<li><a href="http://fr.wordpress.org/">Wordpress</a></li>
+<li>Des moteurs plus light qui se reposent sur des bases de données de type sqlite ou xml : <a href="http://www.pluxml.org/">plumxl-blog est un exemple</a></li>
+<li>Des CMS comme <a href="http://www.joomla.org/">Joomla</a> ou <a href="http://drupalfrance.com/">Drupal</a></li>
+<li>Des moteurs de wiki comme <a href="http://www.mediawiki.org/wiki/MediaWiki/fr">mediawiki</a></li>
+<li><a href="http://www.blogger.com/">Blogger</a></li>
+</ul>
+<p>Tous sauf Blogger sont libres mais tous sont utilisables librement. <a href="http://fr.wordpress.com/">Wordpress online</a> est un peu différent dans ses conditions d’utilisation.</p>
+<p>Un des points importants est qu’il est important de trouver un outil qui correspondent à vos besoins, qui dispose d’une grande communauté, qui possède un grand nombre de plugins et qui soit bien supporté par la plate-forme sous-jacente (base de données, version de php, etc).</p>
+<p>Wordpress en tant que leader incontesté est souvent le plus “standard”. Il reste cependant lourd et il faut une base de données. Il possède cependant un grand nombre de plugins qui permettent souvent de lui adjoindre les fonctionnalités exotiques qu’il pourrait lui manquer et dont vous pourriez avoir besoin. Et je ne vous parle par de la communauté…</p>
+<p>Dotclear est un concurrent de Wordpress en terme de fonctionnalités, et de pré-requis. Cependant il possède une communauté moins grande et un support moins grand quand on va du côté des plate-formes (typiquement l’hébergement de free ne permet pas son utilisation).</p>
+<p>Les outils en ligne comme Blogger ou Wordpress online sont intéressants car vous n’avez pas à vous embêter avec la plate-forme, l’intégration la gestion des versions, etc. Mais vous perdez aussi la mains le code, sur la base de données en même temps.</p>
+<p>Les moteurs de wiki peuvent être intéressants (notamment wikimedia qui est derrière wikipédia), mais ce n’est vraiment pas le même usage pour le même type de pré-requis que wordpress par exemple.</p>
+<p>En ce qui concerne les moteurs de blog qui se basent des bases de type sqlite, ils ont une communauté restreinte et moins de plugins et de support que les autres solutions, mais en même temps ils ont des pré-requis plus simple (notamment en terme de base de données).</p>
+<p>Les CMS sont intéressants, mais cela peut devenir compliqué pour un simple blog, les technologies comme Joomla ou encore Drupal imposent peut-être de franchir une marche trop haute pour pouvoir les prendre en main et aboutir à un blog.</p>
+<p>Tout ceci ne me satisfaisait pas vraiment, j’avais besoin d’un outil simple pour rédiger les billets de blog, avec une bonne communauté, sans pré-requis importants.</p>
+<h2 id="solution-choisie">Solution choisie</h2>
+<p><a href="http://jekyllrb.com/"><strong>Jekyll !</strong></a></p>
+<p>Cette techno possède plein de caractéristiques sympathiques :</p>
+<ul>
+<li>Il s’agit d’un moteur de blog statique. Les pages sont pré-générées et une fois sur l’infrastructure qui hébergera le blog, le service des pages sera plus rapide. En fait si on regarde bien, assez peut de choses ont besoin d’être générées à la volée. Les commentaires vont éventuellement nécessiter quelque chose de dynamique, mais maintenant des technologies comme <a href="http://disqus.com/">Disqus</a> fonctionnent.</li>
+<li>Il n’a donc pas besoin de base de données et les billets sont écrits en <a href="http://daringfireball.net/projects/markdown/syntax">Markdown</a>. Magnifique, moi qui aime bien ce format de texte pur, c’est parfait.</li>
+<li>La communauté est plutôt large car il s’agit en fait du moteur de page utilisé par <a href="https://github.com/">Github</a>, le plus grand réseau de social coding.</li>
+<li>C’est bien intégré avec des outils comme bootstrap pour avoir des sites web responsive (notamment <a href="http://jekyllbootstrap.com/">Jekyll-bootstrap</a> qui est la version que j’utilise).</li>
+<li>C’est très extensible et il existe un grand nombre de plugins et de thèmes sur le net</li>
+<li>Un système de build de chez ruby nommé rake qui vous permet de créer en un clin d’oeil, une page, un post, d’installer ou de changer le thème, etc.</li>
+</ul>
+<p>Pour certains, le fait que cela soit en Ruby peut poser problème. Bon pour moi non, et comme j’utilise un hébergeur qui fournit le support de Jekyll, c’est pas un problème. Mais sinon, d’une certaine manière, comme Jekyll permet la génération d’un site statique, nous n’avez vraiment besoin de Ruby que sur votre machine</p>
+<h1 id="les-plates-formes">Les plates-formes</h1>
+<p>Une fois que l’on a le moteur, il faut la voiture, ici en l’occurence la plate-forme d’hébergement qui se doit d’être gratuite.</p>
+<p>J’ai pu tester différents providers :</p>
+<ul>
+<li><a href="http://pagesperso.free.fr/">Free</a></li>
+<li><a href="http://www.espace4you.org/">Espace4you</a></li>
+<li>Du PaaS comme <a href="https://www.openshift.com/">OpenShift</a></li>
+</ul>
+<p>Le problème avec Free c’est que l’on est limité par la version de PHP disponible et par la version de MySQL. Donc ça va bien pour certaines choses, mais pas pour tout. Par exemple, il n’est pas possible d’utiliser la dernière version de Wordpress par exemple …</p>
+<p>Pour Espace4You, il s’agit en fait d’un hébergeur qui à l’époque était affilié au <a href="http://www.rhien.org/">RHIEN</a> un réseau d’hébergeurs gratuit qui fournit finalement un servir dont la qualité, est ce qu’elle est. Si vous ne craignez pas de débugguer le provider et que le fait que vos site soit down un peu de temps par-ci, par-là, alors allez-y. Ils sont sympa :)</p>
+<p>Pour ce qui est d’OpenShift c’était un test qui finalement s’est avéré plutôt intéressant. L’idée derrière un PaaS est que vous n’avez pas à gérer la plate-forme, elle est gérée pour vous. Vous pouvez ainsi disposer d’une petite machine virtuelle pour pas cher avec quelques service comme PHP ou MySQL. Vous pouvez même utiliser des “gears” (cela correspond à une fonctionnalité comme PHP, MySQL, etc) pour Wordpress ou d’autres outils de ce type. Et en plus, cerise sur le gâteau, vous avez git à disposition pour versionner vos fichiers. Le rêve pour un geek :)</p>
+<p>Bon pour avoir testé wordpress sur OpenShift, c’est pas top. Déjà parce qu’on doit rester dans les clous de ce que cela nous permet :la gestion des plugins wordpress est un bordel sans nom entre ceux que l’on installe soit même via l’interface et ceux que l’on pousse via git par exemple.</p>
+<p>Plutôt rapide à mettre en place, on se prend pas la tête, la lenteur est peut-être juste le seul bémol selon moi.</p>
+<h1 id="solution-choisie-1">Solution choisie</h1>
+<p><a href="https://github.com/"><strong>Github !</strong></a></p>
+<p>En fait, quand j’ai découvert Jekyll, je me suis rendu compte que ce que Github pouvait fournir pour des pages de projet (avoir une page qui décrit un projet par exemple, sa doc, son utilisation, son installation, etc) via la branch <code>gh-pages</code> d’un repository, on pouvait l’avoir directement pour un utilisateur. Et comme ils hébergent directement Jekyll en interne, il suffit de pousser sur git ses modifications et elles sont prises en compte automatiquement !</p>
+<p>En fait dans ce cadre-là, Github sert de plate-forme de PaaS car finalement on en revient globalement aux mêmes fonctionnalités qu’un PaaS.</p>
+<p>Et tout ça est gratuit :)</p>
+<p>La qualité de service est top (on parle de github hein) et git est une technologie de plus en plus utilisée pour le déploiement de code sur les plates-formes SaaS ou PaaS par exemple, donc ça fonctionne.</p>
+<h1 id="en-conclusion">En conclusion</h1>
+<p>Avec Jekyll-bootstrap qui est une version responsive et plus user-friendly je trouve que Jekyll (mais toujours compatible) et github, on arrive à avoir un simple simple à utiliser, gratuit, avec un moteur ayant une grosse communauté et plein de plugins et finalement on dispose d’une infra dont on ne s’occupe pas avec une super qualité de service.</p>
+<p>Dans un poste suivant j’expliquerais comment changer le nom du blog qui est quelque chose comme <code>http://user.github.io</code>en ce que vous voulez.</p>
+
+    <hr>
+    <div class="pagination btn-group">
+      
+      <a class="btn prev" href="/mac/2013/04/07/installation-de-mountain-lion-sur-un-nouveau-disque" title="Installation de Mountain Lion sur un nouveau disque">&larr; Précédent</a>
+      
+      <a class="btn" href="/archive.html">Archives</a>
+      
+      <a class="btn next" href="/science/2013/11/13/retranscription-podcastscience-149" title="Retranscription podcastscience #149">Suivant &rarr;</a>
+      
+    </div>
+    <hr/>
+    
+        <h4>Commentaires</h4>
+        <div class="post-comments">
+            
+
+
+  <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_developer = 1;
+    var disqus_shortname = 'dloureirogithub'; // required: replace example with your forum shortname
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+
+
+        </div>
+        <hr />
+    
+    
+        <aside id="related">
+            <h4>Billets similaires</h4>
+            <ul class="posts">
+                
+                <li>
+                    <span>07 Apr 2013</span> &raquo; <a href="/mac/2013/04/07/installation-de-mountain-lion-sur-un-nouveau-disque">Installation de Mountain Lion sur un nouveau disque</a>
+                </li>
+                
+                <li>
+                    <span>13 Nov 2013</span> &raquo; <a href="/science/2013/11/13/retranscription-podcastscience-149">Retranscription podcastscience #149</a>
+                </li>
+                
+                <li>
+                    <span>14 Nov 2013</span> &raquo; <a href="/web/2013/11/14/utilisation-de-nom-de-domaine-avec-jekyll-github-et-gandi">Utilisation de nom de domaine avec Jekyll, Github et Gandi</a>
+                </li>
+                
+            </ul>
+        </aside>
+        <hr />
+    
+  </div>
+</div>
+
+
+        </div>
+      </div>
+
+      <div class="span4 well">
+        <div class="row-fluid">
+          <div class="span12 well">
+            <h2 class="widget-title">Recherche</h2>
+            <div id="search">
+            <form action="/search.html" method="get">
+              <input type="text" id="search-query" class="search-query" name="q" placeholder="Recherche" autocomplete="off">
+            </form>
+            </div>
+          </div>
+        </div>
+        <div class="row-fluid">
+          <div class="span12 well">
+          <h2 class="widget-title">Catégories</h2>
+          <ul>
+            
+            <li><a href="/categories/mac">mac (1)</a></li>
+            
+            <li><a href="/categories/web">web (10)</a></li>
+            
+            <li><a href="/categories/science">science (2)</a></li>
+            
+            <li><a href="/categories/livre">livre (5)</a></li>
+            
+            <li><a href="/categories/histoire">histoire (1)</a></li>
+            
+          </ul>
+          </div>
+        </div>
+        <div class="row-fluid">
+          <div class="span12 well">
+          <h2>Billets récents</h2>
+          <ul>
+            
+            <li>
+              <a href="/web/2014/01/24/rponse-au-quiz-de-podcastscience-sur-la-transplantation-fcale" title="Réponse au quiz de Podcastscience sur la transplantation fécale" rel="bookmark">Réponse au quiz de Podcastscience sur la transplantation fécale</a>
+            </li>
+            
+            <li>
+              <a href="/histoire/2014/01/22/histoire-incomprhensible--le-renard-amoureux-de-la-poule" title="Histoire incompréhensible : Le renard amoureux de la poule" rel="bookmark">Histoire incompréhensible : Le renard amoureux de la poule</a>
+            </li>
+            
+            <li>
+              <a href="/livre/2014/01/06/livre--le-cantique-des-quantiques" title="Livre : Le cantique des quantiques" rel="bookmark">Livre : Le cantique des quantiques</a>
+            </li>
+            
+            <li>
+              <a href="/livre/2014/01/02/livre--la-sf-sous-les-feux-de-la-science" title="Livre : La SF sous les feux de la science" rel="bookmark">Livre : La SF sous les feux de la science</a>
+            </li>
+            
+            <li>
+              <a href="/science/2013/12/17/episode-155-de-podcastscience---tu-simules-" title="Episode #155 de podcastscience : Tu simules ?" rel="bookmark">Episode #155 de podcastscience : Tu simules ?</a>
+            </li>
+            
+            <li>
+              <a href="/web/2013/12/16/crer-simplement-des-archives-de-billets-avec-pour-jekyll" title="Créer simplement des archives de billets pour Jekyll" rel="bookmark">Créer simplement des archives de billets pour Jekyll</a>
+            </li>
+            
+            <li>
+              <a href="/livre/2013/12/12/ma-liste-de-livres--lire" title="Ma liste de livres à lire" rel="bookmark">Ma liste de livres à lire</a>
+            </li>
+            
+            <li>
+              <a href="/livre/2013/12/04/livre---la-recherche-du-boson-de-higgs" title="Livre : À la recherche du boson de Higgs" rel="bookmark">Livre : À la recherche du boson de Higgs</a>
+            </li>
+            
+            <li>
+              <a href="/web/2013/12/04/les-tapes--raliser-pour-un-blog-qui-roxe-avec-jekyll" title="Les étapes à réaliser pour un blog qui roxe avec Jekyll" rel="bookmark">Les étapes à réaliser pour un blog qui roxe avec Jekyll</a>
+            </li>
+            
+            <li>
+              <a href="/web/2013/12/03/jekyll--ajouter-les-meta-a-vos-pages" title="Jekyll : Ajouter les meta a vos pages" rel="bookmark">Jekyll : Ajouter les meta a vos pages</a>
+            </li>
+            
+          </ul>
+          </div>
+        </div>
+        <div class="row-fluid">
+          <div class="span12 well">
+            <h2>Archives</h2>
+              <ul>
+              
+                <li><a href="/2014/01">January 2014</a> (4 posts)
+                  <ul>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  </ul>
+                </li>
+              
+                <li><a href="/2013/12">December 2013</a> (7 posts)
+                  <ul>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  </ul>
+                </li>
+              
+                <li><a href="/2013/11">November 2013</a> (7 posts)
+                  <ul>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  </ul>
+                </li>
+              
+                <li><a href="/2013/04">April 2013</a> (1 posts)
+                  <ul>
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                  </ul>
+                </li>
+              
+              </ul>
+          </div>
+        </div>
+        <div class="row-fluid">
+          <div class="span12 well">
+          <h2>Nuage de tags</h2>
+          <a style='font-size: 156%' href='/tags.html#podcast'>podcast</a>
+<a style='font-size: 80%' href='/tags.html#quiz'>quiz</a>
+<a style='font-size: 80%' href='/tags.html#retranscription'>retranscription</a>
+<a style='font-size: 80%' href='/tags.html#réponse'>réponse</a>
+<a style='font-size: 80%' href='/tags.html#star trek'>star trek</a>
+<a style='font-size: 80%' href='/tags.html#hébergement'>hébergement</a>
+<a style='font-size: 80%' href='/tags.html#nouveau disque'>nouveau disque</a>
+<a style='font-size: 80%' href='/tags.html#histoire'>histoire</a>
+<a style='font-size: 80%' href='/tags.html#seo'>seo</a>
+<a style='font-size: 80%' href='/tags.html#aide'>aide</a>
+<a style='font-size: 80%' href='/tags.html#découverte'>découverte</a>
+<a style='font-size: 194%' href='/tags.html#jekyll'>jekyll</a>
+<a style='font-size: 80%' href='/tags.html#bootstrap'>bootstrap</a>
+<a style='font-size: 80%' href='/tags.html#simulation'>simulation</a>
+<a style='font-size: 118%' href='/tags.html#plugins'>plugins</a>
+<a style='font-size: 80%' href='/tags.html#science-fiction'>science-fiction</a>
+<a style='font-size: 80%' href='/tags.html#nom de domaine'>nom de domaine</a>
+<a style='font-size: 80%' href='/tags.html#numérique'>numérique</a>
+<a style='font-size: 140%' href='/tags.html#rss'>rss</a>
+<a style='font-size: 80%' href='/tags.html#installation'>installation</a>
+<a style='font-size: 80%' href='/tags.html#disqus'>disqus</a>
+<a style='font-size: 80%' href='/tags.html#mathématiques'>mathématiques</a>
+<a style='font-size: 118%' href='/tags.html#archives'>archives</a>
+<a style='font-size: 80%' href='/tags.html#pensée critique'>pensée critique</a>
+<a style='font-size: 200%' href='/tags.html#science'>science</a>
+<a style='font-size: 118%' href='/tags.html#gandi'>gandi</a>
+<a style='font-size: 140%' href='/tags.html#podcastscience'>podcastscience</a>
+<a style='font-size: 80%' href='/tags.html#jekyll_ext'>jekyll_ext</a>
+<a style='font-size: 80%' href='/tags.html#Mountain Lion'>Mountain Lion</a>
+<a style='font-size: 80%' href='/tags.html#enfant'>enfant</a>
+<a style='font-size: 168%' href='/tags.html#livre'>livre</a>
+<a style='font-size: 118%' href='/tags.html#blog'>blog</a>
+<a style='font-size: 156%' href='/tags.html#github'>github</a>
+<a style='font-size: 80%' href='/tags.html#physique quantique'>physique quantique</a>
+<a style='font-size: 80%' href='/tags.html#Mac'>Mac</a>
+<a style='font-size: 80%' href='/tags.html#physique'>physique</a>
+<a style='font-size: 80%' href='/tags.html#boson de Higgs'>boson de Higgs</a>
+<a style='font-size: 118%' href='/tags.html#meta'>meta</a>
+
+          </div>
+        </div>
+        <div class="row-fluid">
+          <div class="span12 well">
+          <h2>Activité github</h2>
+          <iframe src="http://githubbadge.appspot.com/dloureiro?s=1&a=0" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+          </div>
+        </div>
+        <div class="row-fluid">
+          <div class="span12 well">
+          <h2>Liens intéressants</h2>
+          <ul>
+            <li>
+              <a href="https://github.com/dloureiro">Ma page Github</a>
+            </li>
+            <li>
+              <a href="http://fr.linkedin.com/in/davidloureiro/">Mon profil LinkedIn</a>
+            </li>            
+            <li>
+              <a href="https://twitter.com/DavidLoureiroFr">Mon compte Twitter</a>
+            </li>
+            <li>
+              <a href="http://www.sysfera.com">SysFera</a>
+            </li>
+            <li>
+              <a href="http://blog.sysfera.com">Le blog de SysFera</a>
+            </li>            
+            <li>
+              <a href="http://www.podcastscience.fm">Podcastscience</a>
+            </li>          
+          </ul>
+          </div>
+        </div>
+        <div class="row-fluid">
+          <div class="span12 well">
+          <h2>Syndication</h2>
+          <a href="feed.xml" class="zocial icon rss">Flux RSS des billets</a><br/>
+           <a href="http://dloureirogithub.disqus.com/latest.rss" class="zocial icon rss">Flux RSS des commentaires</a><br/> 
+          </div>
+        </div>
+      </div>
+    </div> <!-- row -->
+    <footer class="row-fluid">
+      <p>&copy; 2014 David Loureiro
+        avec l'aide de <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+        et <a href="http://github.com/dhulihan/hooligan" target="_blank">The Hooligan Theme</a>
+      </p>
+    </footer>
+  </div> <!-- /container -->
+
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="/assets/themes/hooligan/js/jquery.min.js"><\/script>')</script>
+  <script src="/assets/themes/hooligan/bootstrap/js/bootstrap.min.js"></script>
+
+  <script src="/assets/themes/hooligan/js/lunr.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/assets/themes/hooligan/js/mustache.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/assets/themes/hooligan/js/date.format.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/assets/themes/hooligan/js/URI.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/assets/themes/hooligan/js/jquery.lunr.search.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript">
+    $(function() {
+      $('#search-query').lunrSearch({
+        indexUrl: '/search.json',              // URL of the `search.json` index data for your site
+        results:  '#search-results',           // jQuery selector for the search results container
+        entries:  '.entries',                  // jQuery selector for the element to contain the results list, must be a child of the results element above.
+        template: '#search-results-template',  // jQuery selector for the Mustache.js template
+        regularContent: "#regularContent"      // jQuery selector for the regularContent to hide
+      });
+    });
+  </script>
+        
+<script id="search-results-template" type="text/mustache">
+  {{#entries}}
+    <article>
+      <h3>
+        {{#date}}<small><time datetime="{{pubdate}}" pubdate>{{displaydate}}</time></small>{{/date}}
+        <a href="{{url}}">{{title}}</a>
+      </h3>
+    </article>
+  {{/entries}}
+</script>
+
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41583825-1', 'dloureiro.github.io');
+  ga('send', 'pageview');
+
+</script>
+  
+</body>
+</html>
+
